@@ -22,6 +22,9 @@ The figures below presents Append and WebAnno interfaces for the English and Ara
 | <td colspan=9> Random <td colspan=9> Time-based |
 |-|-|
 
+  
+## Sample table
+
 | One    | Two | Three | Four    | Five  | Six | 
 |-|-|-|-|-|- |
 | Span <td colspan=3>triple  <td colspan=2>double |
