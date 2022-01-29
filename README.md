@@ -19,9 +19,9 @@ The figures below presents Append and WebAnno interfaces for the English and Ara
   
 ## Detailed Results
  
-  <td colspan=9>Random <td colspan=9>Time-based
-  -|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-
-  <td colspan=3>CRF <td colspan=3>BERT <td colspan=3>GPNE <td colspan=3>CRF <td colspan=3>BERT <td colspan=3>GPNE |
+  |<td colspan=9>Random <td colspan=9>Time-based|
+  |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+  |<td colspan=3>CRF <td colspan=3>BERT <td colspan=3>GPNE <td colspan=3>CRF <td colspan=3>BERT <td colspan=3>GPNE |
   | Event | P | R | F1 | P | R | F1 | P | R | F1 | P | R | F1 | P | R | F1 | P | R | F1 |
   |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
   | <td colspan=19>Type-less LMR  |
