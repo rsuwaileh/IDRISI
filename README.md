@@ -16,6 +16,9 @@ The tweet datasets naturally support two processing uses cases that are the rand
 ## Annotation Interfaces and instructions
 The figures below presents Append and WebAnno interfaces for the English and Arabic LMR annotation tasks, respectively. 
 
+  | One    | Two | Three | Four    | Five  | Six 
+  | -
+  | Span <td colspan=3>triple  <td colspan=2>double
   
 ## Detailed Results
  
