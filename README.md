@@ -18,16 +18,13 @@ The figures below presents Append and WebAnno interfaces for the English and Ara
 
   
 ## Detailed Results
-  
-| <td colspan=9> Random <td colspan=9> Time-based |
-|-|-|
+| Event                  | P    | R    | F1   | P    | R    | F1   | P    | R    | F1   | P    | R    | F1   | P    | R    | F1   | P    | R    | F1    |
 
-  
-## Sample table
+| <td colspan=19> Type-less LMR  |
+| Ecuador Earthquake     | 0.94 | 0.91 | 0.92 | 0.96 | 0.95 | 0.95 | 0.27 | 0.23 | 0.24 | 0.92 | 0.89 | 0.90 | 0.94 | 0.93 | 0.93 | 0.16 | 0.16 | 0.16  |
+| Canada Wildfires       | 0.74 | 0.75 | 0.73 | 0.74 | 0.76 | 0.74 | 0.43 | 0.46 | 0.44 | 0.77 | 0.75 | 0.75 | 0.80 | 0.80 | 0.79 | 0.09 | 0.10 | 0.09  |
+| Italy Earthquake       | 0.82 | 0.81 | 0.82 | 0.88 | 0.88 | 0.87 | 0.73 | 0.74 | 0.73 | 0.79 | 0.77 | 0.78 | 0.86 | 0.86 | 0.85 | 0.36 | 0.36 | 0.36  |
+ 
 
-| One    | Two | Three | Four    | Five  | Six | 
-|-|-|-|-|-|- |
-| Span <td colspan=3>triple  <td colspan=2>double |
-  
 ## Acknowledgments
 This work was made possible by the Graduate Sponsorship Research Award (GSRA) #GSRA5-1-0527-18082 from the Qatar National Research Fund (a member of Qatar Foundation). The statements made herein are solely the responsibility of the authors.
