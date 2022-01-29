@@ -23,6 +23,7 @@ The figures below presents Append and WebAnno interfaces for the English and Ara
   |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
   | <td colspan=3> CRF <td colspan=3> BERT <td colspan=3> GPNE <td colspan=3> CRF <td colspan=3> BERT <td colspan=3> GPNE |
   | Event | P | R | F1 | P | R | F1 | P | R | F1 | P | R | F1 | P | R | F1 | P | R | F1 |
+  |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
   | <td colspan=19> Type-less LMR  |
   | Ecuador Earthquake| 0.94 | 0.91 | 0.92 | 0.96 | 0.95 | 0.95 | 0.27 | 0.23 | 0.24 | 0.92 | 0.89 | 0.90 | 0.94 | 0.93 | 0.93 | 0.16 | 0.16 | 0.16 |
   | Canada Wildfires | 0.74 | 0.75 | 0.73 | 0.74 | 0.76 | 0.74 | 0.43 | 0.46 | 0.44 | 0.77 | 0.75 | 0.75 | 0.80 | 0.80 | 0.79 | 0.09 | 0.10 | 0.09 |
