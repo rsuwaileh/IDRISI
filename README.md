@@ -26,6 +26,7 @@ IDRISI-R<sub>EN</sub>|||||
 | Hurricane Dorian     | 2019/08/30 - 2019/09/02 | 7,660  | 1,300        | 492            | 1,260 (325)   | 
 | Pakistan Earthquake  | 2019/09/24 - 2019/09/26 | 1,991  | 767          | 129            | 1,403 (185)   | 
 | **Total**            |**2016/04/17 - 2019/09/26**|**77,196**| **20,514**     | **5,723**        | **21,879 (3,830)**|
+IDRISI-R<sub>AR</sub>	||||||
 | Jordan Floods        | 2018/10/25 - 2018/10/27 | 638    | 527          | 63             | 550 (97)       | 
 | Kuwait Floods        | 2018/04/11 - 2018/04/14 | 1,665  | 1,269        | 1              | 623 (67)       |
 | Cairo Bombing        | 2019/08/04 - 2019/08/04 | 369    | 268          | 777            | 939 (390)      | 
@@ -58,12 +59,11 @@ To show the characteristics of IDRISI-R, we conducted quantitative analysis. Und
 ## Detailed Results
 We benchmarked IDRISI using the available state-of-the-art NER and LMR models under different task and evaluation setups establishes solid baselines and enables direct comparison for future development. You can check the paper for detailes about the results. Below are the detailed results.
   
-  |<td colspan=9>Random <td colspan=9>Time-based|
-  |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-  |<td colspan=3>CRF <td colspan=3>BERT <td colspan=3>GPNE <td colspan=3>CRF <td colspan=3>BERT <td colspan=3>GPNE |
+  ||Random |||||||||Time-based|||||||||
+  ||CRF |||BERT|||GPNE|||CRF|||BERT |||GPNE|||
   | Event | P | R | F1 | P | R | F1 | P | R | F1 | P | R | F1 | P | R | F1 | P | R | F1 |
   |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-  | <td colspan=19>Type-less LMR  |
+  | <td colspan=19>Type-less LMR |||||||||||||||||||
   | Ecuador Earthquake| 0.94 | 0.91 | 0.92 | 0.96 | 0.95 | 0.95 | 0.27 | 0.23 | 0.24 | 0.92 | 0.89 | 0.90 | 0.94 | 0.93 | 0.93 | 0.16 | 0.16 | 0.16 |
   | Canada Wildfires | 0.74 | 0.75 | 0.73 | 0.74 | 0.76 | 0.74 | 0.43 | 0.46 | 0.44 | 0.77 | 0.75 | 0.75 | 0.80 | 0.80 | 0.79 | 0.09 | 0.10 | 0.09 |
   | Italy Earthquake | 0.82 | 0.81 | 0.82 | 0.88 | 0.88 | 0.87 | 0.73 | 0.74 | 0.73 | 0.79 | 0.77 | 0.78 | 0.86 | 0.86 | 0.85 | 0.36 | 0.36 | 0.36  |
