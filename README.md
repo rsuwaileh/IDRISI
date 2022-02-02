@@ -4,8 +4,7 @@ IDRISI-R is the largest-scale publicly-available Twitter LMR dataset, in both En
 IDRISI-R contains 41 disaster events of different types (e.g., floods, earthquakes) that occurred in a wide geographical area of English and Arabic speaking countries across continents. Around 20K and 4.6K human-labeled tweets (gold) are released for English and Arabic, respectively. Additionally, the first set of around 57K and 1.2M automatically-annotated tweets (sliver) are made available for the research community, for English and Arabic, respectively. The annotated LMs are also labeled for location types (e.g., city, streets, etc.) to enable advanced recognition and finer evaluation of LMR models. Below
 
 | *Event*              | *Date Range*            | *# Twt*|*# Twt<sub>gold</sub>*|*# Twt<sub>LM<sub>0</sub></sub>*| *# LMs (uniq)*  |
-| ---------------------|-------------------------| -------|----------------------|--------------------------------| ----------------||
-<td colspan=6>IDRISI-R<sub>EN</sub>|
+|-|-|-|-|-|-|
 | Ecuador Earthquake   | 2016/04/17 - 2016/04/18 | 1,594  | 1,153        | 205            | 1,178 (116)   | 
 | Canada Wildfires     | 2016/05/06 - 2016/05/27 | 2,259  | 1,300        | 277            | 1,333 (165)   | 
 | Italy Earthquake     | 2016/08/24 - 2016/08/29 | 1,240  | 590          | 360            | 284 (66)      | 
