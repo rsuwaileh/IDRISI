@@ -38,7 +38,7 @@ IDRISI-R<sub>AR</sub>	||||||
 
 
 ## Data Release
-<span style="color: red"> **Note**: we are not releasing the _test_ partitions since they will be part of the evaluation of a compitition that we will announce soon. </span>
+<span style="color: red"> **Note**: we are not releasing the _test_ partitions since they will be part of the evaluation of a competition  that we will announce soon. </span>
 
 The tweet datasets naturally support two processing uses cases that are the random and time-based scenarios. Also, they disaster domain imposes some constraints to consider while developing the LMR models. While considerin all these factors, we pack IDRISI-R for release to support research and comparison for different experimental use cases as follows:
 - IDRISI-<task>_<lang>_gold_random: the data for every event is randomly shuffled without complying to the nature of Twitter stream. We shuffle the dataset before we fed it to the model. This version is suitable for experimental evaluation of LMR models. 
