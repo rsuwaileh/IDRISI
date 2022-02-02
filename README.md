@@ -63,7 +63,7 @@ We benchmarked IDRISI using the available state-of-the-art NER and LMR models un
   |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
   ||CRF |||BERT|||GPNE|||CRF|||BERT |||GPNE|||
   | Event | P | R | F1 | P | R | F1 | P | R | F1 | P | R | F1 | P | R | F1 | P | R | F1 |
-  | <td colspan=19>Type-less LMR |||||||||||||||||||
+  | Type-less LMR |||||||||||||||||||
   | Ecuador Earthquake| 0.94 | 0.91 | 0.92 | 0.96 | 0.95 | 0.95 | 0.27 | 0.23 | 0.24 | 0.92 | 0.89 | 0.90 | 0.94 | 0.93 | 0.93 | 0.16 | 0.16 | 0.16 |
   | Canada Wildfires | 0.74 | 0.75 | 0.73 | 0.74 | 0.76 | 0.74 | 0.43 | 0.46 | 0.44 | 0.77 | 0.75 | 0.75 | 0.80 | 0.80 | 0.79 | 0.09 | 0.10 | 0.09 |
   | Italy Earthquake | 0.82 | 0.81 | 0.82 | 0.88 | 0.88 | 0.87 | 0.73 | 0.74 | 0.73 | 0.79 | 0.77 | 0.78 | 0.86 | 0.86 | 0.85 | 0.36 | 0.36 | 0.36  |
@@ -83,10 +83,30 @@ We benchmarked IDRISI using the available state-of-the-art NER and LMR models un
   | Midwestern U.S. Floods | 0.96 | 0.91 | 0.92 | 0.94 | 0.95 | 0.94 | 0.66 | 0.76 | 0.68 | 0.97 | 0.91 | 0.92 | 0.95 | 0.97 | 0.95 | 0.44 | 0.54 | 0.44  |
   | Hurricane Dorian       | 0.86 | 0.85 | 0.85 | 0.87 | 0.89 | 0.87 | 0.58 | 0.62 | 0.59 | 0.80 | 0.77 | 0.77 | 0.88 | 0.88 | 0.87 | 0.14 | 0.14 | 0.14  |
   | Pakistan Earthquake    | 0.90 | 0.89 | 0.88 | 0.89 | 0.91 | 0.89 | 0.50 | 0.34 | 0.38 | 0.87 | 0.87 | 0.85 | 0.86 | 0.90 | 0.87 | 0.11 | 0.08 | 0.09  |
+| Type-based LMR |||||||||||||||||||
+| Ecuador Earthquake -   | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 |  -   |  -   |  -   | 0.98 | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 |  -   |  -   |   -   |
+| Canada Wildfires ---   | 0.94 | 0.94 | 0.94 | 0.93 | 0.93 | 0.93 |  -   |  -   |  -   | 0.94 | 0.94 | 0.94 | 0.94 | 0.94 | 0.94 |  -   |  -   |   -   |
+| Italy Earthquake ---   | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 |  -   |  -   |  -   | 0.96 | 0.96 | 0.96 | 0.95 | 0.95 | 0.95 |  -   |  -   |   -   |
+| Kaikoura Earthquake    | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 |  -   |  -   |  -   | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 |  -   |  -   |   -   |
+| Hurricane Matthew --   | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 |  -   |  -   |  -   | 0.97 | 0.96 | 0.96 | 0.96 | 0.97 | 0.96 |  -   |  -   |   -   |
+| Sri Lanka Floods ---   | 0.95 | 0.94 | 0.94 | 0.93 | 0.93 | 0.93 |  -   |  -   |  -   | 0.97 | 0.97 | 0.97 | 0.94 | 0.95 | 0.94 |  -   |  -   |   -   |
+| Hurricane Harvey ---   | 0.97 | 0.97 | 0.97 | 0.98 | 0.98 | 0.98 |  -   |  -   |  -   | 0.98 | 0.97 | 0.97 | 0.98 | 0.98 | 0.98 |  -   |  -   |   -   |
+| Hurricane Irma -----   | 0.97 | 0.97 | 0.97 | 0.96 | 0.96 | 0.96 |  -   |  -   |  -   | 0.96 | 0.96 | 0.96 | 0.97 | 0.97 | 0.97 |  -   |  -   |   -   |
+| Hurricane Maria ----   | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 |  -   |  -   |  -   | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 |  -   |  -   |   -   |
+| Mexico Earthquake --   | 0.97 | 0.96 | 0.96 | 0.97 | 0.97 | 0.97 |  -   |  -   |  -   | 0.96 | 0.96 | 0.96 | 0.96 | 0.96 | 0.96 |  -   |  -   |   -   |
+| Maryland Floods ----   | 0.94 | 0.94 | 0.94 | 0.93 | 0.94 | 0.93 |  -   |  -   |  -   | 0.96 | 0.95 | 0.95 | 0.96 | 0.95 | 0.95 |  -   |  -   |   -   |
+| Greece Wildfires ---   | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 |  -   |  -   |  -   | 0.95 | 0.95 | 0.95 | 0.95 | 0.95 | 0.95 |  -   |  -   |   -   |
+| Kerala Floods ------   | 0.96 | 0.96 | 0.96 | 0.96 | 0.96 | 0.96 |  -   |  -   |  -   | 0.96 | 0.96 | 0.96 | 0.97 | 0.97 | 0.96 |  -   |  -   |   -   |
+| Hurricane Florence -   | 0.96 | 0.96 | 0.96 | 0.96 | 0.96 | 0.96 |  -   |  -   |  -   | 0.96 | 0.96 | 0.96 | 0.96 | 0.97 | 0.96 |  -   |  -   |   -   |
+| California Wildfires --| 0.98 | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 |  -   |  -   |  -   | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 |  -   |  -   |   -   |
+| Cyclone Idai -------   | 0.98 | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 |  -   |  -   |  -   | 0.98 | 0.97 | 0.97 | 0.97 | 0.98 | 0.97 |  -   |  -   |   -   |
+| Midwestern U.S. Floods | 0.98 | 0.97 | 0.97 | 0.98 | 0.98 | 0.98 |  -   |  -   |  -   | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 |  -   |  -   |   -   |
+| Hurricane Dorian ---   | 0.96 | 0.96 | 0.96 | 0.96 | 0.97 | 0.97 |  -   |  -   |  -   | 0.96 | 0.95 | 0.95 | 0.97 | 0.97 | 0.97 |  -   |  -   |   -   |
+| Pakistan Earthquake    | 0.94 | 0.94 | 0.94 | 0.95 | 0.95 | 0.95 |  -   |  -   |  -   | 0.93 | 0.93 | 0.93 | 0.94 | 0.94 | 0.93 |  -   |  -   |   -   |
 
   
 ## Citation
-'''
+```
   @article{rsuwaileh2022Idrisi-r,
     title={IDRISI-R: Large-scale English and Arabic Location Mention Recognition Datasets for Disaster Response over Twitter},
     author={Suwaileh, Reem and Elsayed, Tamer and Imran, Muhammad},
@@ -96,7 +116,7 @@ We benchmarked IDRISI using the available state-of-the-art NER and LMR models un
     year={2022},
     publisher={...}
   }
-'''
+```
   
 ## Acknowledgments
 This work was made possible by the Graduate Sponsorship Research Award (GSRA) #GSRA5-1-0527-18082 from the Qatar National Research Fund (a member of Qatar Foundation). The statements made herein are solely the responsibility of the authors.
