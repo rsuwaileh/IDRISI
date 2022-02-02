@@ -24,8 +24,7 @@ IDRISI-R contains 41 disaster events of different types (e.g., floods, earthquak
 | Midwest. US Floods   | 2019/03/25 - 2019/04/03 | 1,930  | 1,076        | 92             | 1,592 (189)   | 
 | Hurricane Dorian     | 2019/08/30 - 2019/09/02 | 7,660  | 1,300        | 492            | 1,260 (325)   | 
 | Pakistan Earthquake  | 2019/09/24 - 2019/09/26 | 1,991  | 767          | 129            | 1,403 (185)   | 
-| *Total*              |*2016/04/17 - 2019/09/26*|*77,196*| *20,514*     | *5,723*        | *21,879 (3,830)*||
-<td colspan=6>IDRISI-R<sub>AR</sub>|
+| **Total**            |**2016/04/17 - 2019/09/26**|**77,196**| **20,514**     | **5,723**        | **21,879 (3,830)**|
 | Jordan Floods        | 2018/10/25 - 2018/10/27 | 638    | 527          | 63             | 550 (97)       | 
 | Kuwait Floods        | 2018/04/11 - 2018/04/14 | 1,665  | 1,269        | 1              | 623 (67)       |
 | Cairo Bombing        | 2019/08/04 - 2019/08/04 | 369    | 268          | 777            | 939 (390)      | 
@@ -33,10 +32,8 @@ IDRISI-R contains 41 disaster events of different types (e.g., floods, earthquak
 | Dragon Storms        | 2020/03/12 - 2020/03/15 | 427    | 305          | 46             | 752 (172)      | 
 | Beirut Explosion     | 2020/08/04 - 2020/08/04 | 420    | 349          | 107            | 897 (177)      | 
 | CoVID-19             | 2019/12/01 - ongoing    | 2005   | 1361         | 503            | 1,137 (275)    | 
-| *Total*              | *2018/10/25 - ongoing*  | *1,027*| *4,593*      | *1,619*        | *5,236 (1,370)*| 
+| **Total**            | **2018/10/25 - ongoing**|**1,027**| **4,593**   | **1,619**      | **5,236 (1,370)**| 
 
-
-In the paper, we conducted quantitative and qualitative analyses that demonstrate IDRISI-R to be second to none in enabling research for LMR task. Moreover, benchmarking \idr{} using the available state-of-the-art NER and LMR models under different task and evaluation setups establishes solid baselines and enables direct comparison for future development.
 
 ## Data Release
 The tweet datasets naturally support two processing uses cases that are the random and time-based scenarios. Also, they disaster domain imposes some constraints to consider while developing the LMR models. While considerin all these factors, we pack IDRISI-R for release to support research and comparison for different experimental use cases as follows:
@@ -53,12 +50,13 @@ The tweet datasets naturally support two processing uses cases that are the rand
 ## Annotation Interfaces and instructions
 The figures below presents Append and WebAnno interfaces for the English and Arabic LMR annotation tasks, respectively. 
 
-  | One    | Two | Three | Four    | Five  | Six 
-  | -
-  | Span <td colspan=3>triple  <td colspan=2>double
-  
+
+## Statistics
+To show the characteristics of IDRISI-R, we conducted quantitative analysis. Under the [notebooks]() you can regenerate the geographical, temporal, informativeness, location granularity, and the Arabic dialects distributions.
+
 ## Detailed Results
- 
+We benchmarked IDRISI using the available state-of-the-art NER and LMR models under different task and evaluation setups establishes solid baselines and enables direct comparison for future development. You can check the paper for detailes about the results. Below are the detailed results.
+  
   |<td colspan=9>Random <td colspan=9>Time-based|
   |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
   |<td colspan=3>CRF <td colspan=3>BERT <td colspan=3>GPNE <td colspan=3>CRF <td colspan=3>BERT <td colspan=3>GPNE |
@@ -85,5 +83,19 @@ The figures below presents Append and WebAnno interfaces for the English and Ara
   | Hurricane Dorian       | 0.86 | 0.85 | 0.85 | 0.87 | 0.89 | 0.87 | 0.58 | 0.62 | 0.59 | 0.80 | 0.77 | 0.77 | 0.88 | 0.88 | 0.87 | 0.14 | 0.14 | 0.14  |
   | Pakistan Earthquake    | 0.90 | 0.89 | 0.88 | 0.89 | 0.91 | 0.89 | 0.50 | 0.34 | 0.38 | 0.87 | 0.87 | 0.85 | 0.86 | 0.90 | 0.87 | 0.11 | 0.08 | 0.09  |
 
+  
+## Citation
+'''
+  @article{rsuwaileh2022Idrisi-r,
+    title={IDRISI-R: Large-scale English and Arabic Location Mention Recognition Datasets for Disaster Response over Twitter},
+    author={Suwaileh, Reem and Elsayed, Tamer and Imran, Muhammad},
+    journal={...},
+    volume={...},
+    pages={...},
+    year={2022},
+    publisher={...}
+  }
+'''
+  
 ## Acknowledgments
 This work was made possible by the Graduate Sponsorship Research Award (GSRA) #GSRA5-1-0527-18082 from the Qatar National Research Fund (a member of Qatar Foundation). The statements made herein are solely the responsibility of the authors.
