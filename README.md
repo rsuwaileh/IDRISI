@@ -16,7 +16,7 @@ The tweet datasets naturally support two processing **_setups_** that are:
 - `time-based`: tweets are chronologically-ordered.
 - `random`: tweets are shuffled randonly while discarding their timestamps.
  
-We pack the datasets in both `JSONL` and `BILOU` **_formats_**:
+We release the datasets in both `JSONL` and `BILOU` **_formats_**:
 - `BILOU`:  NER token-based annotation scheme with 5 classes: Beginning, Inside, Last, Outside, and Unit.
 - `JSONL`: every lines corresponds to one tweet with the following properties: `tweet_id`, `user_id`, `text`, `created_at`, `info_class` adoptted from humAID and Kwaraith datasets, and `location_mentions`. 
 
