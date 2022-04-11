@@ -1,7 +1,46 @@
 # IDRISI
-IDRISI-R is the largest-scale publicly-available Twitter LMR dataset, in both English and Arabic languages. Named after [_Muhammad Al-Idrisi_](https://en.wikipedia.org/wiki/Muhammad_al-Idrisi), who is one of the pioneers and founders of advanced geography. The "R" refers to the **r**ecognition task. 
+**IDRISI-R** is the largest-scale publicly-available Twitter Location Mention Recognition (LMR) dataset, in both English and Arabic languages. Named after [_Muhammad Al-Idrisi👳🏻‍♂️_](https://en.wikipedia.org/wiki/Muhammad_al-Idrisi), who is one of the pioneers and founders of the advanced geography. The "R" refers to the **r**ecognition task. IDRISI-R contains 41 disaster events of different types (e.g., floods, earthquakes, fires, etc.) that occurred in a wide geographical area of the English and Arabic speaking countries across continents. The annotated LMs were also labeled for different coarse- and fine-grained location types (e.g., city, streets, etc.). The detaied statistics are provided below.
 
-IDRISI-R contains 41 disaster events of different types (e.g., floods, earthquakes) that occurred in a wide geographical area of English and Arabic speaking countries across continents. Around 20K and 4.6K human-labeled tweets (gold) are released for English and Arabic, respectively. Additionally, the first set of around 57K and 1.2M automatically-annotated tweets (sliver) are made available for the research community, for English and Arabic, respectively. The annotated LMs are also labeled for location types (e.g., city, streets, etc.) to enable advanced recognition and finer evaluation of LMR models. Below
+
+## Data Release
+
+You can download the IDRISI-R datasets from `data` directory that has the following naming structure: `data/LMR/<language>/<version>-<setup>-<format>`
+
+**⚠️ Note**: we are not releasing the _test_ partitions of all datasets since they will be part of the evaluation of a competition called "_Location Mention Recognition from Social Media Text_" that we will announce soon.
+
+**IDRISI-R** is released in two **_versions_**: 
+- `gold`: Around 20K and 4.6K human-labeled tweets for English and Arabic, respectively. The annotation was done using crowd wrokersa dn in-house worker for English and Arabic, respectively. 
+- `silver`: around 57K and 1.2M automatically-annotated English and Arabic tweets, respectively. The annotation was done using best performing LMR models.
+
+The tweet datasets naturally support two processing **_setups_** that are:
+- `time-based`: tweets are chronologically-ordered.
+- `random`: tweets are shuffled randonly while discarding their timestamps.
+ 
+We pack the datasets in both `JSONL` and `BILOU` **_formats_**:
+- `BILOU`:  NER token-based annotation scheme with 5 classes: Beginning, Inside, Last, Outside, and Unit.
+- `JSONL`: every lines corresponds to one tweet with the following properties: `tweet_id`, `user_id`, `text`, `created_at`, `info_class` adoptted from humAID and Kwaraith datasets, and `location_mentions`. 
+
+Example:
+```
+{
+  "tweet_id": "1061497252806414336",
+  "user_id": "886453870120976384",
+  "text": "Please read below!! Another devastating fire has hit Northern California, people need help, whatever you can give, or anyway you can help, please!!",
+  "created_at": "Sun Nov 11 05:54:01 +0000 2018",
+  "info_class": "requests_or_urgent_needs",
+  "location_mentions": [
+    {
+      "text": "Northern California",
+      "type": "STAT",
+      "startIdx": 53,
+      "endIdx": 72
+    }
+  ]
+}
+```
+
+The `gold` version is available for both setups and formats. The `silver` version is available for `random` setup and `JSONL` format only.
+
 
 | *Event*              | *Date Range*            | *# Twt*|*# Twt<sub>gold</sub>*|*# Twt<sub>LM<sub>0</sub></sub>*| *# LMs (uniq)*  |
 |:-|:-|:-|:-|:-|:-|
@@ -37,18 +76,7 @@ IDRISI-R<sub>AR</sub>	||||||
 | **Total**            | **2018/10/25 - ongoing**|**1,027**| **4,593**   | **1,619**      | **5,236 (1,370)**| 
 
 
-## Data Release
-<span style="color: red"> **Note**: we are not releasing the _test_ partitions since they will be part of the evaluation of a competition  that we will announce soon. </span>
 
-The tweet datasets naturally support two processing uses cases that are the random and time-based scenarios. Also, they disaster domain imposes some constraints to consider while developing the LMR models. While considerin all these factors, we pack IDRISI-R for release to support research and comparison for different experimental use cases as follows:
-- IDRISI-<task>_<lang>_gold_random: the data for every event is randomly shuffled without complying to the nature of Twitter stream. We shuffle the dataset before we fed it to the model. This version is suitable for experimental evaluation of LMR models. 
-- IDRISI-<task>_<lang>_gold_timebased: the data of every event is chronologically order to simulate real-world scenarios of stream LMR systems. 
-- IDRISI-<task>_<lang>_silver: the data for every event is randomly shuffled and automatically-labeled using BERT-based LMR model. 
-- IDRISI-<task>_<lang>_gold_transfere: ...
-  
-  We provide our data in two formats: 
-  (1) _JSON format_ containing, tweet id, text, timestamp, user id, information class (inherited from [humAID](https://crisisnlp.qcri.org/humaid_dataset) and [Kawarith](https://github.com/alaa-a-a/kawarith) English and Arabic datasets, respectively), and list of LMs. Each LM contains its span extracted from the tweet text, the start and end offsets, and the location type. This format give developers the choice to experiment with different processing techniques such as using different tokenization methods, exploring different context expansion methods, employing the social network (recrawled by the tweet ids and user ids), etc. 
-  (2) \textit{BILOU format} with 5 position tags (Beginning, Inside, Last, Outside, and Unit), containing only the tokenized text using [SpaCy](https://spacy.io/) and [BreakIterator](https://docs.oracle.com/javase/8/docs/api/java/text/BreakIterator.html) tokenizers for English and Arabic datasets, respectively. We provide the data in BILOU format due to its better performance over the commonly adopted _BIO_ scheme. We further release the IDs of the _sliver_ subsets of IDRISI-R_EN and IDRISI-R_AR. We further make the models, example notebooks to train and run them available for the research community, and the datasets parsing and processing scripts.
  
   
 ## Annotation Interfaces and instructions
@@ -57,54 +85,6 @@ The figures below presents Append and WebAnno interfaces for the English and Ara
 
 ## Statistics
 To show the characteristics of IDRISI-R, we conducted quantitative analysis. Under the [notebooks]() you can regenerate the geographical, temporal, informativeness, location granularity, and the Arabic dialects distributions.
-
-## Detailed Results
-We benchmarked IDRISI using the available state-of-the-art NER and LMR models under different task and evaluation setups establishes solid baselines and enables direct comparison for future development. You can check the paper for detailes about the results. Below are the detailed results.
-  
-  ||Random |||||||||Time-based|||||||||
-  |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-  ||CRF |||BERT|||GPNE|||CRF|||BERT |||GPNE|||
-  | Event | P | R | F1 | P | R | F1 | P | R | F1 | P | R | F1 | P | R | F1 | P | R | F1 |
-  | Type-less LMR |||||||||||||||||||
-  | Ecuador Earthquake| 0.94 | 0.91 | 0.92 | 0.96 | 0.95 | 0.95 | 0.27 | 0.23 | 0.24 | 0.92 | 0.89 | 0.90 | 0.94 | 0.93 | 0.93 | 0.16 | 0.16 | 0.16 |
-  | Canada Wildfires | 0.74 | 0.75 | 0.73 | 0.74 | 0.76 | 0.74 | 0.43 | 0.46 | 0.44 | 0.77 | 0.75 | 0.75 | 0.80 | 0.80 | 0.79 | 0.09 | 0.10 | 0.09 |
-  | Italy Earthquake | 0.82 | 0.81 | 0.82 | 0.88 | 0.88 | 0.87 | 0.73 | 0.74 | 0.73 | 0.79 | 0.77 | 0.78 | 0.86 | 0.86 | 0.85 | 0.36 | 0.36 | 0.36  |
-  | Kaikoura Earthquake    | 0.88 | 0.87 | 0.87 | 0.92 | 0.92 | 0.91 | 0.60 | 0.60 | 0.59 | 0.91 | 0.88 | 0.88 | 0.91 | 0.89 | 0.89 | 0.17 | 0.17 | 0.17  |
-  | Hurricane Matthew      | 0.94 | 0.89 | 0.90 | 0.96 | 0.94 | 0.94 | 0.15 | 0.14 | 0.14 | 0.96 | 0.92 | 0.93 | 0.94 | 0.96 | 0.94 | 0.04 | 0.04 | 0.04  |
-  | Sri Lanka Floods       | 0.90 | 0.85 | 0.87 | 0.90 | 0.90 | 0.89 | 0.43 | 0.45 | 0.42 | 0.92 | 0.88 | 0.89 | 0.94 | 0.94 | 0.94 | 0.20 | 0.26 | 0.21  |
-  | Hurricane Harvey       | 0.90 | 0.88 | 0.89 | 0.91 | 0.90 | 0.90 | 0.36 | 0.47 | 0.40 | 0.87 | 0.86 | 0.87 | 0.89 | 0.89 | 0.89 | 0.11 | 0.11 | 0.11  |
-  | Hurricane Irma         | 0.79 | 0.78 | 0.78 | 0.85 | 0.85 | 0.84 | 0.34 | 0.45 | 0.37 | 0.80 | 0.79 | 0.79 | 0.83 | 0.83 | 0.82 | 0.11 | 0.11 | 0.11  |
-  | Hurricane Maria        | 0.91 | 0.88 | 0.88 | 0.92 | 0.91 | 0.91 | 0.45 | 0.56 | 0.48 | 0.89 | 0.85 | 0.86 | 0.92 | 0.94 | 0.92 | 0.19 | 0.22 | 0.19  |
-  | Mexico Earthquake      | 0.93 | 0.91 | 0.92 | 0.93 | 0.93 | 0.93 | 0.79 | 0.80 | 0.78 | 0.91 | 0.87 | 0.88 | 0.93 | 0.92 | 0.92 | 0.35 | 0.34 | 0.34  |
-  | Maryland Floods        | 0.93 | 0.89 | 0.90 | 0.92 | 0.90 | 0.90 | 0.74 | 0.80 | 0.75 | 0.94 | 0.79 | 0.83 | 0.87 | 0.81 | 0.82 | 0.45 | 0.47 | 0.43  |
-  | Greece Wildfires       | 0.95 | 0.93 | 0.93 | 0.93 | 0.93 | 0.92 | 0.83 | 0.80 | 0.79 | 0.91 | 0.88 | 0.88 | 0.90 | 0.89 | 0.88 | 0.45 | 0.39 | 0.39  |
-  | Kerala Floods          | 0.87 | 0.83 | 0.84 | 0.89 | 0.90 | 0.88 | 0.69 | 0.69 | 0.66 | 0.93 | 0.88 | 0.89 | 0.93 | 0.93 | 0.92 | 0.29 | 0.30 | 0.27  |
-  | Hurricane Florence     | 0.77 | 0.73 | 0.74 | 0.80 | 0.78 | 0.78 | 0.43 | 0.55 | 0.47 | 0.77 | 0.75 | 0.75 | 0.81 | 0.80 | 0.79 | 0.13 | 0.14 | 0.13  |
-  | California Wildfires   | 0.91 | 0.89 | 0.89 | 0.92 | 0.93 | 0.92 | 0.72 | 0.77 | 0.73 | 0.92 | 0.89 | 0.90 | 0.90 | 0.90 | 0.89 | 0.30 | 0.33 | 0.30  |
-  | Cyclone Idai           | 0.93 | 0.88 | 0.89 | 0.94 | 0.92 | 0.92 | 0.26 | 0.23 | 0.24 | 0.91 | 0.87 | 0.88 | 0.91 | 0.90 | 0.90 | 0.17 | 0.17 | 0.17  |
-  | Midwestern U.S. Floods | 0.96 | 0.91 | 0.92 | 0.94 | 0.95 | 0.94 | 0.66 | 0.76 | 0.68 | 0.97 | 0.91 | 0.92 | 0.95 | 0.97 | 0.95 | 0.44 | 0.54 | 0.44  |
-  | Hurricane Dorian       | 0.86 | 0.85 | 0.85 | 0.87 | 0.89 | 0.87 | 0.58 | 0.62 | 0.59 | 0.80 | 0.77 | 0.77 | 0.88 | 0.88 | 0.87 | 0.14 | 0.14 | 0.14  |
-  | Pakistan Earthquake    | 0.90 | 0.89 | 0.88 | 0.89 | 0.91 | 0.89 | 0.50 | 0.34 | 0.38 | 0.87 | 0.87 | 0.85 | 0.86 | 0.90 | 0.87 | 0.11 | 0.08 | 0.09  |
-| Type-based LMR |||||||||||||||||||
-| Ecuador Earthquake     | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 |  -   |  -   |  -   | 0.98 | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 |  -   |  -   |   -   |
-| Canada Wildfires       | 0.94 | 0.94 | 0.94 | 0.93 | 0.93 | 0.93 |  -   |  -   |  -   | 0.94 | 0.94 | 0.94 | 0.94 | 0.94 | 0.94 |  -   |  -   |   -   |
-| Italy Earthquake       | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 |  -   |  -   |  -   | 0.96 | 0.96 | 0.96 | 0.95 | 0.95 | 0.95 |  -   |  -   |   -   |
-| Kaikoura Earthquake    | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 |  -   |  -   |  -   | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 |  -   |  -   |   -   |
-| Hurricane Matthew      | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 |  -   |  -   |  -   | 0.97 | 0.96 | 0.96 | 0.96 | 0.97 | 0.96 |  -   |  -   |   -   |
-| Sri Lanka Floods       | 0.95 | 0.94 | 0.94 | 0.93 | 0.93 | 0.93 |  -   |  -   |  -   | 0.97 | 0.97 | 0.97 | 0.94 | 0.95 | 0.94 |  -   |  -   |   -   |
-| Hurricane Harvey       | 0.97 | 0.97 | 0.97 | 0.98 | 0.98 | 0.98 |  -   |  -   |  -   | 0.98 | 0.97 | 0.97 | 0.98 | 0.98 | 0.98 |  -   |  -   |   -   |
-| Hurricane Irma         | 0.97 | 0.97 | 0.97 | 0.96 | 0.96 | 0.96 |  -   |  -   |  -   | 0.96 | 0.96 | 0.96 | 0.97 | 0.97 | 0.97 |  -   |  -   |   -   |
-| Hurricane Maria        | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 |  -   |  -   |  -   | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 |  -   |  -   |   -   |
-| Mexico Earthquake      | 0.97 | 0.96 | 0.96 | 0.97 | 0.97 | 0.97 |  -   |  -   |  -   | 0.96 | 0.96 | 0.96 | 0.96 | 0.96 | 0.96 |  -   |  -   |   -   |
-| Maryland Floods        | 0.94 | 0.94 | 0.94 | 0.93 | 0.94 | 0.93 |  -   |  -   |  -   | 0.96 | 0.95 | 0.95 | 0.96 | 0.95 | 0.95 |  -   |  -   |   -   |
-| Greece Wildfires       | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 |  -   |  -   |  -   | 0.95 | 0.95 | 0.95 | 0.95 | 0.95 | 0.95 |  -   |  -   |   -   |
-| Kerala Floods          | 0.96 | 0.96 | 0.96 | 0.96 | 0.96 | 0.96 |  -   |  -   |  -   | 0.96 | 0.96 | 0.96 | 0.97 | 0.97 | 0.96 |  -   |  -   |   -   |
-| Hurricane Florence     | 0.96 | 0.96 | 0.96 | 0.96 | 0.96 | 0.96 |  -   |  -   |  -   | 0.96 | 0.96 | 0.96 | 0.96 | 0.97 | 0.96 |  -   |  -   |   -   |
-| California Wildfires   | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 |  -   |  -   |  -   | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 |  -   |  -   |   -   |
-| Cyclone Idai           | 0.98 | 0.97 | 0.97 | 0.97 | 0.97 | 0.97 |  -   |  -   |  -   | 0.98 | 0.97 | 0.97 | 0.97 | 0.98 | 0.97 |  -   |  -   |   -   |
-| Midwestern U.S. Floods | 0.98 | 0.97 | 0.97 | 0.98 | 0.98 | 0.98 |  -   |  -   |  -   | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 | 0.98 |  -   |  -   |   -   |
-| Hurricane Dorian       | 0.96 | 0.96 | 0.96 | 0.96 | 0.97 | 0.97 |  -   |  -   |  -   | 0.96 | 0.95 | 0.95 | 0.97 | 0.97 | 0.97 |  -   |  -   |   -   |
-| Pakistan Earthquake    | 0.94 | 0.94 | 0.94 | 0.95 | 0.95 | 0.95 |  -   |  -   |  -   | 0.93 | 0.93 | 0.93 | 0.94 | 0.94 | 0.93 |  -   |  -   |   -   |
 
   
 ## Citation
