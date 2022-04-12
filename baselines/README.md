@@ -1,5 +1,20 @@
+## LMR models 
+To establishe solid baselines and enables direct comparison for future development, we benchmarked IDRISI using the available state-of-the-art NER and LMR models under different task and evaluation setups. More details on the models and setups exist in the article (to be made available soon).
+
+**English models**:
+- CRF: we adopted the Conditional Random Fields models from the [crfsuite library](https://sklearn-crfsuite.readthedocs.io/). To run this model, run the examples in `en-crf` notebook. 
+- BERT: we adopted the NER example of [HuggingFace library](https://huggingface.co/). To run this model, follow the steps in [this forked version](https://github.com/rsuwaileh/transformers/tree/master/examples/ner).
+- GazPNE: we run a free annotations LMR model that achieved the SOTA results. We note that GazePNE achieved SOTA results under different evaluation assumptions than ours such as (1) focusing on detecting location within the affected area, and (2) using different flood-focused datasets for testing. To run this model, check the guidelines in [its original repository](https://github.com/uhuohuy/GazPNE).
+
+**Arabic models**:
+- CML: we used the CAMeLBERT-Mix NER model that is trained on the ANERcorp dataset. ANERcorp contains Moden Standard Arabic (MSA), Dialectal Arabic (DA), and Classical Arabic (CA) data. To run the model, follow the steps here(https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-mix-ner). To run this model, run the examples in `ar-ner` notebook.
+- FRSA: we used the commonly used NER model called Farasa through it [REST API](https://farasa.qcri.org/NER/). To run this model, run the examples in `ar-ner` notebook.
+- CRF: similar to English, we trained a CRF model due to its competetive performance. To run this model, run the examples in `ar-crf` notebook.
+- BERT: similar to English, we trained a BERT-based LMR modelusing the MARBERT Arabic model. To run this model, run the examples in `ar-bert` notebook.
+
+
 ## Detailed Results
-We benchmarked IDRISI using the available state-of-the-art NER and LMR models under different task and evaluation setups establishes solid baselines and enables direct comparison for future development. You can check the paper for detailes about the results. Below are the detailed results.
+Below are the detailed results using Precision, Recall, and F1 measures. We use different evaluation setups that we elaborate on in the article (to be made available soon).
   
   ||Random |||||||||Time-based|||||||||
   |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
