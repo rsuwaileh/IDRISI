@@ -3,8 +3,8 @@ To establishe solid baselines and enables direct comparison for future developme
 
 **English models**:
 - CRF: we adopted the Conditional Random Fields models from the [crfsuite library](https://sklearn-crfsuite.readthedocs.io/). To run this model, run the examples in `en-crf` notebook. 
-- BERT: we adopted the NER example of [HuggingFace library](https://huggingface.co/). To run this model, follow the steps in [this forked version](https://github.com/rsuwaileh/transformers/tree/master/examples/ner).
-- GazPNE: we run a free annotations LMR model that achieved the SOTA results. We note that GazePNE achieved SOTA results under different evaluation assumptions than ours such as (1) focusing on detecting location within the affected area, and (2) using different flood-focused datasets for testing. To run this model, check the guidelines in [its original repository](https://github.com/uhuohuy/GazPNE).
+- BERT: we adopted the NER example of [HuggingFace](https://huggingface.co/) library. To run this model, follow the steps in [this forked version](https://github.com/rsuwaileh/transformers/tree/master/examples/ner).
+- GazPNE: we run a free annotations LMR model that achieved the SOTA results. We note that GazPNE achieved SOTA results under different evaluation assumptions than ours such as (1) focusing on detecting location within the affected area, and (2) using different flood-focused datasets for testing. To run this model, check the guidelines in [its original repository](https://github.com/uhuohuy/GazPNE).
 
 **Arabic models**:
 - CML: we used the CAMeLBERT-Mix NER model that is trained on the ANERcorp dataset. ANERcorp contains Moden Standard Arabic (MSA), Dialectal Arabic (DA), and Classical Arabic (CA) data. To run the model, follow the steps here(https://huggingface.co/CAMeL-Lab/bert-base-arabic-camelbert-mix-ner). To run this model, run the examples in `ar-ner` notebook.
