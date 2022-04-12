@@ -16,7 +16,7 @@ To establishe solid baselines and enables direct comparison for future developme
 ## Detailed Results
 Below are the detailed results using Precision, Recall, and F1 measures. We use different evaluation setups that we elaborate on in the article (to be made available soon).
 
-**English Results **
+### English Results
 
   ||Random |||||||||Time-based|||||||||
   |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
@@ -64,7 +64,8 @@ Below are the detailed results using Precision, Recall, and F1 measures. We use 
 | Pakistan Earthquake    | 0.94 | 0.94 | 0.94 | 0.95 | 0.95 | 0.95 |  -   |  -   |  -   | 0.93 | 0.93 | 0.93 | 0.94 | 0.94 | 0.93 |  -   |  -   |   -   |
 
 
-**Arabic Results **
+
+### Arabic Results
 
 ||Random ||||||||||||Time-based||||||||||||
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
@@ -88,9 +89,11 @@ Below are the detailed results using Precision, Recall, and F1 measures. We use 
 | CoVID-19 | 0.89 | 0.89 | 0.89 | 0.91 | 0.91 | 0.91 | - | - | - | - | - | - | 0.85 | 0.85 | 0.85 | 0.86 | 0.86 | 0.86 | - | - | - | - | - | -  |
 
 
+
 The F1 results of CAMeLBERT models on IDRISI-R__AR_. The best score is boldfaced per dataset per experimental scenario.
 
-|| Random ||||| Time-based|||||
+
+|| Random |||| Time-based||||
 |-|-|-|-|-|-|-|-|-|
 | Event | CA | MSA | DA | MIX | CA | MSA | DA | MIX |
 | Jordan Floods | 0.378 | **0.543** | 0.326 | 0.517 | 0.377 | **0.499** | 0.340 | 0.491 |
