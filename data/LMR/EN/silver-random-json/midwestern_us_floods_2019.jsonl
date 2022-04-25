@@ -1,0 +1,854 @@
+{"tweet_id": "1112455297317175296", "location_mentions": [{"text": "Kansas", "type": "STAT", "startIdx": 22, "endIdx": 28}, {"text": "Nebraska", "type": "STAT", "startIdx": 111, "endIdx": 119}]}
+{"tweet_id": "1111475176649248769", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 152, "endIdx": 160}]}
+{"tweet_id": "1110915087378702336", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 47, "endIdx": 55}]}
+{"tweet_id": "1111732328664100865", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 176, "endIdx": 184}]}
+{"tweet_id": "1112708438390460416", "location_mentions": [{"text": "Richardson", "type": "CNTY", "startIdx": 47, "endIdx": 57}]}
+{"tweet_id": "1110721100219064321", "location_mentions": [{"text": "Puerto Rico", "type": "ISL", "startIdx": 79, "endIdx": 90}, {"text": "Nebraska", "type": "STAT", "startIdx": 128, "endIdx": 136}, {"text": "Charlottesville", "type": "CITY", "startIdx": 159, "endIdx": 174}]}
+{"tweet_id": "1111730354677641217", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 52, "endIdx": 60}]}
+{"tweet_id": "1111746149248106501", "location_mentions": [{"text": "America", "type": "CONT", "startIdx": 40, "endIdx": 47}, {"text": "Nebraska", "type": "STAT", "startIdx": 73, "endIdx": 81}, {"text": "Arkansas", "type": "STAT", "startIdx": 106, "endIdx": 114}]}
+{"tweet_id": "1110937598111948801", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 32, "endIdx": 40}]}
+{"tweet_id": "1110682296191983622", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 9, "endIdx": 17}]}
+{"tweet_id": "1112411427397165056", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 133, "endIdx": 141}]}
+{"tweet_id": "1110374612825718784", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 77, "endIdx": 85}]}
+{"tweet_id": "1112548838500458496", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 217, "endIdx": 225}]}
+{"tweet_id": "1112486870762573825", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 27, "endIdx": 35}]}
+{"tweet_id": "1110986070747832320", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 23, "endIdx": 31}]}
+{"tweet_id": "1111770314474774528", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 46, "endIdx": 54}, {"text": "South Dakota", "type": "STAT", "startIdx": 61, "endIdx": 73}]}
+{"tweet_id": "1112321569387364353", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 36, "endIdx": 44}, {"text": "Iowa", "type": "STAT", "startIdx": 46, "endIdx": 50}, {"text": "Missouri", "type": "STAT", "startIdx": 52, "endIdx": 60}]}
+{"tweet_id": "1111355640415424512", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 103, "endIdx": 111}]}
+{"tweet_id": "1111513602580602880", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 50, "endIdx": 54}, {"text": "Missouri", "type": "STAT", "startIdx": 56, "endIdx": 64}, {"text": "Nebraska", "type": "STAT", "startIdx": 83, "endIdx": 91}, {"text": "Kansas", "type": "STAT", "startIdx": 212, "endIdx": 218}]}
+{"tweet_id": "1113264139265351680", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 34, "endIdx": 42}, {"text": "Iowa", "type": "STAT", "startIdx": 47, "endIdx": 51}]}
+{"tweet_id": "1111251591934414848", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1112915844709994496", "location_mentions": []}
+{"tweet_id": "1110774532418105346", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 0, "endIdx": 4}, {"text": "Nebraska", "type": "STAT", "startIdx": 6, "endIdx": 14}, {"text": "America", "type": "CONT", "startIdx": 30, "endIdx": 37}]}
+{"tweet_id": "1113085135602118657", "location_mentions": [{"text": "nebraska", "type": "STAT", "startIdx": 122, "endIdx": 130}]}
+{"tweet_id": "1112862467695230977", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 26, "endIdx": 34}, {"text": "Iowa", "type": "STAT", "startIdx": 35, "endIdx": 39}, {"text": "Missouri", "type": "STAT", "startIdx": 40, "endIdx": 48}, {"text": "Nebraska", "type": "STAT", "startIdx": 26, "endIdx": 34}]}
+{"tweet_id": "1110931880189280256", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 58, "endIdx": 66}]}
+{"tweet_id": "1110978436762222592", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 3, "endIdx": 11}]}
+{"tweet_id": "1110766082715865088", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 66, "endIdx": 74}, {"text": "Iowa", "type": "STAT", "startIdx": 87, "endIdx": 91}]}
+{"tweet_id": "1110715060471676931", "location_mentions": [{"text": "Arkansas", "type": "STAT", "startIdx": 37, "endIdx": 45}, {"text": "Nebraska", "type": "STAT", "startIdx": 67, "endIdx": 75}]}
+{"tweet_id": "1110792522878484481", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 78, "endIdx": 86}]}
+{"tweet_id": "1110949669964840960", "location_mentions": [{"text": "Nebraska-Strong", "type": "STAT", "startIdx": 0, "endIdx": 15}]}
+{"tweet_id": "1113201355328327680", "location_mentions": [{"text": "NEBRASKA", "type": "STAT", "startIdx": 73, "endIdx": 81}]}
+{"tweet_id": "1112012665855971328", "location_mentions": [{"text": "Omaha", "type": "CITY", "startIdx": 89, "endIdx": 94}, {"text": "Nebraska", "type": "STAT", "startIdx": 96, "endIdx": 104}, {"text": "Washington", "type": "STAT", "startIdx": 188, "endIdx": 198}]}
+{"tweet_id": "1110549578389090310", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1111231866034630656", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 119, "endIdx": 127}]}
+{"tweet_id": "1111530647238201344", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 35, "endIdx": 43}]}
+{"tweet_id": "1111110587889651713", "location_mentions": [{"text": "USA", "type": "CTRY", "startIdx": 16, "endIdx": 19}, {"text": "LINCOLN", "type": "CITY", "startIdx": 226, "endIdx": 233}, {"text": "NEBRASKA", "type": "STAT", "startIdx": 234, "endIdx": 242}]}
+{"tweet_id": "1112069120441442304", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 33, "endIdx": 41}]}
+{"tweet_id": "1111014470724259842", "location_mentions": [{"text": "US", "type": "CTRY", "startIdx": 12, "endIdx": 14}, {"text": "Iraq", "type": "CTRY", "startIdx": 169, "endIdx": 173}]}
+{"tweet_id": "1112799835709718530", "location_mentions": [{"text": "Lancaster", "type": "CITY", "startIdx": 89, "endIdx": 98}]}
+{"tweet_id": "1111282438095941632", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 62, "endIdx": 66}, {"text": "Nebraska", "type": "STAT", "startIdx": 71, "endIdx": 79}]}
+{"tweet_id": "1111503128522825734", "location_mentions": [{"text": "NEBRASKA", "type": "STAT", "startIdx": 17, "endIdx": 25}]}
+{"tweet_id": "1110591983645384704", "location_mentions": [{"text": "Iran", "type": "CTRY", "startIdx": 86, "endIdx": 90}, {"text": "Nebraska", "type": "STAT", "startIdx": 104, "endIdx": 112}, {"text": "Iowa", "type": "STAT", "startIdx": 114, "endIdx": 118}, {"text": "Mozambique", "type": "CTRY", "startIdx": 131, "endIdx": 141}, {"text": "New Zealand", "type": "CTRY", "startIdx": 152, "endIdx": 163}, {"text": "Yorkshire", "type": "STAT", "startIdx": 165, "endIdx": 174}, {"text": "Indonesia", "type": "CTRY", "startIdx": 176, "endIdx": 185}, {"text": "Afghanistan", "type": "CTRY", "startIdx": 187, "endIdx": 198}, {"text": "Malawi", "type": "CTRY", "startIdx": 200, "endIdx": 206}, {"text": "Jordan", "type": "CTRY", "startIdx": 208, "endIdx": 214}]}
+{"tweet_id": "1111320138383589377", "location_mentions": []}
+{"tweet_id": "1110339582313156609", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 21, "endIdx": 29}, {"text": "Iowa", "type": "STAT", "startIdx": 35, "endIdx": 39}]}
+{"tweet_id": "1112536056853946373", "location_mentions": [{"text": "Wisconsin", "type": "STAT", "startIdx": 17, "endIdx": 26}]}
+{"tweet_id": "1112895389856907264", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 33, "endIdx": 41}, {"text": "America", "type": "CONT", "startIdx": 256, "endIdx": 263}]}
+{"tweet_id": "1110316548940550149", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 166, "endIdx": 170}, {"text": "Nebraska", "type": "STAT", "startIdx": 172, "endIdx": 180}, {"text": "Wisconsin", "type": "STAT", "startIdx": 185, "endIdx": 194}]}
+{"tweet_id": "1110921750089392128", "location_mentions": [{"text": "Columbus", "type": "CITY", "startIdx": 25, "endIdx": 33}, {"text": "Nebraska", "type": "STAT", "startIdx": 141, "endIdx": 149}]}
+{"tweet_id": "1110294852665786368", "location_mentions": [{"text": "Buffalo County", "type": "CNTY", "startIdx": 4, "endIdx": 18}]}
+{"tweet_id": "1112120072967999488", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 115, "endIdx": 123}]}
+{"tweet_id": "1110647710783295489", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Omaha", "type": "CITY", "startIdx": 69, "endIdx": 74}]}
+{"tweet_id": "1110548730216939521", "location_mentions": []}
+{"tweet_id": "1112686073103171584", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 79, "endIdx": 87}]}
+{"tweet_id": "1112788272550473730", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 101, "endIdx": 109}]}
+{"tweet_id": "1110270403702910981", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 58, "endIdx": 62}, {"text": "Nebraska", "type": "STAT", "startIdx": 75, "endIdx": 83}]}
+{"tweet_id": "1110869684121939968", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 201, "endIdx": 209}]}
+{"tweet_id": "1110703510545465344", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 128, "endIdx": 136}]}
+{"tweet_id": "1110679550512365569", "location_mentions": []}
+{"tweet_id": "1110352184351297536", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 9, "endIdx": 17}, {"text": "Iowa", "type": "STAT", "startIdx": 22, "endIdx": 26}]}
+{"tweet_id": "1111775487930568704", "location_mentions": []}
+{"tweet_id": "1110654899107364868", "location_mentions": []}
+{"tweet_id": "1112937663378620429", "location_mentions": [{"text": "USA", "type": "CTRY", "startIdx": 16, "endIdx": 19}, {"text": "NEBRASKA", "type": "STAT", "startIdx": 233, "endIdx": 241}]}
+{"tweet_id": "1111437949193740289", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 33, "endIdx": 41}, {"text": "Nebraska", "type": "STAT", "startIdx": 33, "endIdx": 41}]}
+{"tweet_id": "1112410379651444736", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 89, "endIdx": 97}]}
+{"tweet_id": "1110942098478587907", "location_mentions": [{"text": "Maryland", "type": "STAT", "startIdx": 166, "endIdx": 174}]}
+{"tweet_id": "1111662422492774401", "location_mentions": []}
+{"tweet_id": "1110383375754366977", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 70, "endIdx": 78}]}
+{"tweet_id": "1112687144424914946", "location_mentions": []}
+{"tweet_id": "1112806915631955968", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 27, "endIdx": 35}]}
+{"tweet_id": "1111259434112688128", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 109, "endIdx": 117}]}
+{"tweet_id": "1111027389289713665", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 83, "endIdx": 91}, {"text": "America", "type": "CONT", "startIdx": 111, "endIdx": 118}]}
+{"tweet_id": "1110910776229928962", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 75, "endIdx": 83}]}
+{"tweet_id": "1110275097007251456", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 118, "endIdx": 126}, {"text": "Missouri", "type": "STAT", "startIdx": 128, "endIdx": 136}, {"text": "Iowa", "type": "STAT", "startIdx": 141, "endIdx": 145}]}
+{"tweet_id": "1112836140304875521", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 71, "endIdx": 79}, {"text": "Puerto Rico", "type": "ISL", "startIdx": 188, "endIdx": 199}]}
+{"tweet_id": "1112862171980054528", "location_mentions": [{"text": "USA", "type": "CTRY", "startIdx": 16, "endIdx": 19}, {"text": "NEBRASKA", "type": "STAT", "startIdx": 241, "endIdx": 249}]}
+{"tweet_id": "1113276805455204352", "location_mentions": [{"text": "Puerto Rico", "type": "ISL", "startIdx": 78, "endIdx": 89}]}
+{"tweet_id": "1112047609433210880", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 30, "endIdx": 38}]}
+{"tweet_id": "1112800146750951425", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Oregon", "type": "STAT", "startIdx": 18, "endIdx": 24}]}
+{"tweet_id": "1111088803136057345", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 103, "endIdx": 111}]}
+{"tweet_id": "1111984182119550976", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 28, "endIdx": 36}, {"text": "U.S.", "type": "CTRY", "startIdx": 131, "endIdx": 135}]}
+{"tweet_id": "1110544985668112386", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 28, "endIdx": 36}]}
+{"tweet_id": "1111622975239811075", "location_mentions": []}
+{"tweet_id": "1110257976982556675", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 185, "endIdx": 193}]}
+{"tweet_id": "1111122047495794688", "location_mentions": [{"text": "Nebraskan", "type": "STAT", "startIdx": 36, "endIdx": 45}, {"text": "Nebraska", "type": "STAT", "startIdx": 36, "endIdx": 44}, {"text": "Iowa", "type": "STAT", "startIdx": 49, "endIdx": 53}]}
+{"tweet_id": "1112160091569049600", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 4, "endIdx": 12}, {"text": "Nebraska", "type": "STAT", "startIdx": 4, "endIdx": 12}]}
+{"tweet_id": "1110566149287227400", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 38, "endIdx": 46}, {"text": "Lincoln", "type": "CITY", "startIdx": 123, "endIdx": 130}]}
+{"tweet_id": "1112805945317515265", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 102, "endIdx": 110}, {"text": "Iowa", "type": "STAT", "startIdx": 115, "endIdx": 119}]}
+{"tweet_id": "1110917931339272192", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 104, "endIdx": 108}, {"text": "Nebraska", "type": "STAT", "startIdx": 110, "endIdx": 118}, {"text": "Missouri", "type": "STAT", "startIdx": 123, "endIdx": 131}, {"text": "Kansas", "type": "CITY", "startIdx": 180, "endIdx": 186}, {"text": "Lincoln", "type": "CITY", "startIdx": 224, "endIdx": 231}, {"text": "Omaha", "type": "CITY", "startIdx": 236, "endIdx": 241}]}
+{"tweet_id": "1110695837758377984", "location_mentions": []}
+{"tweet_id": "1112343748774637571", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 43, "endIdx": 51}, {"text": "South Dakota", "type": "STAT", "startIdx": 56, "endIdx": 68}]}
+{"tweet_id": "1111690929549783040", "location_mentions": []}
+{"tweet_id": "1110951841678966785", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 34, "endIdx": 42}]}
+{"tweet_id": "1111140026987872256", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 40, "endIdx": 48}]}
+{"tweet_id": "1111610039725379585", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 37, "endIdx": 45}, {"text": "Iowa", "type": "STAT", "startIdx": 132, "endIdx": 136}, {"text": "Wisconsin", "type": "STAT", "startIdx": 138, "endIdx": 147}, {"text": "Missouri", "type": "STAT", "startIdx": 152, "endIdx": 160}]}
+{"tweet_id": "1113180691620089858", "location_mentions": [{"text": "Nebraskas", "type": "STAT", "startIdx": 78, "endIdx": 87}]}
+{"tweet_id": "1110517443020115968", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 48, "endIdx": 56}]}
+{"tweet_id": "1111772166956158978", "location_mentions": [{"text": "Iowa/Nebraska", "type": "STAT", "startIdx": 34, "endIdx": 47}, {"text": "Sioux City", "type": "CITY", "startIdx": 87, "endIdx": 97}]}
+{"tweet_id": "1111381004181069824", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 75, "endIdx": 83}]}
+{"tweet_id": "1112079492678324230", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 52, "endIdx": 60}]}
+{"tweet_id": "1111108872486428672", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 153, "endIdx": 161}]}
+{"tweet_id": "1111400415961051142", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 143, "endIdx": 151}]}
+{"tweet_id": "1112778397569015808", "location_mentions": []}
+{"tweet_id": "1110979865883365376", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 11, "endIdx": 19}]}
+{"tweet_id": "1111158289725865986", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 101, "endIdx": 109}]}
+{"tweet_id": "1111809335410245632", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 202, "endIdx": 210}, {"text": "Iowa", "type": "STAT", "startIdx": 212, "endIdx": 216}]}
+{"tweet_id": "1111648563879124994", "location_mentions": [{"text": "Nebraskas", "type": "STAT", "startIdx": 96, "endIdx": 105}]}
+{"tweet_id": "1111005124841730048", "location_mentions": []}
+{"tweet_id": "1111071510112976897", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Iowa", "type": "STAT", "startIdx": 13, "endIdx": 17}]}
+{"tweet_id": "1113204219069308928", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 16, "endIdx": 24}]}
+{"tweet_id": "1112429634304512002", "location_mentions": [{"text": "Tampa..", "type": "CITY", "startIdx": 79, "endIdx": 86}, {"text": "Nebraska", "type": "STAT", "startIdx": 87, "endIdx": 95}, {"text": "Columbus", "type": "CITY", "startIdx": 132, "endIdx": 140}, {"text": "Tampa", "type": "CITY", "startIdx": 79, "endIdx": 84}, {"text": "Tampa", "type": "CITY", "startIdx": 79, "endIdx": 84}]}
+{"tweet_id": "1112564359618854912", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 64, "endIdx": 72}, {"text": "Iowa", "type": "STAT", "startIdx": 77, "endIdx": 81}]}
+{"tweet_id": "1110882946716585984", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 42, "endIdx": 50}]}
+{"tweet_id": "1110381817209720832", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 91, "endIdx": 99}]}
+{"tweet_id": "1112358438825328642", "location_mentions": []}
+{"tweet_id": "1111035707219415041", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110691849956720647", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110241442008629250", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 140, "endIdx": 148}]}
+{"tweet_id": "1110950982802903040", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 53, "endIdx": 61}]}
+{"tweet_id": "1110258684943392775", "location_mentions": []}
+{"tweet_id": "1112127397007163392", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 44, "endIdx": 52}]}
+{"tweet_id": "1110869727801421824", "location_mentions": [{"text": "Kansas", "type": "CITY", "startIdx": 97, "endIdx": 103}, {"text": "Nebraska", "type": "STAT", "startIdx": 155, "endIdx": 163}]}
+{"tweet_id": "1111689097758814213", "location_mentions": [{"text": "omaha", "type": "CITY", "startIdx": 35, "endIdx": 40}, {"text": "nebraska", "type": "STAT", "startIdx": 129, "endIdx": 137}]}
+{"tweet_id": "1112952906112630784", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 14, "endIdx": 22}]}
+{"tweet_id": "1113115426232393728", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 43, "endIdx": 51}, {"text": "Iowa", "type": "STAT", "startIdx": 54, "endIdx": 58}, {"text": "SouthDakota", "type": "STAT", "startIdx": 64, "endIdx": 75}]}
+{"tweet_id": "1111696893178990600", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 53, "endIdx": 61}, {"text": "Missouri", "type": "STAT", "startIdx": 67, "endIdx": 75}]}
+{"tweet_id": "1111458084034150401", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 55, "endIdx": 61}]}
+{"tweet_id": "1110694988869001217", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 264, "endIdx": 272}]}
+{"tweet_id": "1110908429533478912", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 62, "endIdx": 70}, {"text": "Missouri", "type": "STAT", "startIdx": 93, "endIdx": 101}, {"text": "Iowa/Missouri", "type": "STAT", "startIdx": 169, "endIdx": 182}]}
+{"tweet_id": "1111000611393146880", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 163, "endIdx": 171}]}
+{"tweet_id": "1112005786648088576", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 173, "endIdx": 181}]}
+{"tweet_id": "1111248298591940608", "location_mentions": [{"text": "Missouri", "type": "STAT", "startIdx": 35, "endIdx": 43}, {"text": "Nebraska", "type": "STAT", "startIdx": 123, "endIdx": 131}]}
+{"tweet_id": "1113079500537987074", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 12, "endIdx": 20}]}
+{"tweet_id": "1110727825571676160", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 66, "endIdx": 74}]}
+{"tweet_id": "1112529913045762048", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 10, "endIdx": 18}]}
+{"tweet_id": "1112893610171789312", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 71, "endIdx": 79}]}
+{"tweet_id": "1110935779151433728", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 64, "endIdx": 72}]}
+{"tweet_id": "1113068596790550528", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 25, "endIdx": 33}]}
+{"tweet_id": "1112785065988243462", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 8, "endIdx": 16}]}
+{"tweet_id": "1110281011009675264", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 9, "endIdx": 17}, {"text": "South Dakota", "type": "STAT", "startIdx": 128, "endIdx": 140}]}
+{"tweet_id": "1110684995893383168", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 5, "endIdx": 13}, {"text": "California", "type": "STAT", "startIdx": 15, "endIdx": 25}, {"text": "Florida", "type": "STAT", "startIdx": 36, "endIdx": 43}, {"text": "Indonesia", "type": "CTRY", "startIdx": 45, "endIdx": 54}, {"text": "Turkey", "type": "CTRY", "startIdx": 56, "endIdx": 62}, {"text": "Saudi", "type": "CTRY", "startIdx": 63, "endIdx": 68}]}
+{"tweet_id": "1110689761293791232", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 49, "endIdx": 57}, {"text": "California", "type": "STAT", "startIdx": 85, "endIdx": 95}]}
+{"tweet_id": "1112228082159628290", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 49, "endIdx": 57}]}
+{"tweet_id": "1113195083665272833", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1111649449955246080", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 94, "endIdx": 102}]}
+{"tweet_id": "1110583137820565504", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 78, "endIdx": 86}, {"text": "Nebraska", "type": "STAT", "startIdx": 78, "endIdx": 86}]}
+{"tweet_id": "1111715514768867328", "location_mentions": []}
+{"tweet_id": "1110682358888443905", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 39, "endIdx": 47}]}
+{"tweet_id": "1111369977112727559", "location_mentions": []}
+{"tweet_id": "1113284011084976129", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 178, "endIdx": 182}, {"text": "Nebraska", "type": "STAT", "startIdx": 184, "endIdx": 192}, {"text": "Washington", "type": "STAT", "startIdx": 200, "endIdx": 210}]}
+{"tweet_id": "1110850689348063233", "location_mentions": [{"text": "NEBRASKA", "type": "STAT", "startIdx": 15, "endIdx": 23}]}
+{"tweet_id": "1110334014458642432", "location_mentions": [{"text": "Arapahoe", "type": "CITY", "startIdx": 35, "endIdx": 43}, {"text": "Nebraska", "type": "STAT", "startIdx": 45, "endIdx": 53}]}
+{"tweet_id": "1111026020923199488", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110917094055526400", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 68, "endIdx": 76}]}
+{"tweet_id": "1112069945402249221", "location_mentions": [{"text": "Kansas", "type": "STAT", "startIdx": 92, "endIdx": 98}, {"text": "Nebraska", "type": "STAT", "startIdx": 152, "endIdx": 160}]}
+{"tweet_id": "1110573129179582466", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 61, "endIdx": 69}]}
+{"tweet_id": "1112227483422806016", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 100, "endIdx": 108}, {"text": "Wyoming", "type": "STAT", "startIdx": 110, "endIdx": 117}, {"text": "North Dakota", "type": "STAT", "startIdx": 125, "endIdx": 137}]}
+{"tweet_id": "1111652764076130306", "location_mentions": []}
+{"tweet_id": "1111604641240887297", "location_mentions": []}
+{"tweet_id": "1112403344574898178", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 39, "endIdx": 47}]}
+{"tweet_id": "1111334998282506241", "location_mentions": []}
+{"tweet_id": "1113218964631490560", "location_mentions": [{"text": "Ohio", "type": "STAT", "startIdx": 21, "endIdx": 25}]}
+{"tweet_id": "1110854749606346752", "location_mentions": [{"text": "Omaha", "type": "CITY", "startIdx": 42, "endIdx": 47}, {"text": "Nebraska-", "type": "STAT", "startIdx": 49, "endIdx": 58}]}
+{"tweet_id": "1112885349217456129", "location_mentions": [{"text": "Grand Island", "type": "CITY", "startIdx": 0, "endIdx": 12}, {"text": "Nebraska", "type": "STAT", "startIdx": 76, "endIdx": 84}]}
+{"tweet_id": "1110562727293009922", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 31, "endIdx": 35}, {"text": "Nebraska", "type": "STAT", "startIdx": 40, "endIdx": 48}, {"text": "California", "type": "STAT", "startIdx": 92, "endIdx": 102}]}
+{"tweet_id": "1111829049066713089", "location_mentions": []}
+{"tweet_id": "1111721381052342272", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 88, "endIdx": 96}]}
+{"tweet_id": "1112500061659901953", "location_mentions": []}
+{"tweet_id": "1111588315940020224", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 159, "endIdx": 167}]}
+{"tweet_id": "1112113538481434626", "location_mentions": []}
+{"tweet_id": "1112440717929050113", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 93, "endIdx": 101}, {"text": "Colorado", "type": "STAT", "startIdx": 103, "endIdx": 111}]}
+{"tweet_id": "1110437074094698496", "location_mentions": []}
+{"tweet_id": "1110598292017164288", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 39, "endIdx": 47}, {"text": "Iowa", "type": "STAT", "startIdx": 51, "endIdx": 55}, {"text": "Nebraska", "type": "STAT", "startIdx": 39, "endIdx": 47}]}
+{"tweet_id": "1110439772709945346", "location_mentions": [{"text": "Omaha", "type": "CITY", "startIdx": 15, "endIdx": 20}, {"text": "Nebraska", "type": "STAT", "startIdx": 21, "endIdx": 29}, {"text": "Omaha", "type": "CITY", "startIdx": 15, "endIdx": 20}]}
+{"tweet_id": "1110533374698049536", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 75, "endIdx": 83}]}
+{"tweet_id": "1112046419450449931", "location_mentions": [{"text": "nebraska", "type": "STAT", "startIdx": 85, "endIdx": 93}]}
+{"tweet_id": "1110503036961603584", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 100, "endIdx": 108}, {"text": "Puerto Rico", "type": "ISL", "startIdx": 186, "endIdx": 197}]}
+{"tweet_id": "1112775663759605760", "location_mentions": []}
+{"tweet_id": "1113270922729758720", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1111771618466893824", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 107, "endIdx": 115}]}
+{"tweet_id": "1111130648058560512", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 67, "endIdx": 75}, {"text": "U.S.", "type": "CTRY", "startIdx": 241, "endIdx": 245}]}
+{"tweet_id": "1110253401235820544", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 34, "endIdx": 42}]}
+{"tweet_id": "1110534367686742017", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 78, "endIdx": 86}]}
+{"tweet_id": "1112738634657157123", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 259, "endIdx": 267}]}
+{"tweet_id": "1113258899296129025", "location_mentions": [{"text": "Louisville", "type": "CITY", "startIdx": 42, "endIdx": 52}, {"text": "Nebraska", "type": "STAT", "startIdx": 91, "endIdx": 99}]}
+{"tweet_id": "1112531265461329920", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 76, "endIdx": 84}]}
+{"tweet_id": "1112323081299771394", "location_mentions": [{"text": "Lincoln", "type": "CITY", "startIdx": 60, "endIdx": 67}, {"text": "Nebraska", "type": "STAT", "startIdx": 69, "endIdx": 77}]}
+{"tweet_id": "1112243018894110721", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 46, "endIdx": 54}]}
+{"tweet_id": "1112762197850116096", "location_mentions": [{"text": "Texas", "type": "STAT", "startIdx": 108, "endIdx": 113}, {"text": "Louisiana", "type": "STAT", "startIdx": 115, "endIdx": 124}, {"text": "Florida", "type": "STAT", "startIdx": 126, "endIdx": 133}, {"text": "Nebraska", "type": "STAT", "startIdx": 138, "endIdx": 146}]}
+{"tweet_id": "1112731168531718144", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 271, "endIdx": 279}]}
+{"tweet_id": "1110562663229284352", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 183, "endIdx": 191}, {"text": "Iowa", "type": "STAT", "startIdx": 193, "endIdx": 197}]}
+{"tweet_id": "1110664826790072327", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 75, "endIdx": 83}]}
+{"tweet_id": "1110892212534034432", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 40, "endIdx": 48}]}
+{"tweet_id": "1110912424897445890", "location_mentions": []}
+{"tweet_id": "1111310178757066752", "location_mentions": []}
+{"tweet_id": "1110955442337918977", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 80, "endIdx": 88}]}
+{"tweet_id": "1113162708000616448", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 12, "endIdx": 20}, {"text": "U.S.", "type": "CTRY", "startIdx": 29, "endIdx": 33}]}
+{"tweet_id": "1110275860811182081", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 55, "endIdx": 63}]}
+{"tweet_id": "1112488125278887936", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 78, "endIdx": 86}, {"text": "South Dakota", "type": "STAT", "startIdx": 188, "endIdx": 200}]}
+{"tweet_id": "1110976614198849536", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 19, "endIdx": 27}]}
+{"tweet_id": "1112720773314211840", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 87, "endIdx": 95}]}
+{"tweet_id": "1110378699436838912", "location_mentions": [{"text": "Texas", "type": "STAT", "startIdx": 24, "endIdx": 29}, {"text": "Nebraska", "type": "STAT", "startIdx": 79, "endIdx": 87}, {"text": "Iowa", "type": "STAT", "startIdx": 92, "endIdx": 96}]}
+{"tweet_id": "1111308458366812160", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 200, "endIdx": 208}]}
+{"tweet_id": "1112831108067016705", "location_mentions": []}
+{"tweet_id": "1112345677756067840", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 16, "endIdx": 24}]}
+{"tweet_id": "1110935076173430786", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 38, "endIdx": 46}]}
+{"tweet_id": "1111379657486524416", "location_mentions": []}
+{"tweet_id": "1111741219229450240", "location_mentions": []}
+{"tweet_id": "1111348270595559431", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 37, "endIdx": 45}, {"text": "Oklahoma", "type": "STAT", "startIdx": 49, "endIdx": 57}]}
+{"tweet_id": "1112672658762727424", "location_mentions": [{"text": "American", "type": "CONT", "startIdx": 48, "endIdx": 56}, {"text": "Kansas", "type": "STAT", "startIdx": 112, "endIdx": 118}, {"text": "Nebraska", "type": "STAT", "startIdx": 120, "endIdx": 128}, {"text": "Iowa", "type": "STAT", "startIdx": 133, "endIdx": 137}]}
+{"tweet_id": "1110255626981122051", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 24, "endIdx": 32}]}
+{"tweet_id": "1111029092676222976", "location_mentions": [{"text": "Kansas", "type": "STAT", "startIdx": 18, "endIdx": 24}, {"text": "NEBRASKA", "type": "STAT", "startIdx": 107, "endIdx": 115}, {"text": "MISSOURI", "type": "CITY", "startIdx": 123, "endIdx": 131}, {"text": "KANSAS", "type": "STAT", "startIdx": 147, "endIdx": 153}]}
+{"tweet_id": "1110592645145997312", "location_mentions": [{"text": "South Dakota", "type": "STAT", "startIdx": 85, "endIdx": 97}, {"text": "Nebraska", "type": "STAT", "startIdx": 102, "endIdx": 110}]}
+{"tweet_id": "1110733346852749312", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 48, "endIdx": 56}, {"text": "Missouri", "type": "STAT", "startIdx": 58, "endIdx": 66}]}
+{"tweet_id": "1113082732639387649", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 29, "endIdx": 37}]}
+{"tweet_id": "1110600636998057987", "location_mentions": [{"text": "NEBRASKA", "type": "STAT", "startIdx": 25, "endIdx": 33}]}
+{"tweet_id": "1110538719273066497", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 29, "endIdx": 37}, {"text": "Iowa", "type": "STAT", "startIdx": 44, "endIdx": 48}]}
+{"tweet_id": "1112477540202045440", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 12, "endIdx": 20}, {"text": "Pompeo", "type": "CITY", "startIdx": 96, "endIdx": 102}]}
+{"tweet_id": "1112406388267872257", "location_mentions": []}
+{"tweet_id": "1112896921729949696", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 305, "endIdx": 313}]}
+{"tweet_id": "1111229485393809409", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 148, "endIdx": 156}, {"text": "Kansas", "type": "STAT", "startIdx": 158, "endIdx": 164}, {"text": "Missouri", "type": "STAT", "startIdx": 166, "endIdx": 174}, {"text": "Iowa", "type": "STAT", "startIdx": 179, "endIdx": 183}]}
+{"tweet_id": "1111792837341970433", "location_mentions": [{"text": "Minnesota", "type": "STAT", "startIdx": 11, "endIdx": 20}, {"text": "Nebraska", "type": "STAT", "startIdx": 24, "endIdx": 32}]}
+{"tweet_id": "1110994056484737025", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 128, "endIdx": 136}]}
+{"tweet_id": "1112112866461655040", "location_mentions": [{"text": "omaha", "type": "CITY", "startIdx": 84, "endIdx": 89}, {"text": "nebraska", "type": "STAT", "startIdx": 91, "endIdx": 99}]}
+{"tweet_id": "1110870564493844480", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 33, "endIdx": 41}]}
+{"tweet_id": "1113096011981950977", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 181, "endIdx": 189}]}
+{"tweet_id": "1110358204637167622", "location_mentions": [{"text": "Missouri", "type": "STAT", "startIdx": 105, "endIdx": 113}, {"text": "Nebraska", "type": "STAT", "startIdx": 118, "endIdx": 126}, {"text": "Vicksburg", "type": "CITY", "startIdx": 139, "endIdx": 148}]}
+{"tweet_id": "1113242600352505856", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 139, "endIdx": 143}, {"text": "Nebraska", "type": "STAT", "startIdx": 148, "endIdx": 156}]}
+{"tweet_id": "1112009532249534464", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 100, "endIdx": 108}, {"text": "Iowa", "type": "STAT", "startIdx": 113, "endIdx": 117}]}
+{"tweet_id": "1110608400424026114", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 60, "endIdx": 68}, {"text": "Nebraska", "type": "STAT", "startIdx": 60, "endIdx": 68}]}
+{"tweet_id": "1111055300151275520", "location_mentions": []}
+{"tweet_id": "1110950618989060099", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 47, "endIdx": 55}]}
+{"tweet_id": "1111255269261094912", "location_mentions": [{"text": "Puerto Rico", "type": "ISL", "startIdx": 27, "endIdx": 38}, {"text": "Florida", "type": "STAT", "startIdx": 127, "endIdx": 134}, {"text": "Nebraska", "type": "STAT", "startIdx": 139, "endIdx": 147}]}
+{"tweet_id": "1110886188750114816", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 73, "endIdx": 81}]}
+{"tweet_id": "1110670269155164160", "location_mentions": []}
+{"tweet_id": "1112479646811996160", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 57, "endIdx": 65}]}
+{"tweet_id": "1110955472918642688", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 118, "endIdx": 126}]}
+{"tweet_id": "1110286511956787205", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 1, "endIdx": 9}]}
+{"tweet_id": "1111359861583949825", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Louisiana", "type": "STAT", "startIdx": 87, "endIdx": 96}, {"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110875289263890432", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 1, "endIdx": 9}, {"text": "USA", "type": "CTRY", "startIdx": 48, "endIdx": 51}, {"text": "Texas", "type": "STAT", "startIdx": 73, "endIdx": 78}, {"text": "Nebraska", "type": "STAT", "startIdx": 1, "endIdx": 9}, {"text": "USA", "type": "CTRY", "startIdx": 48, "endIdx": 51}]}
+{"tweet_id": "1110671513206837248", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 70, "endIdx": 78}]}
+{"tweet_id": "1110583359472918528", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 27, "endIdx": 35}]}
+{"tweet_id": "1111072586002239493", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 166, "endIdx": 170}, {"text": "Nebraska", "type": "STAT", "startIdx": 175, "endIdx": 183}]}
+{"tweet_id": "1111266095258877953", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 54, "endIdx": 62}]}
+{"tweet_id": "1110672288985374720", "location_mentions": []}
+{"tweet_id": "1110906541618720768", "location_mentions": []}
+{"tweet_id": "1110589985835675648", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110694766134476800", "location_mentions": []}
+{"tweet_id": "1112470018099429376", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 57, "endIdx": 65}]}
+{"tweet_id": "1110735960755580928", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 31, "endIdx": 39}]}
+{"tweet_id": "1111811870422433792", "location_mentions": [{"text": "America", "type": "CONT", "startIdx": 168, "endIdx": 175}]}
+{"tweet_id": "1111808770483650560", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 88, "endIdx": 96}]}
+{"tweet_id": "1110929264671711234", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 60, "endIdx": 68}, {"text": "Iowa", "type": "STAT", "startIdx": 73, "endIdx": 77}]}
+{"tweet_id": "1111714477962084352", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 204, "endIdx": 208}, {"text": "Nebraska", "type": "STAT", "startIdx": 210, "endIdx": 218}]}
+{"tweet_id": "1110323048643731457", "location_mentions": [{"text": "Missouri", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Nebraska", "type": "STAT", "startIdx": 38, "endIdx": 46}]}
+{"tweet_id": "1110286720573063168", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 15, "endIdx": 23}, {"text": "Iowa", "type": "STAT", "startIdx": 25, "endIdx": 29}]}
+{"tweet_id": "1113076779584053249", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 17, "endIdx": 25}]}
+{"tweet_id": "1113034359022465024", "location_mentions": [{"text": "Bellevue", "type": "CITY", "startIdx": 18, "endIdx": 26}]}
+{"tweet_id": "1110263880826212352", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 116, "endIdx": 124}]}
+{"tweet_id": "1111221644796690432", "location_mentions": []}
+{"tweet_id": "1112930287896363008", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 191, "endIdx": 199}]}
+{"tweet_id": "1111414055690866689", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 160, "endIdx": 168}]}
+{"tweet_id": "1113121054552219654", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 208, "endIdx": 216}]}
+{"tweet_id": "1111350041304666112", "location_mentions": []}
+{"tweet_id": "1110934885135466496", "location_mentions": []}
+{"tweet_id": "1112799292295712769", "location_mentions": [{"text": "Omaha", "type": "CITY", "startIdx": 91, "endIdx": 96}, {"text": "Nebraska", "type": "STAT", "startIdx": 228, "endIdx": 236}]}
+{"tweet_id": "1110631795287097347", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 125, "endIdx": 133}, {"text": "Lincoln", "type": "CITY", "startIdx": 158, "endIdx": 165}]}
+{"tweet_id": "1110671048393916417", "location_mentions": [{"text": "Mississippi", "type": "STAT", "startIdx": 18, "endIdx": 29}]}
+{"tweet_id": "1110989956200173573", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 62, "endIdx": 70}]}
+{"tweet_id": "1110923007562825728", "location_mentions": []}
+{"tweet_id": "1110939719062319105", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 54, "endIdx": 58}, {"text": "Nebraska", "type": "STAT", "startIdx": 63, "endIdx": 71}]}
+{"tweet_id": "1110780559310180352", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 86, "endIdx": 94}, {"text": "America", "type": "CONT", "startIdx": 208, "endIdx": 215}, {"text": "China", "type": "CTRY", "startIdx": 225, "endIdx": 230}]}
+{"tweet_id": "1111072901594144768", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 111, "endIdx": 119}]}
+{"tweet_id": "1112502138503118850", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 58, "endIdx": 66}]}
+{"tweet_id": "1113142823426166785", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 9, "endIdx": 17}]}
+{"tweet_id": "1110560505054314498", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 113, "endIdx": 121}, {"text": "Brazil", "type": "CTRY", "startIdx": 164, "endIdx": 170}]}
+{"tweet_id": "1112325637186994176", "location_mentions": [{"text": "NEBRASKA", "type": "STAT", "startIdx": 21, "endIdx": 29}]}
+{"tweet_id": "1112780132106817537", "location_mentions": [{"text": "Cairo", "type": "CITY", "startIdx": 35, "endIdx": 40}, {"text": "Nebraska", "type": "STAT", "startIdx": 42, "endIdx": 50}]}
+{"tweet_id": "1110986005849485313", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 15, "endIdx": 19}, {"text": "Nebraska", "type": "STAT", "startIdx": 24, "endIdx": 32}]}
+{"tweet_id": "1110492152260427776", "location_mentions": [{"text": "Howard County", "type": "CNTY", "startIdx": 49, "endIdx": 62}]}
+{"tweet_id": "1110982391559057413", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 96, "endIdx": 104}]}
+{"tweet_id": "1112132412337614848", "location_mentions": [{"text": "Puerto Rico", "type": "ISL", "startIdx": 71, "endIdx": 82}, {"text": "Nebraska", "type": "STAT", "startIdx": 175, "endIdx": 183}, {"text": "Dakotas", "type": "STAT", "startIdx": 189, "endIdx": 196}]}
+{"tweet_id": "1110606591672418304", "location_mentions": [{"text": "Europe", "type": "CONT", "startIdx": 29, "endIdx": 35}, {"text": "Florida", "type": "STAT", "startIdx": 102, "endIdx": 109}, {"text": "Nebraska", "type": "STAT", "startIdx": 114, "endIdx": 122}]}
+{"tweet_id": "1111702711551041536", "location_mentions": [{"text": "Texas", "type": "STAT", "startIdx": 80, "endIdx": 85}, {"text": "Nebraska", "type": "STAT", "startIdx": 123, "endIdx": 131}]}
+{"tweet_id": "1111354884404719621", "location_mentions": []}
+{"tweet_id": "1113101744794349569", "location_mentions": [{"text": "California", "type": "STAT", "startIdx": 48, "endIdx": 58}, {"text": "Iowa", "type": "STAT", "startIdx": 59, "endIdx": 63}, {"text": "Kansas", "type": "STAT", "startIdx": 64, "endIdx": 70}, {"text": "Nebraska", "type": "STAT", "startIdx": 72, "endIdx": 80}, {"text": "Alabama", "type": "STAT", "startIdx": 81, "endIdx": 88}, {"text": "South Carolina", "type": "STAT", "startIdx": 93, "endIdx": 107}, {"text": "Puerto Rico", "type": "ISL", "startIdx": 112, "endIdx": 123}]}
+{"tweet_id": "1111274425457000448", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 8, "endIdx": 16}]}
+{"tweet_id": "1111652465743720450", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 55, "endIdx": 63}]}
+{"tweet_id": "1113287447826370561", "location_mentions": [{"text": "Mixan", "type": "CITY", "startIdx": 22, "endIdx": 27}]}
+{"tweet_id": "1110584284878946304", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 56, "endIdx": 64}]}
+{"tweet_id": "1112047904217354240", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 61, "endIdx": 69}, {"text": "Puerto Rico", "type": "ISL", "startIdx": 172, "endIdx": 183}]}
+{"tweet_id": "1111087031654985729", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 63, "endIdx": 71}]}
+{"tweet_id": "1110901973535113216", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 34, "endIdx": 38}, {"text": "Nebraska", "type": "STAT", "startIdx": 43, "endIdx": 51}]}
+{"tweet_id": "1110673608844759041", "location_mentions": []}
+{"tweet_id": "1110941489368948737", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Missouri", "type": "STAT", "startIdx": 195, "endIdx": 203}]}
+{"tweet_id": "1113240252972503042", "location_mentions": [{"text": "Omaha", "type": "CITY", "startIdx": 15, "endIdx": 20}, {"text": "Nebraska", "type": "STAT", "startIdx": 71, "endIdx": 79}]}
+{"tweet_id": "1111370316339650562", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 7, "endIdx": 15}]}
+{"tweet_id": "1112497465842941954", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 50, "endIdx": 58}]}
+{"tweet_id": "1112079086183219201", "location_mentions": [{"text": "NEBRASKA", "type": "STAT", "startIdx": 20, "endIdx": 28}]}
+{"tweet_id": "1110373331436482560", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 27, "endIdx": 35}]}
+{"tweet_id": "1112006906829246469", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 182, "endIdx": 190}]}
+{"tweet_id": "1110931565838688256", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 218, "endIdx": 226}]}
+{"tweet_id": "1112067948921999361", "location_mentions": []}
+{"tweet_id": "1110847434610171904", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 277, "endIdx": 285}]}
+{"tweet_id": "1110599422369505281", "location_mentions": []}
+{"tweet_id": "1110646751269027840", "location_mentions": [{"text": "nebraska", "type": "STAT", "startIdx": 161, "endIdx": 169}, {"text": "omaha", "type": "CITY", "startIdx": 156, "endIdx": 161}]}
+{"tweet_id": "1111264591999393792", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 7, "endIdx": 15}]}
+{"tweet_id": "1110549609385000962", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 47, "endIdx": 55}]}
+{"tweet_id": "1110258688491700225", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 18, "endIdx": 26}]}
+{"tweet_id": "1111363843018493952", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 40, "endIdx": 48}]}
+{"tweet_id": "1111757927977672704", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 54, "endIdx": 62}, {"text": "Iowa", "type": "STAT", "startIdx": 64, "endIdx": 68}, {"text": "Missouri..", "type": "STAT", "startIdx": 74, "endIdx": 84}]}
+{"tweet_id": "1112340023863664640", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 70, "endIdx": 78}]}
+{"tweet_id": "1110881643705888768", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 100, "endIdx": 108}]}
+{"tweet_id": "1113285240972357632", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 73, "endIdx": 81}]}
+{"tweet_id": "1110262133634330624", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 83, "endIdx": 91}]}
+{"tweet_id": "1111650842396901377", "location_mentions": []}
+{"tweet_id": "1111703626899251200", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 33, "endIdx": 37}, {"text": "Nebraska", "type": "STAT", "startIdx": 42, "endIdx": 50}]}
+{"tweet_id": "1112336638728957952", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 17, "endIdx": 25}]}
+{"tweet_id": "1113246614955671552", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 103, "endIdx": 111}]}
+{"tweet_id": "1110693170407530501", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 225, "endIdx": 233}]}
+{"tweet_id": "1111410001900298240", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 105, "endIdx": 113}]}
+{"tweet_id": "1110524735769767937", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 118, "endIdx": 126}]}
+{"tweet_id": "1110240080785010689", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 95, "endIdx": 103}]}
+{"tweet_id": "1110566914173136897", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 89, "endIdx": 97}, {"text": "Iowa", "type": "STAT", "startIdx": 99, "endIdx": 103}, {"text": "South Dakota", "type": "STAT", "startIdx": 108, "endIdx": 120}]}
+{"tweet_id": "1110923168774909952", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 92, "endIdx": 100}]}
+{"tweet_id": "1110505345640738816", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 131, "endIdx": 139}]}
+{"tweet_id": "1112765265702461440", "location_mentions": [{"text": "Omaha", "type": "CITY", "startIdx": 52, "endIdx": 57}, {"text": "Nebraska", "type": "STAT", "startIdx": 62, "endIdx": 70}, {"text": "Nebraska", "type": "STAT", "startIdx": 62, "endIdx": 70}]}
+{"tweet_id": "1110950552052133889", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 105, "endIdx": 113}]}
+{"tweet_id": "1110969514135568384", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 9, "endIdx": 17}]}
+{"tweet_id": "1110923117021417472", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 13, "endIdx": 21}, {"text": "Mississippi", "type": "STAT", "startIdx": 164, "endIdx": 175}]}
+{"tweet_id": "1111252096307871745", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 115, "endIdx": 123}]}
+{"tweet_id": "1112752344809332736", "location_mentions": [{"text": "LOUISIANA", "type": "STAT", "startIdx": 0, "endIdx": 9}, {"text": "New Orleans", "type": "CITY", "startIdx": 66, "endIdx": 77}, {"text": "Nebraska", "type": "STAT", "startIdx": 94, "endIdx": 102}]}
+{"tweet_id": "1111779282186092544", "location_mentions": [{"text": "KC", "type": "STAT", "startIdx": 44, "endIdx": 46}]}
+{"tweet_id": "1112572520501297152", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 44, "endIdx": 52}]}
+{"tweet_id": "1111027079397732353", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 57, "endIdx": 65}]}
+{"tweet_id": "1110271830915457024", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 26, "endIdx": 34}]}
+{"tweet_id": "1110260472870252546", "location_mentions": [{"text": "Lincoln", "type": "CNTY", "startIdx": 38, "endIdx": 45}, {"text": "Nebraska", "type": "STAT", "startIdx": 95, "endIdx": 103}, {"text": "Nebraska", "type": "STAT", "startIdx": 95, "endIdx": 103}]}
+{"tweet_id": "1111659733251874817", "location_mentions": []}
+{"tweet_id": "1110636644602920961", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 142, "endIdx": 150}]}
+{"tweet_id": "1111044627052879872", "location_mentions": [{"text": "Nebraska.or", "type": "STAT", "startIdx": 106, "endIdx": 117}]}
+{"tweet_id": "1112683302069112833", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 92, "endIdx": 100}]}
+{"tweet_id": "1111090467997999106", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 23, "endIdx": 31}, {"text": "US", "type": "CTRY", "startIdx": 95, "endIdx": 97}]}
+{"tweet_id": "1110771618287099904", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 121, "endIdx": 129}, {"text": "Iowa", "type": "STAT", "startIdx": 131, "endIdx": 135}]}
+{"tweet_id": "1110709998529798145", "location_mentions": []}
+{"tweet_id": "1112049463940562951", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 28, "endIdx": 36}]}
+{"tweet_id": "1113113595364114434", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 56, "endIdx": 64}, {"text": "PR", "type": "ISL", "startIdx": 98, "endIdx": 100}]}
+{"tweet_id": "1112727027088543746", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 52, "endIdx": 60}]}
+{"tweet_id": "1110281419081875458", "location_mentions": []}
+{"tweet_id": "1111376663269371904", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 36, "endIdx": 44}, {"text": "U.S.", "type": "CTRY", "startIdx": 67, "endIdx": 71}, {"text": "Nebraska", "type": "STAT", "startIdx": 36, "endIdx": 44}]}
+{"tweet_id": "1110749356620218368", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110649428468215810", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 11, "endIdx": 19}]}
+{"tweet_id": "1113101153787695111", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1113232473499021312", "location_mentions": []}
+{"tweet_id": "1112001432964591621", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 38, "endIdx": 46}]}
+{"tweet_id": "1111273174707195905", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 95, "endIdx": 99}]}
+{"tweet_id": "1110906820644745216", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 45, "endIdx": 53}]}
+{"tweet_id": "1110763387011649537", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 119, "endIdx": 127}]}
+{"tweet_id": "1112080313226797057", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 68, "endIdx": 76}]}
+{"tweet_id": "1111478518259564545", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 33, "endIdx": 41}]}
+{"tweet_id": "1111461207125327872", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 16, "endIdx": 24}, {"text": "Nebraska", "type": "STAT", "startIdx": 16, "endIdx": 24}]}
+{"tweet_id": "1110678261749698560", "location_mentions": []}
+{"tweet_id": "1110633645423894528", "location_mentions": [{"text": "Missouri", "type": "STAT", "startIdx": 28, "endIdx": 36}, {"text": "Missouri", "type": "STAT", "startIdx": 28, "endIdx": 36}, {"text": "Nebraska", "type": "STAT", "startIdx": 130, "endIdx": 138}]}
+{"tweet_id": "1111814010570076160", "location_mentions": []}
+{"tweet_id": "1111969985411325962", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 16, "endIdx": 24}]}
+{"tweet_id": "1111756103191355392", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 8, "endIdx": 16}]}
+{"tweet_id": "1111168262086250496", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 43, "endIdx": 51}]}
+{"tweet_id": "1111312903167193089", "location_mentions": [{"text": "Mississippi", "type": "STAT", "startIdx": 83, "endIdx": 94}, {"text": "Missouri", "type": "STAT", "startIdx": 99, "endIdx": 107}, {"text": "Nebraska", "type": "STAT", "startIdx": 138, "endIdx": 146}]}
+{"tweet_id": "1112384055822163969", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 18, "endIdx": 26}]}
+{"tweet_id": "1110991538463617027", "location_mentions": [{"text": "Lincoln", "type": "CITY", "startIdx": 51, "endIdx": 58}, {"text": "Nebraska", "type": "STAT", "startIdx": 59, "endIdx": 67}]}
+{"tweet_id": "1111344953249034240", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 33, "endIdx": 41}]}
+{"tweet_id": "1113092512955203584", "location_mentions": [{"text": "NEBRASKA", "type": "STAT", "startIdx": 64, "endIdx": 72}]}
+{"tweet_id": "1111296604022231045", "location_mentions": [{"text": "Flint", "type": "CITY", "startIdx": 130, "endIdx": 135}, {"text": "Michigan", "type": "STAT", "startIdx": 136, "endIdx": 144}, {"text": "Nebraska", "type": "STAT", "startIdx": 165, "endIdx": 173}]}
+{"tweet_id": "1111410877016621061", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 62, "endIdx": 66}, {"text": "Nebraska", "type": "STAT", "startIdx": 71, "endIdx": 79}]}
+{"tweet_id": "1111616692273201152", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 58, "endIdx": 66}]}
+{"tweet_id": "1112233713822240769", "location_mentions": [{"text": "Nebraskas", "type": "STAT", "startIdx": 28, "endIdx": 37}]}
+{"tweet_id": "1110877541525536768", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 62, "endIdx": 70}, {"text": "America", "type": "CONT", "startIdx": 92, "endIdx": 99}]}
+{"tweet_id": "1110725031565377536", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 17, "endIdx": 25}, {"text": "Iowa", "type": "STAT", "startIdx": 29, "endIdx": 33}]}
+{"tweet_id": "1112759337137721344", "location_mentions": []}
+{"tweet_id": "1110656098342748161", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 22, "endIdx": 30}]}
+{"tweet_id": "1112532486154870784", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 6, "endIdx": 14}]}
+{"tweet_id": "1110609491702226945", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 19, "endIdx": 27}]}
+{"tweet_id": "1113279938809851905", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 127, "endIdx": 135}, {"text": "Iowa", "type": "STAT", "startIdx": 148, "endIdx": 152}]}
+{"tweet_id": "1112347725524332544", "location_mentions": [{"text": "American", "type": "CONT", "startIdx": 76, "endIdx": 84}, {"text": "Iowa", "type": "STAT", "startIdx": 188, "endIdx": 192}, {"text": "Kansas", "type": "STAT", "startIdx": 194, "endIdx": 200}, {"text": "Nebraska", "type": "STAT", "startIdx": 206, "endIdx": 214}]}
+{"tweet_id": "1113125664457179137", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 166, "endIdx": 174}, {"text": "Iowa", "type": "STAT", "startIdx": 179, "endIdx": 183}]}
+{"tweet_id": "1110459501939810304", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 3, "endIdx": 11}, {"text": "Lakota", "type": "CITY", "startIdx": 113, "endIdx": 119}]}
+{"tweet_id": "1111113885266788353", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 41, "endIdx": 49}, {"text": "California", "type": "STAT", "startIdx": 213, "endIdx": 223}]}
+{"tweet_id": "1112005977983934467", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110575140667043840", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110269494822400000", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 59, "endIdx": 67}]}
+{"tweet_id": "1112962683874160640", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 82, "endIdx": 90}, {"text": "Dakota", "type": "STAT", "startIdx": 100, "endIdx": 106}]}
+{"tweet_id": "1111093951266738176", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 75, "endIdx": 83}]}
+{"tweet_id": "1112330831014576128", "location_mentions": [{"text": "California", "type": "STAT", "startIdx": 23, "endIdx": 33}, {"text": "California", "type": "STAT", "startIdx": 23, "endIdx": 33}, {"text": "Texas", "type": "STAT", "startIdx": 66, "endIdx": 71}, {"text": "Alabama", "type": "STAT", "startIdx": 142, "endIdx": 149}, {"text": "Georgia", "type": "STAT", "startIdx": 154, "endIdx": 161}, {"text": "Nebraska", "type": "STAT", "startIdx": 177, "endIdx": 185}, {"text": "Iowa", "type": "STAT", "startIdx": 216, "endIdx": 220}, {"text": "Nebraskas", "type": "STAT", "startIdx": 227, "endIdx": 236}, {"text": "Missouri", "type": "STAT", "startIdx": 251, "endIdx": 259}]}
+{"tweet_id": "1112693832611561474", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 54, "endIdx": 62}, {"text": "Nebraska", "type": "STAT", "startIdx": 54, "endIdx": 62}]}
+{"tweet_id": "1111961432525029376", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 68, "endIdx": 76}]}
+{"tweet_id": "1110858151182643200", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1112731461239664642", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 158, "endIdx": 162}, {"text": "Nebraska", "type": "STAT", "startIdx": 164, "endIdx": 172}, {"text": "Missouri", "type": "STAT", "startIdx": 174, "endIdx": 182}]}
+{"tweet_id": "1112521266941054976", "location_mentions": []}
+{"tweet_id": "1110663733901029376", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1111862774311936000", "location_mentions": [{"text": "Florida", "type": "STAT", "startIdx": 42, "endIdx": 49}, {"text": "Nebraska", "type": "STAT", "startIdx": 59, "endIdx": 67}]}
+{"tweet_id": "1110703061654077440", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 90, "endIdx": 98}]}
+{"tweet_id": "1111021187092496384", "location_mentions": [{"text": "Missouri", "type": "STAT", "startIdx": 118, "endIdx": 126}]}
+{"tweet_id": "1111964118137872385", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 18, "endIdx": 26}]}
+{"tweet_id": "1110895768049803264", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 164, "endIdx": 172}]}
+{"tweet_id": "1111094715779170304", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 92, "endIdx": 100}, {"text": "Nebraska", "type": "STAT", "startIdx": 92, "endIdx": 100}]}
+{"tweet_id": "1111974534914211840", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 46, "endIdx": 54}, {"text": "Niobrara", "type": "CITY", "startIdx": 103, "endIdx": 111}, {"text": "Norfolk", "type": "CITY", "startIdx": 113, "endIdx": 120}]}
+{"tweet_id": "1111845611471601667", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 27, "endIdx": 31}, {"text": "Nebraska", "type": "STAT", "startIdx": 36, "endIdx": 44}]}
+{"tweet_id": "1111123297566113793", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 119, "endIdx": 127}]}
+{"tweet_id": "1111133207741849600", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 77, "endIdx": 85}, {"text": "Iowa", "type": "STAT", "startIdx": 90, "endIdx": 94}]}
+{"tweet_id": "1111076635523121152", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 48, "endIdx": 56}]}
+{"tweet_id": "1112831222223462400", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 26, "endIdx": 34}]}
+{"tweet_id": "1110955170505113600", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110670661695881216", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110949073551384576", "location_mentions": []}
+{"tweet_id": "1111865627931598849", "location_mentions": []}
+{"tweet_id": "1113114390511915013", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 166, "endIdx": 174}]}
+{"tweet_id": "1112396657310736384", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 105, "endIdx": 113}]}
+{"tweet_id": "1110564567179034625", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 90, "endIdx": 98}, {"text": "Iowa", "type": "STAT", "startIdx": 103, "endIdx": 107}]}
+{"tweet_id": "1110958105767174144", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 91, "endIdx": 99}, {"text": "Iowa", "type": "STAT", "startIdx": 112, "endIdx": 116}]}
+{"tweet_id": "1110939811454562310", "location_mentions": [{"text": "Nebraskas", "type": "STAT", "startIdx": 206, "endIdx": 215}]}
+{"tweet_id": "1112892762544852992", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 34, "endIdx": 42}, {"text": "Iowa", "type": "STAT", "startIdx": 44, "endIdx": 48}, {"text": "Dakota", "type": "STAT", "startIdx": 60, "endIdx": 66}, {"text": "Ohio", "type": "STAT", "startIdx": 110, "endIdx": 114}]}
+{"tweet_id": "1112347915794681858", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 28, "endIdx": 36}]}
+{"tweet_id": "1112763428920352769", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 120, "endIdx": 128}]}
+{"tweet_id": "1110511066897891329", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 113, "endIdx": 121}, {"text": "Alabama", "type": "STAT", "startIdx": 122, "endIdx": 129}, {"text": "Mississippi", "type": "STAT", "startIdx": 130, "endIdx": 141}, {"text": "Colorado", "type": "STAT", "startIdx": 142, "endIdx": 150}, {"text": "Louisiana", "type": "STAT", "startIdx": 173, "endIdx": 182}, {"text": "Puerto Rico", "type": "ISL", "startIdx": 183, "endIdx": 194}, {"text": "Michigan", "type": "STAT", "startIdx": 212, "endIdx": 220}, {"text": "Dakatoa", "type": "CITY", "startIdx": 239, "endIdx": 246}, {"text": "California", "type": "STAT", "startIdx": 257, "endIdx": 267}]}
+{"tweet_id": "1111610611581022213", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 52, "endIdx": 56}, {"text": "Nebraska", "type": "STAT", "startIdx": 61, "endIdx": 69}]}
+{"tweet_id": "1110646403062214658", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 82, "endIdx": 90}]}
+{"tweet_id": "1110809648683249664", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 46, "endIdx": 54}]}
+{"tweet_id": "1111789844471209990", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 263, "endIdx": 271}]}
+{"tweet_id": "1111257115040104448", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 91, "endIdx": 99}, {"text": "York", "type": "CITY", "startIdx": 138, "endIdx": 142}]}
+{"tweet_id": "1112444562688086019", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 50, "endIdx": 58}]}
+{"tweet_id": "1113254969564495877", "location_mentions": [{"text": "Nebraskas", "type": "STAT", "startIdx": 16, "endIdx": 25}]}
+{"tweet_id": "1110948671636623361", "location_mentions": [{"text": "Kansas", "type": "STAT", "startIdx": 13, "endIdx": 19}, {"text": "Nebraska", "type": "STAT", "startIdx": 62, "endIdx": 70}]}
+{"tweet_id": "1112182073878441985", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 43, "endIdx": 51}]}
+{"tweet_id": "1110579595949105152", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 95, "endIdx": 103}]}
+{"tweet_id": "1111425864510509057", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 16, "endIdx": 24}]}
+{"tweet_id": "1111963946657837061", "location_mentions": [{"text": "America", "type": "CONT", "startIdx": 17, "endIdx": 24}]}
+{"tweet_id": "1112462798020374530", "location_mentions": []}
+{"tweet_id": "1112444408983683078", "location_mentions": [{"text": "NEBRASKA", "type": "STAT", "startIdx": 33, "endIdx": 41}]}
+{"tweet_id": "1111764126097911810", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 226, "endIdx": 234}]}
+{"tweet_id": "1110994148688101377", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 109, "endIdx": 117}]}
+{"tweet_id": "1112018744161665025", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 200, "endIdx": 208}]}
+{"tweet_id": "1110902808373420034", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 26, "endIdx": 34}]}
+{"tweet_id": "1112822600793776129", "location_mentions": [{"text": "Oklahoma", "type": "STAT", "startIdx": 118, "endIdx": 126}, {"text": "Nebraska", "type": "STAT", "startIdx": 128, "endIdx": 136}, {"text": "Kansas", "type": "STAT", "startIdx": 142, "endIdx": 148}]}
+{"tweet_id": "1110676912425369602", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 45, "endIdx": 53}]}
+{"tweet_id": "1112226846534320129", "location_mentions": [{"text": "Iceland", "type": "CTRY", "startIdx": 0, "endIdx": 7}, {"text": "Iceland", "type": "CTRY", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "1111330422686973954", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 21, "endIdx": 29}]}
+{"tweet_id": "1111752778752380932", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 58, "endIdx": 66}, {"text": "Dakota", "type": "STAT", "startIdx": 86, "endIdx": 92}, {"text": "Montana", "type": "STAT", "startIdx": 116, "endIdx": 123}]}
+{"tweet_id": "1110287310308937728", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 115, "endIdx": 123}]}
+{"tweet_id": "1110690448883007489", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 76, "endIdx": 84}]}
+{"tweet_id": "1113178559928053765", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 35, "endIdx": 43}]}
+{"tweet_id": "1111294560750071808", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 9, "endIdx": 17}]}
+{"tweet_id": "1110754679342985217", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 56, "endIdx": 64}, {"text": "Iowa", "type": "STAT", "startIdx": 66, "endIdx": 70}, {"text": "South Dakota", "type": "STAT", "startIdx": 76, "endIdx": 88}]}
+{"tweet_id": "1111242084332331009", "location_mentions": []}
+{"tweet_id": "1112455491760898050", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 44, "endIdx": 52}]}
+{"tweet_id": "1111816942250278912", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 21, "endIdx": 29}]}
+{"tweet_id": "1111642085294292997", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 44, "endIdx": 52}, {"text": "Missouri", "type": "STAT", "startIdx": 71, "endIdx": 79}]}
+{"tweet_id": "1110885240417837057", "location_mentions": [{"text": "Hawaii", "type": "STAT", "startIdx": 111, "endIdx": 117}, {"text": "Nebraska", "type": "STAT", "startIdx": 206, "endIdx": 214}]}
+{"tweet_id": "1110926265027051521", "location_mentions": [{"text": "Ashland", "type": "CITY", "startIdx": 62, "endIdx": 69}, {"text": "Nebraska", "type": "STAT", "startIdx": 71, "endIdx": 79}]}
+{"tweet_id": "1110328938281222144", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 89, "endIdx": 97}]}
+{"tweet_id": "1110975772091650049", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 105, "endIdx": 113}]}
+{"tweet_id": "1111766753590296580", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 42, "endIdx": 50}]}
+{"tweet_id": "1110607913129836544", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 80, "endIdx": 88}]}
+{"tweet_id": "1112887103803805698", "location_mentions": [{"text": "Puerto Rico", "type": "ISL", "startIdx": 71, "endIdx": 82}, {"text": "Iowa", "type": "STAT", "startIdx": 237, "endIdx": 241}, {"text": "Nebraska", "type": "STAT", "startIdx": 243, "endIdx": 251}]}
+{"tweet_id": "1110973314221178880", "location_mentions": [{"text": "Colorado", "type": "STAT", "startIdx": 9, "endIdx": 17}, {"text": "Nebraska", "type": "STAT", "startIdx": 83, "endIdx": 91}]}
+{"tweet_id": "1110975194452185089", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 11, "endIdx": 19}]}
+{"tweet_id": "1111659543551979520", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 14, "endIdx": 22}, {"text": "Nebraska", "type": "STAT", "startIdx": 14, "endIdx": 22}]}
+{"tweet_id": "1111806943767732224", "location_mentions": [{"text": "Washington", "type": "STAT", "startIdx": 149, "endIdx": 159}, {"text": "Nebraska", "type": "STAT", "startIdx": 213, "endIdx": 221}]}
+{"tweet_id": "1110799847278460928", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110912651205447681", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "South Dakota", "type": "STAT", "startIdx": 94, "endIdx": 106}]}
+{"tweet_id": "1112553918557503488", "location_mentions": []}
+{"tweet_id": "1110723507862888450", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 57, "endIdx": 65}]}
+{"tweet_id": "1111652802877513730", "location_mentions": [{"text": "Washington", "type": "STAT", "startIdx": 26, "endIdx": 36}, {"text": "Nebraska", "type": "STAT", "startIdx": 165, "endIdx": 173}, {"text": "Mexico", "type": "CTRY", "startIdx": 204, "endIdx": 210}]}
+{"tweet_id": "1112706008302927872", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 186, "endIdx": 194}, {"text": "Niobrara", "type": "STAT", "startIdx": 224, "endIdx": 232}]}
+{"tweet_id": "1111100655903653890", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 88, "endIdx": 96}]}
+{"tweet_id": "1110555849318166528", "location_mentions": [{"text": "nebraska", "type": "STAT", "startIdx": 44, "endIdx": 52}]}
+{"tweet_id": "1110336358642524167", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 80, "endIdx": 88}]}
+{"tweet_id": "1111401293719830529", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 136, "endIdx": 144}]}
+{"tweet_id": "1113165472931905542", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 109, "endIdx": 117}]}
+{"tweet_id": "1112561624869527553", "location_mentions": []}
+{"tweet_id": "1111723318825095169", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110260698347651073", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 35, "endIdx": 43}]}
+{"tweet_id": "1110312492746620929", "location_mentions": [{"text": "KANSAS", "type": "STAT", "startIdx": 120, "endIdx": 126}, {"text": "LINCOLN", "type": "CITY", "startIdx": 147, "endIdx": 154}, {"text": "NEBRASKA", "type": "STAT", "startIdx": 155, "endIdx": 163}]}
+{"tweet_id": "1113207480262246400", "location_mentions": []}
+{"tweet_id": "1110412039506284545", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 133, "endIdx": 141}, {"text": "Wisconsin", "type": "STAT", "startIdx": 143, "endIdx": 152}, {"text": "Iowa", "type": "STAT", "startIdx": 157, "endIdx": 161}]}
+{"tweet_id": "1111325558250635264", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110984119263977473", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 29, "endIdx": 37}]}
+{"tweet_id": "1110889960201207808", "location_mentions": []}
+{"tweet_id": "1111261275206631424", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 11, "endIdx": 19}]}
+{"tweet_id": "1113256726394859522", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 143, "endIdx": 151}]}
+{"tweet_id": "1110728851167023104", "location_mentions": []}
+{"tweet_id": "1112509179074351105", "location_mentions": [{"text": "Iceland", "type": "CTRY", "startIdx": 33, "endIdx": 40}]}
+{"tweet_id": "1112088260464005123", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 98, "endIdx": 106}]}
+{"tweet_id": "1112090813872463872", "location_mentions": [{"text": "USA", "type": "CTRY", "startIdx": 17, "endIdx": 20}, {"text": "Nebraska", "type": "STAT", "startIdx": 35, "endIdx": 43}]}
+{"tweet_id": "1110701018721992704", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 124, "endIdx": 132}]}
+{"tweet_id": "1111586409981378560", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 41, "endIdx": 49}]}
+{"tweet_id": "1110320713775362048", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 41, "endIdx": 49}, {"text": "Omaha", "type": "CITY", "startIdx": 143, "endIdx": 148}, {"text": "Nebraska", "type": "STAT", "startIdx": 41, "endIdx": 49}]}
+{"tweet_id": "1113233244097536006", "location_mentions": [{"text": "Puerto Rico", "type": "ISL", "startIdx": 20, "endIdx": 31}]}
+{"tweet_id": "1112831288975810561", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 21, "endIdx": 29}]}
+{"tweet_id": "1112067150318051328", "location_mentions": [{"text": "Bellevue", "type": "CITY", "startIdx": 62, "endIdx": 70}, {"text": "Nebraska", "type": "STAT", "startIdx": 71, "endIdx": 79}]}
+{"tweet_id": "1110667578261864449", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 92, "endIdx": 100}]}
+{"tweet_id": "1113092231580221442", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 40, "endIdx": 48}]}
+{"tweet_id": "1111951073885863936", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 76, "endIdx": 80}, {"text": "Nebraskaoh", "type": "STAT", "startIdx": 85, "endIdx": 95}]}
+{"tweet_id": "1112873028847796224", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 134, "endIdx": 142}]}
+{"tweet_id": "1111486964639952896", "location_mentions": []}
+{"tweet_id": "1112717906184470528", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 43, "endIdx": 51}]}
+{"tweet_id": "1113101206447165441", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 18, "endIdx": 26}]}
+{"tweet_id": "1113272506947969024", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 20, "endIdx": 28}]}
+{"tweet_id": "1112199216221294592", "location_mentions": [{"text": "Nebraskas", "type": "STAT", "startIdx": 30, "endIdx": 39}]}
+{"tweet_id": "1110274606101876736", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 87, "endIdx": 95}]}
+{"tweet_id": "1110993210778763264", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 203, "endIdx": 211}, {"text": "Iowa", "type": "STAT", "startIdx": 213, "endIdx": 217}, {"text": "Missouri", "type": "STAT", "startIdx": 219, "endIdx": 227}]}
+{"tweet_id": "1113195923599974401", "location_mentions": [{"text": "Puerto Rico", "type": "ISL", "startIdx": 95, "endIdx": 106}, {"text": "Nebraska", "type": "STAT", "startIdx": 123, "endIdx": 131}]}
+{"tweet_id": "1111081866789036039", "location_mentions": [{"text": "New York", "type": "STAT", "startIdx": 214, "endIdx": 222}]}
+{"tweet_id": "1111685701874143233", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 56, "endIdx": 64}, {"text": "Iowa", "type": "STAT", "startIdx": 69, "endIdx": 73}]}
+{"tweet_id": "1110976714228883458", "location_mentions": [{"text": "Ohio", "type": "STAT", "startIdx": 56, "endIdx": 60}, {"text": "Nebraska", "type": "STAT", "startIdx": 158, "endIdx": 166}, {"text": "Iowa", "type": "STAT", "startIdx": 171, "endIdx": 175}]}
+{"tweet_id": "1110749611193454592", "location_mentions": [{"text": "Nebraskas", "type": "STAT", "startIdx": 177, "endIdx": 186}]}
+{"tweet_id": "1112720996962877440", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 171, "endIdx": 179}]}
+{"tweet_id": "1110287947193114625", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 80, "endIdx": 88}]}
+{"tweet_id": "1112770440307585024", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 132, "endIdx": 140}]}
+{"tweet_id": "1111991864931037185", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 100, "endIdx": 108}]}
+{"tweet_id": "1111996040746553347", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 49, "endIdx": 57}]}
+{"tweet_id": "1112854804978651136", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 61, "endIdx": 69}]}
+{"tweet_id": "1112148880790036481", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 82, "endIdx": 90}]}
+{"tweet_id": "1111756659406233600", "location_mentions": [{"text": "BarackObama", "type": "CNTY", "startIdx": 1, "endIdx": 12}, {"text": "Nebraska", "type": "STAT", "startIdx": 78, "endIdx": 86}]}
+{"tweet_id": "1111616094563958785", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 100, "endIdx": 108}]}
+{"tweet_id": "1111048312914960384", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 165, "endIdx": 173}, {"text": "Iowa", "type": "STAT", "startIdx": 178, "endIdx": 182}]}
+{"tweet_id": "1112376228303044608", "location_mentions": [{"text": "Missouri", "type": "STAT", "startIdx": 32, "endIdx": 40}, {"text": "Nebraska", "type": "STAT", "startIdx": 42, "endIdx": 50}, {"text": "Iowa", "type": "STAT", "startIdx": 52, "endIdx": 56}]}
+{"tweet_id": "1112358726768324608", "location_mentions": []}
+{"tweet_id": "1113003193527459842", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 40, "endIdx": 48}]}
+{"tweet_id": "1110266780088524800", "location_mentions": [{"text": "USA", "type": "CTRY", "startIdx": 65, "endIdx": 68}]}
+{"tweet_id": "1112302467025383424", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 214, "endIdx": 222}]}
+{"tweet_id": "1110681571080761344", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 67, "endIdx": 75}]}
+{"tweet_id": "1113087108544163841", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 166, "endIdx": 174}]}
+{"tweet_id": "1111404840385576961", "location_mentions": [{"text": "America", "type": "CONT", "startIdx": 10, "endIdx": 17}, {"text": "Nebraska", "type": "STAT", "startIdx": 157, "endIdx": 165}, {"text": "Iowa", "type": "STAT", "startIdx": 169, "endIdx": 173}, {"text": "Michigan", "type": "STAT", "startIdx": 181, "endIdx": 189}]}
+{"tweet_id": "1110870119805267970", "location_mentions": [{"text": "Missouri", "type": "STAT", "startIdx": 12, "endIdx": 20}, {"text": "Iowa", "type": "STAT", "startIdx": 72, "endIdx": 76}, {"text": "Nebraska", "type": "STAT", "startIdx": 81, "endIdx": 89}, {"text": "Missouri", "type": "STAT", "startIdx": 12, "endIdx": 20}, {"text": "Missouri", "type": "STAT", "startIdx": 12, "endIdx": 20}]}
+{"tweet_id": "1110650252753809410", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 49, "endIdx": 57}, {"text": "Nebraska", "type": "STAT", "startIdx": 49, "endIdx": 57}]}
+{"tweet_id": "1111012264918712321", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 74, "endIdx": 82}, {"text": "Lincoln", "type": "CITY", "startIdx": 85, "endIdx": 92}]}
+{"tweet_id": "1113191275891757056", "location_mentions": []}
+{"tweet_id": "1111129453118148609", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 227, "endIdx": 235}]}
+{"tweet_id": "1112024428173541377", "location_mentions": [{"text": "NC", "type": "STAT", "startIdx": 0, "endIdx": 2}, {"text": "NC", "type": "STAT", "startIdx": 0, "endIdx": 2}, {"text": "Nebraska", "type": "STAT", "startIdx": 114, "endIdx": 122}]}
+{"tweet_id": "1112465160432693251", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 40, "endIdx": 48}]}
+{"tweet_id": "1110967265120395264", "location_mentions": []}
+{"tweet_id": "1111460048792883201", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 139, "endIdx": 147}]}
+{"tweet_id": "1111359539742420993", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 66, "endIdx": 74}, {"text": "Missouri", "type": "STAT", "startIdx": 108, "endIdx": 116}]}
+{"tweet_id": "1110537730268807169", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 22, "endIdx": 30}]}
+{"tweet_id": "1111668029379788801", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 63, "endIdx": 71}]}
+{"tweet_id": "1111493725459566592", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 41, "endIdx": 45}, {"text": "Nebraska", "type": "STAT", "startIdx": 50, "endIdx": 58}]}
+{"tweet_id": "1110911344478433282", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 26, "endIdx": 34}, {"text": "America", "type": "CONT", "startIdx": 118, "endIdx": 125}]}
+{"tweet_id": "1111418126845935616", "location_mentions": []}
+{"tweet_id": "1110944931214970881", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Africa", "type": "CONT", "startIdx": 134, "endIdx": 140}]}
+{"tweet_id": "1111039913175248897", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 41, "endIdx": 45}, {"text": "Nebraska", "type": "STAT", "startIdx": 50, "endIdx": 58}]}
+{"tweet_id": "1112009188560044033", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 196, "endIdx": 204}]}
+{"tweet_id": "1110979572751888385", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 142, "endIdx": 150}, {"text": "Iowa", "type": "STAT", "startIdx": 170, "endIdx": 174}]}
+{"tweet_id": "1111864938673246208", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 73, "endIdx": 81}, {"text": "South Dakota", "type": "STAT", "startIdx": 86, "endIdx": 98}]}
+{"tweet_id": "1111251644824596483", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 194, "endIdx": 202}]}
+{"tweet_id": "1111413361072209922", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110741698504736768", "location_mentions": [{"text": "Oxford", "type": "CITY", "startIdx": 35, "endIdx": 41}, {"text": "Nebraska", "type": "STAT", "startIdx": 43, "endIdx": 51}]}
+{"tweet_id": "1111417403534012418", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 45, "endIdx": 53}]}
+{"tweet_id": "1110929444905123840", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 9, "endIdx": 17}, {"text": "Omahas", "type": "CITY", "startIdx": 70, "endIdx": 76}, {"text": "Nebraska", "type": "STAT", "startIdx": 9, "endIdx": 17}]}
+{"tweet_id": "1112112599804592128", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110665118541479936", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110591111750471680", "location_mentions": [{"text": "Alaska", "type": "STAT", "startIdx": 67, "endIdx": 73}, {"text": "Arizona", "type": "STAT", "startIdx": 75, "endIdx": 82}, {"text": "Nebraska", "type": "STAT", "startIdx": 84, "endIdx": 92}, {"text": "Tennessee", "type": "STAT", "startIdx": 94, "endIdx": 103}, {"text": "Oklahoma", "type": "STAT", "startIdx": 108, "endIdx": 116}, {"text": "Pennsylvania", "type": "STAT", "startIdx": 199, "endIdx": 211}, {"text": "North Carolina", "type": "STAT", "startIdx": 213, "endIdx": 227}, {"text": "Michigan", "type": "STAT", "startIdx": 234, "endIdx": 242}]}
+{"tweet_id": "1111330455687708672", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1113183835758493697", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 19, "endIdx": 23}, {"text": "Nebraska", "type": "STAT", "startIdx": 25, "endIdx": 33}]}
+{"tweet_id": "1113307553864343552", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 32, "endIdx": 40}, {"text": "Iowa", "type": "STAT", "startIdx": 47, "endIdx": 51}, {"text": "Puerto Rico", "type": "ISL", "startIdx": 221, "endIdx": 232}]}
+{"tweet_id": "1110746361673191424", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 35, "endIdx": 43}]}
+{"tweet_id": "1110924458875748353", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 21, "endIdx": 29}]}
+{"tweet_id": "1111000722794078214", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 145, "endIdx": 153}]}
+{"tweet_id": "1110909165831114753", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1111709861379756032", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 33, "endIdx": 41}]}
+{"tweet_id": "1112814423205449728", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 55, "endIdx": 63}]}
+{"tweet_id": "1110908149626753024", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 19, "endIdx": 27}]}
+{"tweet_id": "1111713841904119808", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 15, "endIdx": 23}]}
+{"tweet_id": "1110883521155878912", "location_mentions": [{"text": "China", "type": "CTRY", "startIdx": 90, "endIdx": 95}]}
+{"tweet_id": "1113175032002424832", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 62, "endIdx": 70}]}
+{"tweet_id": "1112055599326547968", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "New Orleans", "type": "CITY", "startIdx": 123, "endIdx": 134}, {"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Atlanta", "type": "CITY", "startIdx": 224, "endIdx": 231}]}
+{"tweet_id": "1113079157976633344", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 80, "endIdx": 88}]}
+{"tweet_id": "1110284147648593926", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 229, "endIdx": 237}]}
+{"tweet_id": "1110433667162079234", "location_mentions": []}
+{"tweet_id": "1110983539556790274", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 141, "endIdx": 149}]}
+{"tweet_id": "1110891478560186368", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 143, "endIdx": 151}]}
+{"tweet_id": "1110976367989059586", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 20, "endIdx": 28}]}
+{"tweet_id": "1110971868654305281", "location_mentions": []}
+{"tweet_id": "1112715888472588288", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 58, "endIdx": 66}]}
+{"tweet_id": "1112085471805521921", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Peoria", "type": "STAT", "startIdx": 57, "endIdx": 63}, {"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110343865070833665", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 70, "endIdx": 78}, {"text": "Nebraska", "type": "STAT", "startIdx": 70, "endIdx": 78}]}
+{"tweet_id": "1111601494300729349", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 81, "endIdx": 89}, {"text": "nebraska", "type": "STAT", "startIdx": 155, "endIdx": 163}]}
+{"tweet_id": "1112086951690227712", "location_mentions": []}
+{"tweet_id": "1111740678600572930", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 145, "endIdx": 153}]}
+{"tweet_id": "1111707374069432320", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 282, "endIdx": 290}]}
+{"tweet_id": "1110654936877096963", "location_mentions": [{"text": "Dakota", "type": "STAT", "startIdx": 77, "endIdx": 83}, {"text": "Nebraska", "type": "STAT", "startIdx": 85, "endIdx": 93}, {"text": "Iowa", "type": "STAT", "startIdx": 95, "endIdx": 99}, {"text": "Missouri", "type": "STAT", "startIdx": 104, "endIdx": 112}]}
+{"tweet_id": "1110363118453080064", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 76, "endIdx": 84}]}
+{"tweet_id": "1110638968251580416", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 48, "endIdx": 56}]}
+{"tweet_id": "1112704332108103682", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 95, "endIdx": 103}]}
+{"tweet_id": "1111438503676538881", "location_mentions": [{"text": "Asia", "type": "CONT", "startIdx": 26, "endIdx": 30}, {"text": "Nebraska", "type": "STAT", "startIdx": 146, "endIdx": 154}, {"text": "South Dakota", "type": "STAT", "startIdx": 156, "endIdx": 168}, {"text": "Iowa", "type": "STAT", "startIdx": 170, "endIdx": 174}, {"text": "Wisconsin", "type": "STAT", "startIdx": 179, "endIdx": 188}]}
+{"tweet_id": "1111298129230331904", "location_mentions": [{"text": "Nebraskas", "type": "STAT", "startIdx": 59, "endIdx": 68}]}
+{"tweet_id": "1113160368040312833", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 64, "endIdx": 72}]}
+{"tweet_id": "1110523102482628608", "location_mentions": []}
+{"tweet_id": "1112318833358979073", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 66, "endIdx": 74}]}
+{"tweet_id": "1110667233041108992", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 39, "endIdx": 43}, {"text": "Nebraska", "type": "STAT", "startIdx": 44, "endIdx": 52}]}
+{"tweet_id": "1112676790391185408", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 29, "endIdx": 37}]}
+{"tweet_id": "1111648443775225859", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 46, "endIdx": 54}]}
+{"tweet_id": "1111002202259292160", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 82, "endIdx": 86}, {"text": "Nebraska", "type": "STAT", "startIdx": 91, "endIdx": 99}]}
+{"tweet_id": "1110651101852909569", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Iowa", "type": "STAT", "startIdx": 121, "endIdx": 125}, {"text": "Chicago", "type": "CITY", "startIdx": 136, "endIdx": 143}]}
+{"tweet_id": "1111312910305947649", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 81, "endIdx": 89}]}
+{"tweet_id": "1110368937324142592", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 68, "endIdx": 76}]}
+{"tweet_id": "1110857716975702016", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 99, "endIdx": 107}, {"text": "America", "type": "CONT", "startIdx": 154, "endIdx": 161}]}
+{"tweet_id": "1112047248786055168", "location_mentions": []}
+{"tweet_id": "1111359225983307776", "location_mentions": []}
+{"tweet_id": "1111011191214784512", "location_mentions": []}
+{"tweet_id": "1110602048976891904", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 1, "endIdx": 9}]}
+{"tweet_id": "1111481612766769152", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 70, "endIdx": 78}, {"text": "Nebraska", "type": "STAT", "startIdx": 70, "endIdx": 78}, {"text": "Kansas", "type": "STAT", "startIdx": 173, "endIdx": 179}]}
+{"tweet_id": "1110664250203095040", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 48, "endIdx": 56}]}
+{"tweet_id": "1110636781555326977", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 18, "endIdx": 26}]}
+{"tweet_id": "1111025855147507713", "location_mentions": [{"text": "Glenwood", "type": "CITY", "startIdx": 17, "endIdx": 25}, {"text": "Iowa", "type": "STAT", "startIdx": 29, "endIdx": 33}]}
+{"tweet_id": "1110881759841931265", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 39, "endIdx": 47}]}
+{"tweet_id": "1110896438521856000", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 51, "endIdx": 59}]}
+{"tweet_id": "1111726629380739072", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 169, "endIdx": 177}, {"text": "Iowa", "type": "STAT", "startIdx": 182, "endIdx": 186}]}
+{"tweet_id": "1111373388700778497", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 56, "endIdx": 64}]}
+{"tweet_id": "1111356459730849793", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 72, "endIdx": 80}, {"text": "Iowa", "type": "STAT", "startIdx": 85, "endIdx": 89}]}
+{"tweet_id": "1112392560893280257", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 90, "endIdx": 98}]}
+{"tweet_id": "1110606287392395270", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 17, "endIdx": 25}]}
+{"tweet_id": "1110541632062017539", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 45, "endIdx": 53}]}
+{"tweet_id": "1113035039397249024", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 66, "endIdx": 74}]}
+{"tweet_id": "1113065011323125761", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Manhattan", "type": "CITY", "startIdx": 36, "endIdx": 45}, {"text": "Kansas", "type": "STAT", "startIdx": 57, "endIdx": 63}, {"text": "Manhattan", "type": "CITY", "startIdx": 36, "endIdx": 45}]}
+{"tweet_id": "1110355408009547777", "location_mentions": []}
+{"tweet_id": "1110738831861411840", "location_mentions": []}
+{"tweet_id": "1112307187613949954", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 61, "endIdx": 65}, {"text": "Missouri", "type": "STAT", "startIdx": 77, "endIdx": 85}, {"text": "Nebraska", "type": "STAT", "startIdx": 90, "endIdx": 98}]}
+{"tweet_id": "1110650421130022914", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 18, "endIdx": 26}]}
+{"tweet_id": "1110287061007978497", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 56, "endIdx": 64}]}
+{"tweet_id": "1112567823665188864", "location_mentions": [{"text": "US", "type": "CTRY", "startIdx": 62, "endIdx": 64}]}
+{"tweet_id": "1110934146732433408", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 42, "endIdx": 50}, {"text": "Iowa", "type": "STAT", "startIdx": 55, "endIdx": 59}]}
+{"tweet_id": "1113055635317383168", "location_mentions": [{"text": "Colorado", "type": "STAT", "startIdx": 20, "endIdx": 28}, {"text": "Iowa", "type": "STAT", "startIdx": 30, "endIdx": 34}, {"text": "Maine", "type": "STAT", "startIdx": 36, "endIdx": 41}, {"text": "Minnesota", "type": "STAT", "startIdx": 43, "endIdx": 52}, {"text": "Mississippi", "type": "STAT", "startIdx": 54, "endIdx": 65}, {"text": "Missouri", "type": "STAT", "startIdx": 67, "endIdx": 75}, {"text": "Nebraska", "type": "STAT", "startIdx": 77, "endIdx": 85}, {"text": "Texas", "type": "STAT", "startIdx": 87, "endIdx": 92}, {"text": "Virginia", "type": "STAT", "startIdx": 94, "endIdx": 102}, {"text": "Washington", "type": "STAT", "startIdx": 104, "endIdx": 114}, {"text": "Wyoming", "type": "STAT", "startIdx": 119, "endIdx": 126}]}
+{"tweet_id": "1111722505159561217", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 86, "endIdx": 94}]}
+{"tweet_id": "1111303942884020224", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 47, "endIdx": 55}]}
+{"tweet_id": "1111347864397967360", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 53, "endIdx": 61}]}
+{"tweet_id": "1111043077190418434", "location_mentions": [{"text": "Michigan", "type": "STAT", "startIdx": 13, "endIdx": 21}, {"text": "Nebraska", "type": "STAT", "startIdx": 59, "endIdx": 67}]}
+{"tweet_id": "1111351408983302144", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 135, "endIdx": 139}, {"text": "Nebraska", "type": "STAT", "startIdx": 178, "endIdx": 186}]}
+{"tweet_id": "1110372396551286784", "location_mentions": []}
+{"tweet_id": "1110895927412359173", "location_mentions": [{"text": "nebraska", "type": "STAT", "startIdx": 159, "endIdx": 167}]}
+{"tweet_id": "1111839067191369728", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 3, "endIdx": 11}]}
+{"tweet_id": "1111713617802493952", "location_mentions": [{"text": "USA", "type": "CTRY", "startIdx": 0, "endIdx": 3}, {"text": "Nebraska", "type": "STAT", "startIdx": 68, "endIdx": 76}, {"text": "Iowa", "type": "STAT", "startIdx": 138, "endIdx": 142}, {"text": "Wisconsin", "type": "STAT", "startIdx": 144, "endIdx": 153}, {"text": "Missouri", "type": "STAT", "startIdx": 158, "endIdx": 166}]}
+{"tweet_id": "1112827013440602113", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 68, "endIdx": 72}, {"text": "Nebraska", "type": "STAT", "startIdx": 77, "endIdx": 85}]}
+{"tweet_id": "1110360553451589633", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 21, "endIdx": 25}, {"text": "Nebraska", "type": "STAT", "startIdx": 32, "endIdx": 40}]}
+{"tweet_id": "1113167409354027015", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 8, "endIdx": 16}]}
+{"tweet_id": "1112692167531773953", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 134, "endIdx": 142}]}
+{"tweet_id": "1113093464802103296", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 47, "endIdx": 55}]}
+{"tweet_id": "1111717801054662658", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 122, "endIdx": 130}]}
+{"tweet_id": "1110314000947077123", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 37, "endIdx": 45}]}
+{"tweet_id": "1110504953129431040", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 68, "endIdx": 76}, {"text": "Iowa", "type": "STAT", "startIdx": 78, "endIdx": 82}, {"text": "Wisconsin", "type": "STAT", "startIdx": 88, "endIdx": 97}]}
+{"tweet_id": "1111290643542872064", "location_mentions": [{"text": "USA", "type": "CTRY", "startIdx": 16, "endIdx": 19}, {"text": "NEBRASKA", "type": "STAT", "startIdx": 243, "endIdx": 251}]}
+{"tweet_id": "1110389650886193153", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 36, "endIdx": 44}]}
+{"tweet_id": "1111109198446628864", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 51, "endIdx": 59}]}
+{"tweet_id": "1110567565095522305", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 56, "endIdx": 64}]}
+{"tweet_id": "1110631623416922112", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 82, "endIdx": 90}]}
+{"tweet_id": "1110300348672102401", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 76, "endIdx": 84}]}
+{"tweet_id": "1111548990301110272", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 239, "endIdx": 247}, {"text": "Oklahoma", "type": "STAT", "startIdx": 293, "endIdx": 301}]}
+{"tweet_id": "1113019187813810177", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 57, "endIdx": 61}, {"text": "Missouri", "type": "STAT", "startIdx": 63, "endIdx": 71}, {"text": "Nebraska", "type": "STAT", "startIdx": 77, "endIdx": 85}]}
+{"tweet_id": "1110987364728557568", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 9, "endIdx": 17}]}
+{"tweet_id": "1113075627907862533", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 66, "endIdx": 74}, {"text": "Nebraska", "type": "STAT", "startIdx": 66, "endIdx": 74}]}
+{"tweet_id": "1110695142112051201", "location_mentions": []}
+{"tweet_id": "1111703019220025345", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 18, "endIdx": 26}]}
+{"tweet_id": "1111718209579823104", "location_mentions": []}
+{"tweet_id": "1110916855915532288", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 83, "endIdx": 91}]}
+{"tweet_id": "1110319263011745799", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 43, "endIdx": 51}]}
+{"tweet_id": "1111502076490772480", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 65, "endIdx": 73}]}
+{"tweet_id": "1112724055730409475", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 11, "endIdx": 19}]}
+{"tweet_id": "1113105299576061952", "location_mentions": []}
+{"tweet_id": "1111014865949331461", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 93, "endIdx": 101}]}
+{"tweet_id": "1112078643772166144", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 87, "endIdx": 95}]}
+{"tweet_id": "1111135080997511168", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 52, "endIdx": 60}, {"text": "USA", "type": "CTRY", "startIdx": 66, "endIdx": 69}]}
+{"tweet_id": "1111419798791966721", "location_mentions": [{"text": "America", "type": "CONT", "startIdx": 62, "endIdx": 69}]}
+{"tweet_id": "1111022140487278594", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 106, "endIdx": 114}, {"text": "California", "type": "STAT", "startIdx": 123, "endIdx": 133}]}
+{"tweet_id": "1111621247639658496", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 80, "endIdx": 88}]}
+{"tweet_id": "1110677075730538496", "location_mentions": [{"text": "Miami", "type": "CITY", "startIdx": 131, "endIdx": 136}, {"text": "Nebraska", "type": "STAT", "startIdx": 138, "endIdx": 146}]}
+{"tweet_id": "1112784896177500160", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 209, "endIdx": 217}]}
+{"tweet_id": "1111072311308890113", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 9, "endIdx": 17}]}
+{"tweet_id": "1110909337973784576", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 26, "endIdx": 34}]}
+{"tweet_id": "1111284742899552256", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 157, "endIdx": 165}, {"text": "Iowa", "type": "STAT", "startIdx": 170, "endIdx": 174}]}
+{"tweet_id": "1112827939438125057", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 28, "endIdx": 36}]}
+{"tweet_id": "1111678184699973632", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 58, "endIdx": 66}, {"text": "Nebraska", "type": "STAT", "startIdx": 58, "endIdx": 66}]}
+{"tweet_id": "1110621259245764608", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 117, "endIdx": 121}, {"text": "Nebraska", "type": "STAT", "startIdx": 123, "endIdx": 131}, {"text": "Missouri", "type": "STAT", "startIdx": 133, "endIdx": 141}, {"text": "Kansas", "type": "STAT", "startIdx": 143, "endIdx": 149}, {"text": "Illinois", "type": "STAT", "startIdx": 151, "endIdx": 159}, {"text": "Indiana", "type": "STAT", "startIdx": 161, "endIdx": 168}, {"text": "Wisconsin", "type": "STAT", "startIdx": 170, "endIdx": 179}, {"text": "Minnesota", "type": "STAT", "startIdx": 181, "endIdx": 190}, {"text": "Dakota", "type": "STAT", "startIdx": 198, "endIdx": 204}, {"text": "Kentucky", "type": "STAT", "startIdx": 209, "endIdx": 217}]}
+{"tweet_id": "1113148729459015680", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 60, "endIdx": 68}, {"text": "Nebraska", "type": "STAT", "startIdx": 60, "endIdx": 68}]}
+{"tweet_id": "1112334830421921792", "location_mentions": [{"text": "CA", "type": "STAT", "startIdx": 58, "endIdx": 60}]}
+{"tweet_id": "1111402647498547201", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 45, "endIdx": 53}]}
+{"tweet_id": "1110652448002043904", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 1, "endIdx": 9}]}
+{"tweet_id": "1112118745785356288", "location_mentions": [{"text": "Omaha", "type": "CITY", "startIdx": 46, "endIdx": 51}, {"text": "Nebraska", "type": "STAT", "startIdx": 53, "endIdx": 61}]}
+{"tweet_id": "1110891186368274432", "location_mentions": [{"text": "NEBRASKA", "type": "STAT", "startIdx": 25, "endIdx": 33}, {"text": "NEBRASKA", "type": "STAT", "startIdx": 25, "endIdx": 33}]}
+{"tweet_id": "1112148115610460160", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 89, "endIdx": 97}]}
+{"tweet_id": "1110736762807177217", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 34, "endIdx": 42}, {"text": "Iowa", "type": "STAT", "startIdx": 44, "endIdx": 48}, {"text": "South Dakota", "type": "STAT", "startIdx": 50, "endIdx": 62}, {"text": "North Dakota", "type": "STAT", "startIdx": 64, "endIdx": 76}, {"text": "Kansas", "type": "STAT", "startIdx": 78, "endIdx": 84}, {"text": "Minnesota", "type": "STAT", "startIdx": 86, "endIdx": 95}, {"text": "Colorado", "type": "STAT", "startIdx": 101, "endIdx": 109}]}
+{"tweet_id": "1110920861278715905", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 295, "endIdx": 303}]}
+{"tweet_id": "1110384776400330752", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 42, "endIdx": 50}]}
+{"tweet_id": "1110386717008130048", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 43, "endIdx": 51}]}
+{"tweet_id": "1112725816809570309", "location_mentions": [{"text": "Brazil", "type": "CTRY", "startIdx": 8, "endIdx": 14}, {"text": "Germany", "type": "CTRY", "startIdx": 27, "endIdx": 34}, {"text": "Nebraska", "type": "STAT", "startIdx": 92, "endIdx": 100}]}
+{"tweet_id": "1111622604740325380", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 44, "endIdx": 52}]}
+{"tweet_id": "1112397537019863040", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 196, "endIdx": 204}]}
+{"tweet_id": "1110993551888912386", "location_mentions": [{"text": "Colorado", "type": "STAT", "startIdx": 21, "endIdx": 29}, {"text": "Nebraska", "type": "STAT", "startIdx": 50, "endIdx": 58}, {"text": "Nebraska", "type": "STAT", "startIdx": 50, "endIdx": 58}]}
+{"tweet_id": "1110545755176079360", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 47, "endIdx": 55}]}
+{"tweet_id": "1111002997176352773", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 49, "endIdx": 53}, {"text": "Nebraska", "type": "STAT", "startIdx": 76, "endIdx": 84}, {"text": "Missouri", "type": "STAT", "startIdx": 123, "endIdx": 131}]}
+{"tweet_id": "1112820846865928192", "location_mentions": []}
+{"tweet_id": "1112896496775647233", "location_mentions": [{"text": "NEBRASKA", "type": "STAT", "startIdx": 28, "endIdx": 36}]}
+{"tweet_id": "1112214521475674113", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 29, "endIdx": 37}]}
+{"tweet_id": "1110869461102485508", "location_mentions": [{"text": "NebraskaIowaMissouri", "type": "STAT", "startIdx": 45, "endIdx": 65}, {"text": "America", "type": "CONT", "startIdx": 84, "endIdx": 91}]}
+{"tweet_id": "1113129504380256256", "location_mentions": [{"text": "iowa", "type": "STAT", "startIdx": 118, "endIdx": 122}, {"text": "New York", "type": "STAT", "startIdx": 190, "endIdx": 198}, {"text": "New Orleans", "type": "CITY", "startIdx": 203, "endIdx": 214}]}
+{"tweet_id": "1112489393149890565", "location_mentions": [{"text": "Minnesota", "type": "STAT", "startIdx": 52, "endIdx": 61}, {"text": "Nebraska", "type": "STAT", "startIdx": 73, "endIdx": 81}]}
+{"tweet_id": "1110305048456822784", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 113, "endIdx": 117}, {"text": "Nebraska", "type": "STAT", "startIdx": 119, "endIdx": 127}]}
+{"tweet_id": "1112098555781619713", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 22, "endIdx": 30}]}
+{"tweet_id": "1110940594132520960", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 51, "endIdx": 59}, {"text": "Iowa", "type": "STAT", "startIdx": 64, "endIdx": 68}]}
+{"tweet_id": "1111699239023927296", "location_mentions": []}
+{"tweet_id": "1110898992102150146", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 64, "endIdx": 72}]}
+{"tweet_id": "1112455635210305536", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 51, "endIdx": 59}]}
+{"tweet_id": "1111595186038030336", "location_mentions": [{"text": "Shiraz", "type": "CITY", "startIdx": 63, "endIdx": 69}, {"text": "Nebraska", "type": "STAT", "startIdx": 217, "endIdx": 225}]}
+{"tweet_id": "1111300716780494848", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 32, "endIdx": 40}]}
+{"tweet_id": "1110711781280886784", "location_mentions": []}
+{"tweet_id": "1110625228705554432", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1111837792655552512", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 151, "endIdx": 159}]}
+{"tweet_id": "1110741486730166273", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 13, "endIdx": 21}]}
+{"tweet_id": "1111598284131454976", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 44, "endIdx": 52}]}
+{"tweet_id": "1111289197300801536", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 8, "endIdx": 16}]}
+{"tweet_id": "1110590699467165696", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 85, "endIdx": 93}]}
+{"tweet_id": "1110628475344510979", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1113300789311754240", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 140, "endIdx": 148}]}
+{"tweet_id": "1110727552677470209", "location_mentions": []}
+{"tweet_id": "1111087594744528896", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 45, "endIdx": 53}]}
+{"tweet_id": "1110641333985656832", "location_mentions": [{"text": "Chicago", "type": "CITY", "startIdx": 0, "endIdx": 7}, {"text": "Nebraska", "type": "STAT", "startIdx": 13, "endIdx": 21}]}
+{"tweet_id": "1112459818692956161", "location_mentions": [{"text": "Texas", "type": "STAT", "startIdx": 30, "endIdx": 35}, {"text": "Nebraska", "type": "STAT", "startIdx": 241, "endIdx": 249}]}
+{"tweet_id": "1113140469381382145", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 44, "endIdx": 52}]}
+{"tweet_id": "1111040465439281153", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 123, "endIdx": 131}, {"text": "Iowa", "type": "STAT", "startIdx": 138, "endIdx": 142}]}
+{"tweet_id": "1110965048799838208", "location_mentions": [{"text": "America", "type": "CONT", "startIdx": 31, "endIdx": 38}, {"text": "Nebraska", "type": "STAT", "startIdx": 103, "endIdx": 111}]}
+{"tweet_id": "1111840860856086528", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 103, "endIdx": 111}, {"text": "Iowa", "type": "STAT", "startIdx": 116, "endIdx": 120}, {"text": "nebraska", "type": "STAT", "startIdx": 145, "endIdx": 153}]}
+{"tweet_id": "1110591300984885248", "location_mentions": [{"text": "NEBRASKA", "type": "STAT", "startIdx": 5, "endIdx": 13}]}
+{"tweet_id": "1111689218902900736", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 34, "endIdx": 42}]}
+{"tweet_id": "1112455425344131074", "location_mentions": [{"text": "America", "type": "CONT", "startIdx": 54, "endIdx": 61}, {"text": "Grand Island", "type": "ISL", "startIdx": 122, "endIdx": 134}, {"text": "Nebraska", "type": "STAT", "startIdx": 214, "endIdx": 222}]}
+{"tweet_id": "1110720773092769792", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 77, "endIdx": 81}, {"text": "Nebraska", "type": "STAT", "startIdx": 83, "endIdx": 91}]}
+{"tweet_id": "1113259617168044032", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 34, "endIdx": 42}]}
+{"tweet_id": "1111508969799860224", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 13, "endIdx": 17}]}
+{"tweet_id": "1112537498071322624", "location_mentions": [{"text": "Florida", "type": "STAT", "startIdx": 72, "endIdx": 79}, {"text": "Nebraska", "type": "STAT", "startIdx": 150, "endIdx": 158}]}
+{"tweet_id": "1111052661820923904", "location_mentions": [{"text": "Iowa", "type": "STAT", "startIdx": 0, "endIdx": 4}, {"text": "Georgia", "type": "STAT", "startIdx": 6, "endIdx": 13}, {"text": "Nebraska", "type": "STAT", "startIdx": 15, "endIdx": 23}, {"text": "Puerto Ricos", "type": "ISL", "startIdx": 74, "endIdx": 86}]}
+{"tweet_id": "1110944019650170886", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 33, "endIdx": 41}, {"text": "Iowa", "type": "STAT", "startIdx": 43, "endIdx": 47}, {"text": "Missouri", "type": "STAT", "startIdx": 51, "endIdx": 59}]}
+{"tweet_id": "1110914811154653184", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 87, "endIdx": 95}]}
+{"tweet_id": "1111463008734199809", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 8, "endIdx": 16}]}
+{"tweet_id": "1110276718890237952", "location_mentions": [{"text": "Lincoln", "type": "CITY", "startIdx": 20, "endIdx": 27}, {"text": "Nebraska", "type": "STAT", "startIdx": 28, "endIdx": 36}, {"text": "Missouri", "type": "STAT", "startIdx": 78, "endIdx": 86}, {"text": "Lincoln", "type": "CITY", "startIdx": 20, "endIdx": 27}]}
+{"tweet_id": "1111466695993057280", "location_mentions": [{"text": "Alaska", "type": "STAT", "startIdx": 80, "endIdx": 86}, {"text": "NEBRASKA", "type": "STAT", "startIdx": 124, "endIdx": 132}]}
+{"tweet_id": "1110624443527622656", "location_mentions": [{"text": "Nebraskas", "type": "STAT", "startIdx": 84, "endIdx": 93}]}
+{"tweet_id": "1111573979192537088", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 69, "endIdx": 77}]}
+{"tweet_id": "1110869465166766082", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 48, "endIdx": 56}]}
+{"tweet_id": "1112132267047116801", "location_mentions": [{"text": "Omaha", "type": "CITY", "startIdx": 20, "endIdx": 25}, {"text": "Nebraska", "type": "STAT", "startIdx": 40, "endIdx": 48}, {"text": "Missouri", "type": "STAT", "startIdx": 98, "endIdx": 106}]}
+{"tweet_id": "1110717664735965184", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 87, "endIdx": 95}, {"text": "Nebraska", "type": "STAT", "startIdx": 87, "endIdx": 95}]}
+{"tweet_id": "1110275496590348292", "location_mentions": []}
+{"tweet_id": "1110319455903641604", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 83, "endIdx": 91}]}
+{"tweet_id": "1112296015783251968", "location_mentions": [{"text": "India", "type": "CTRY", "startIdx": 1, "endIdx": 6}, {"text": "Nebraska-Lincoln", "type": "STAT", "startIdx": 234, "endIdx": 250}]}
+{"tweet_id": "1110629606162419712", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Colorado", "type": "STAT", "startIdx": 22, "endIdx": 30}]}
+{"tweet_id": "1110891915627675648", "location_mentions": [{"text": "Kansas", "type": "STAT", "startIdx": 57, "endIdx": 63}, {"text": "Nebraska", "type": "STAT", "startIdx": 88, "endIdx": 96}, {"text": "Kansas", "type": "STAT", "startIdx": 57, "endIdx": 63}]}
+{"tweet_id": "1110853406531469315", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 210, "endIdx": 218}]}
+{"tweet_id": "1110351586130313222", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 27, "endIdx": 35}]}
+{"tweet_id": "1112878437608374272", "location_mentions": [{"text": "Michigan", "type": "STAT", "startIdx": 117, "endIdx": 125}, {"text": "Nebraska", "type": "STAT", "startIdx": 131, "endIdx": 139}, {"text": "Ohio", "type": "STAT", "startIdx": 153, "endIdx": 157}]}
+{"tweet_id": "1113094760858898432", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1110564298957324289", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 183, "endIdx": 191}]}
+{"tweet_id": "1110283406968045568", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 10, "endIdx": 18}]}
+{"tweet_id": "1111741769790701568", "location_mentions": [{"text": "Wisconsin", "type": "STAT", "startIdx": 38, "endIdx": 47}, {"text": "Nebraska", "type": "STAT", "startIdx": 84, "endIdx": 92}]}
+{"tweet_id": "1111289401588531200", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 240, "endIdx": 248}]}
+{"tweet_id": "1113113775975096320", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 154, "endIdx": 162}]}
+{"tweet_id": "1111915948678803456", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 120, "endIdx": 128}]}
+{"tweet_id": "1112491168934309888", "location_mentions": [{"text": "Missouri", "type": "STAT", "startIdx": 25, "endIdx": 33}, {"text": "Nebraska", "type": "STAT", "startIdx": 43, "endIdx": 51}]}
+{"tweet_id": "1110792452011491329", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 234, "endIdx": 242}, {"text": "Iowa", "type": "STAT", "startIdx": 244, "endIdx": 248}]}
+{"tweet_id": "1111582642120601600", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 11, "endIdx": 19}]}
+{"tweet_id": "1111255340732043264", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 45, "endIdx": 53}]}
+{"tweet_id": "1112558699699204096", "location_mentions": [{"text": "America", "type": "CONT", "startIdx": 8, "endIdx": 15}]}
+{"tweet_id": "1110278318941786112", "location_mentions": []}
+{"tweet_id": "1111958041149222913", "location_mentions": [{"text": "NEBRASKA", "type": "STAT", "startIdx": 20, "endIdx": 28}]}
+{"tweet_id": "1110651599125254144", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 199, "endIdx": 207}]}
+{"tweet_id": "1110554483485011968", "location_mentions": [{"text": "Ashland", "type": "CITY", "startIdx": 27, "endIdx": 34}, {"text": "Nebraska", "type": "STAT", "startIdx": 106, "endIdx": 114}]}
+{"tweet_id": "1110740471872188418", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 68, "endIdx": 76}, {"text": "Nebraska", "type": "STAT", "startIdx": 68, "endIdx": 76}]}
+{"tweet_id": "1110515961298329600", "location_mentions": [{"text": "South Dakota", "type": "STAT", "startIdx": 147, "endIdx": 159}, {"text": "Nebraska", "type": "STAT", "startIdx": 192, "endIdx": 200}, {"text": "Iowa", "type": "STAT", "startIdx": 202, "endIdx": 206}]}
+{"tweet_id": "1110318392093954048", "location_mentions": []}
+{"tweet_id": "1112356650214670337", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 51, "endIdx": 59}]}
+{"tweet_id": "1110251535274074113", "location_mentions": [{"text": "Nebraska/Midwest", "type": "STAT", "startIdx": 70, "endIdx": 86}]}
+{"tweet_id": "1110885687086198785", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 120, "endIdx": 128}, {"text": "Iowa", "type": "STAT", "startIdx": 133, "endIdx": 137}]}
+{"tweet_id": "1110277746553430022", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 23, "endIdx": 31}, {"text": "Iowa", "type": "STAT", "startIdx": 36, "endIdx": 40}]}
+{"tweet_id": "1110981842965020672", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 65, "endIdx": 73}]}
+{"tweet_id": "1110306017919696896", "location_mentions": []}
+{"tweet_id": "1112390023737954304", "location_mentions": [{"text": "TEXAS", "type": "STAT", "startIdx": 50, "endIdx": 55}, {"text": "Nebraska", "type": "STAT", "startIdx": 96, "endIdx": 104}, {"text": "Texas", "type": "STAT", "startIdx": 230, "endIdx": 235}]}
+{"tweet_id": "1112979569030651907", "location_mentions": [{"text": "Puerto Rico", "type": "ISL", "startIdx": 152, "endIdx": 163}, {"text": "Nebraska", "type": "STAT", "startIdx": 177, "endIdx": 185}]}
+{"tweet_id": "1111608011225788421", "location_mentions": [{"text": "Washington", "type": "STAT", "startIdx": 11, "endIdx": 21}, {"text": "Nebraska", "type": "STAT", "startIdx": 173, "endIdx": 181}, {"text": "Cali..weve", "type": "STAT", "startIdx": 195, "endIdx": 205}]}
+{"tweet_id": "1112430525808078852", "location_mentions": [{"text": "Nebraska.", "type": "STAT", "startIdx": 176, "endIdx": 185}]}
+{"tweet_id": "1110647546341408769", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 54, "endIdx": 62}, {"text": "Iowa", "type": "STAT", "startIdx": 64, "endIdx": 68}, {"text": "Missouri", "type": "STAT", "startIdx": 70, "endIdx": 78}, {"text": "Mississippi", "type": "STAT", "startIdx": 95, "endIdx": 106}]}
+{"tweet_id": "1110673939863343105", "location_mentions": []}
+{"tweet_id": "1113255229007355905", "location_mentions": [{"text": "nebraska", "type": "STAT", "startIdx": 52, "endIdx": 60}]}
+{"tweet_id": "1110963319567978496", "location_mentions": [{"text": "Nebraskans", "type": "STAT", "startIdx": 63, "endIdx": 73}]}
+{"tweet_id": "1112426494335291392", "location_mentions": [{"text": "Texas", "type": "STAT", "startIdx": 133, "endIdx": 138}, {"text": "Nebraska", "type": "STAT", "startIdx": 155, "endIdx": 163}]}
+{"tweet_id": "1111993243477123072", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 28, "endIdx": 36}, {"text": "Iowa", "type": "STAT", "startIdx": 41, "endIdx": 45}, {"text": "South Dakota", "type": "STAT", "startIdx": 74, "endIdx": 86}, {"text": "Wisconsin", "type": "STAT", "startIdx": 88, "endIdx": 97}, {"text": "Illinois", "type": "STAT", "startIdx": 99, "endIdx": 107}, {"text": "Missouri", "type": "STAT", "startIdx": 109, "endIdx": 117}, {"text": "Kansas", "type": "STAT", "startIdx": 119, "endIdx": 125}]}
+{"tweet_id": "1110637625910743041", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 128, "endIdx": 136}]}
+{"tweet_id": "1113320207047626752", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 39, "endIdx": 47}, {"text": "Nebraska", "type": "STAT", "startIdx": 39, "endIdx": 47}, {"text": "Mexico..", "type": "CTRY", "startIdx": 226, "endIdx": 234}]}
+{"tweet_id": "1112806728951914497", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 131, "endIdx": 139}]}
+{"tweet_id": "1110266044508065792", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1111352514757226496", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 245, "endIdx": 253}]}
+{"tweet_id": "1111749594977832961", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 43, "endIdx": 51}]}
+{"tweet_id": "1111735172347633664", "location_mentions": []}
+{"tweet_id": "1111476005992955904", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 106, "endIdx": 114}]}
+{"tweet_id": "1112485456141303808", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 197, "endIdx": 205}]}
+{"tweet_id": "1110804464292773888", "location_mentions": [{"text": "Dakota", "type": "STAT", "startIdx": 50, "endIdx": 56}, {"text": "Nebraska", "type": "STAT", "startIdx": 60, "endIdx": 68}]}
+{"tweet_id": "1111400261929451520", "location_mentions": []}
+{"tweet_id": "1110752913394188289", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 56, "endIdx": 64}]}
+{"tweet_id": "1113260659008000001", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}, {"text": "Alaska", "type": "STAT", "startIdx": 40, "endIdx": 46}, {"text": "Washington", "type": "STAT", "startIdx": 70, "endIdx": 80}, {"text": "Canada", "type": "CTRY", "startIdx": 97, "endIdx": 103}]}
+{"tweet_id": "1111969378243891200", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 150, "endIdx": 158}]}
+{"tweet_id": "1110300754173001735", "location_mentions": []}
+{"tweet_id": "1111422745001103360", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1112015652779376640", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1112707947258351616", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 101, "endIdx": 109}]}
+{"tweet_id": "1110908411124822017", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 65, "endIdx": 73}, {"text": "Arizona", "type": "STAT", "startIdx": 96, "endIdx": 103}]}
+{"tweet_id": "1110241129931235331", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 6, "endIdx": 14}]}
+{"tweet_id": "1110625159281442817", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 1, "endIdx": 9}]}
+{"tweet_id": "1111786718271848449", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 27, "endIdx": 35}, {"text": "Nebraska", "type": "STAT", "startIdx": 27, "endIdx": 35}, {"text": "NEBRASKA", "type": "STAT", "startIdx": 189, "endIdx": 197}]}
+{"tweet_id": "1110870787836297222", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 100, "endIdx": 108}]}
+{"tweet_id": "1113081779731267586", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1112010817334067202", "location_mentions": [{"text": "California", "type": "STAT", "startIdx": 60, "endIdx": 70}]}
+{"tweet_id": "1112134914441400320", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 28, "endIdx": 36}, {"text": "Lincoln", "type": "CITY", "startIdx": 53, "endIdx": 60}]}
+{"tweet_id": "1112059242553450499", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 53, "endIdx": 61}]}
+{"tweet_id": "1113259685497405442", "location_mentions": [{"text": "Ohio", "type": "STAT", "startIdx": 128, "endIdx": 132}, {"text": "Nebraska", "type": "STAT", "startIdx": 92, "endIdx": 100}]}
+{"tweet_id": "1111719805055369216", "location_mentions": [{"text": "nebraska", "type": "STAT", "startIdx": 49, "endIdx": 57}]}
+{"tweet_id": "1112134951959445504", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 21, "endIdx": 29}]}
+{"tweet_id": "1110744800532271104", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 34, "endIdx": 42}]}
+{"tweet_id": "1110927055129100290", "location_mentions": []}
+{"tweet_id": "1113116488347631617", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 12, "endIdx": 20}, {"text": "Kansas", "type": "STAT", "startIdx": 22, "endIdx": 28}, {"text": "Iowa", "type": "STAT", "startIdx": 30, "endIdx": 34}, {"text": "Minnesota", "type": "STAT", "startIdx": 36, "endIdx": 45}, {"text": "Dakotas", "type": "STAT", "startIdx": 51, "endIdx": 58}, {"text": "Missouri", "type": "STAT", "startIdx": 64, "endIdx": 72}, {"text": "Nebraska", "type": "STAT", "startIdx": 12, "endIdx": 20}]}
+{"tweet_id": "1111987137396629504", "location_mentions": [{"text": "Colorado", "type": "STAT", "startIdx": 46, "endIdx": 54}, {"text": "Nebraska", "type": "STAT", "startIdx": 106, "endIdx": 114}]}
+{"tweet_id": "1111766153041506305", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 84, "endIdx": 92}]}
+{"tweet_id": "1110628027824816128", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "1111591654669066241", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 173, "endIdx": 181}, {"text": "Iowa", "type": "STAT", "startIdx": 182, "endIdx": 186}, {"text": "Missouri", "type": "STAT", "startIdx": 193, "endIdx": 201}]}
+{"tweet_id": "1110992824504332288", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 59, "endIdx": 67}]}
+{"tweet_id": "1111690228132003840", "location_mentions": []}
+{"tweet_id": "1111808502920634369", "location_mentions": [{"text": "Wisconsin", "type": "STAT", "startIdx": 10, "endIdx": 19}]}
+{"tweet_id": "1110516246582358017", "location_mentions": []}
+{"tweet_id": "1110594324020891654", "location_mentions": []}
+{"tweet_id": "1110998765681496064", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 26, "endIdx": 34}, {"text": "Iowa", "type": "STAT", "startIdx": 39, "endIdx": 43}, {"text": "America", "type": "CONT", "startIdx": 61, "endIdx": 68}]}
+{"tweet_id": "1112029376604966914", "location_mentions": []}
+{"tweet_id": "1113257693274181633", "location_mentions": []}
+{"tweet_id": "1112906426668679171", "location_mentions": [{"text": "USA", "type": "CTRY", "startIdx": 16, "endIdx": 19}, {"text": "LINCOLN", "type": "CITY", "startIdx": 209, "endIdx": 216}, {"text": "NEBRASKA", "type": "STAT", "startIdx": 218, "endIdx": 226}]}
+{"tweet_id": "1113077002498641920", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 145, "endIdx": 153}, {"text": "Puerto Rico", "type": "ISL", "startIdx": 170, "endIdx": 181}]}
+{"tweet_id": "1112910595475607552", "location_mentions": [{"text": "nebraska", "type": "STAT", "startIdx": 52, "endIdx": 60}, {"text": "nebraska", "type": "STAT", "startIdx": 52, "endIdx": 60}]}
+{"tweet_id": "1113331827006070784", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 64, "endIdx": 72}, {"text": "Nebraska-", "type": "STAT", "startIdx": 158, "endIdx": 167}]}
+{"tweet_id": "1110310467782746113", "location_mentions": []}
+{"tweet_id": "1112519183592550400", "location_mentions": []}
+{"tweet_id": "1112753011044945920", "location_mentions": []}
+{"tweet_id": "1112097227546218496", "location_mentions": []}
+{"tweet_id": "1111819686147248128", "location_mentions": []}
+{"tweet_id": "1110625763819167744", "location_mentions": []}
+{"tweet_id": "1112461777000976385", "location_mentions": []}
+{"tweet_id": "1111124825227952128", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 153, "endIdx": 161}]}
+{"tweet_id": "1111094448648261632", "location_mentions": []}
+{"tweet_id": "1110958989347569665", "location_mentions": [{"text": "Omaha", "type": "CITY", "startIdx": 154, "endIdx": 159}, {"text": "Nebraska", "type": "STAT", "startIdx": 161, "endIdx": 169}]}
+{"tweet_id": "1112472498908602369", "location_mentions": []}
+{"tweet_id": "1113080375591518208", "location_mentions": [{"text": "TX", "type": "STAT", "startIdx": 49, "endIdx": 51}, {"text": "Nebraska", "type": "STAT", "startIdx": 119, "endIdx": 127}, {"text": "Maine", "type": "STAT", "startIdx": 132, "endIdx": 137}]}
+{"tweet_id": "1112858867220860928", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 77, "endIdx": 85}]}
+{"tweet_id": "1112847746082304001", "location_mentions": [{"text": "omaha", "type": "CITY", "startIdx": 195, "endIdx": 200}, {"text": "nebraska", "type": "STAT", "startIdx": 207, "endIdx": 215}, {"text": "iowa", "type": "STAT", "startIdx": 242, "endIdx": 246}]}
+{"tweet_id": "1113246961111490560", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 122, "endIdx": 130}]}
+{"tweet_id": "1113228454802096128", "location_mentions": [{"text": "Nebraska", "type": "STAT", "startIdx": 23, "endIdx": 31}]}

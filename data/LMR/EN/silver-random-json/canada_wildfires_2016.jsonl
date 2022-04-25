@@ -1,0 +1,959 @@
+{"tweet_id": "735891446960623616", "location_mentions": []}
+{"tweet_id": "731202020296818688", "location_mentions": []}
+{"tweet_id": "733665357236342784", "location_mentions": []}
+{"tweet_id": "731963038429929472", "location_mentions": []}
+{"tweet_id": "735938864251064320", "location_mentions": []}
+{"tweet_id": "728957128115933184", "location_mentions": []}
+{"tweet_id": "728627443406344192", "location_mentions": []}
+{"tweet_id": "728771306213265414", "location_mentions": []}
+{"tweet_id": "732684355349434368", "location_mentions": []}
+{"tweet_id": "731202296210685952", "location_mentions": []}
+{"tweet_id": "732662103576875011", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 56, "endIdx": 63}]}
+{"tweet_id": "729380927923732482", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 29, "endIdx": 36}]}
+{"tweet_id": "735848536202313731", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 28, "endIdx": 35}]}
+{"tweet_id": "730824010506768385", "location_mentions": []}
+{"tweet_id": "732013993112555521", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 80, "endIdx": 87}]}
+{"tweet_id": "733975887302037505", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 15, "endIdx": 28}]}
+{"tweet_id": "732962494252113920", "location_mentions": []}
+{"tweet_id": "730487576436592640", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 44, "endIdx": 57}]}
+{"tweet_id": "728615170155614210", "location_mentions": [{"text": "Canadas", "type": "CTRY", "startIdx": 4, "endIdx": 11}]}
+{"tweet_id": "729985764860141569", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 58, "endIdx": 71}]}
+{"tweet_id": "729874157928906752", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "728969146298294272", "location_mentions": [{"text": "canada", "type": "CTRY", "startIdx": 53, "endIdx": 59}]}
+{"tweet_id": "731196823256195072", "location_mentions": []}
+{"tweet_id": "728575162895859714", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 26, "endIdx": 32}]}
+{"tweet_id": "728739693865537536", "location_mentions": []}
+{"tweet_id": "730789648142716930", "location_mentions": [{"text": "Alberta/NEW", "type": "STAT", "startIdx": 88, "endIdx": 99}]}
+{"tweet_id": "729416589347454976", "location_mentions": []}
+{"tweet_id": "728694561518854144", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 75, "endIdx": 82}]}
+{"tweet_id": "730855209753153536", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 32, "endIdx": 38}]}
+{"tweet_id": "729338525598945280", "location_mentions": []}
+{"tweet_id": "729672616483553281", "location_mentions": []}
+{"tweet_id": "730890673847554048", "location_mentions": [{"text": "Fort McMurra", "type": "HPOI", "startIdx": 40, "endIdx": 52}]}
+{"tweet_id": "730056689106325505", "location_mentions": []}
+{"tweet_id": "728589151197605888", "location_mentions": []}
+{"tweet_id": "729273280637579264", "location_mentions": []}
+{"tweet_id": "728573266537779200", "location_mentions": []}
+{"tweet_id": "728592492782882816", "location_mentions": []}
+{"tweet_id": "729788498266357760", "location_mentions": []}
+{"tweet_id": "730610988005756928", "location_mentions": []}
+{"tweet_id": "729059089347534848", "location_mentions": []}
+{"tweet_id": "732548289258618880", "location_mentions": []}
+{"tweet_id": "729802875111505921", "location_mentions": []}
+{"tweet_id": "731186787012349953", "location_mentions": []}
+{"tweet_id": "728720481050857472", "location_mentions": []}
+{"tweet_id": "728612849455607808", "location_mentions": [{"text": "Manitoba", "type": "STAT", "startIdx": 13, "endIdx": 21}, {"text": "Alberta", "type": "STAT", "startIdx": 79, "endIdx": 86}]}
+{"tweet_id": "728654777115021312", "location_mentions": []}
+{"tweet_id": "733166048711598082", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 4, "endIdx": 10}, {"text": "Alberta", "type": "STAT", "startIdx": 53, "endIdx": 60}, {"text": "Canada", "type": "CTRY", "startIdx": 4, "endIdx": 10}]}
+{"tweet_id": "732460710655975424", "location_mentions": []}
+{"tweet_id": "730134256039677954", "location_mentions": []}
+{"tweet_id": "733348835393740800", "location_mentions": [{"text": "Vancouver", "type": "CITY", "startIdx": 14, "endIdx": 23}]}
+{"tweet_id": "728641998660505601", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 85, "endIdx": 92}]}
+{"tweet_id": "729515018505625602", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 62, "endIdx": 69}]}
+{"tweet_id": "732553913979666432", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 12, "endIdx": 19}]}
+{"tweet_id": "728749039324299264", "location_mentions": [{"text": "Syrian", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "729704420649230337", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 61, "endIdx": 74}]}
+{"tweet_id": "735475235458142208", "location_mentions": []}
+{"tweet_id": "731807273983479808", "location_mentions": [{"text": "Manitoba/Ontario", "type": "CITY", "startIdx": 35, "endIdx": 51}]}
+{"tweet_id": "728777578308349952", "location_mentions": []}
+{"tweet_id": "729710580102103040", "location_mentions": []}
+{"tweet_id": "729394150416748544", "location_mentions": []}
+{"tweet_id": "728796272967098370", "location_mentions": []}
+{"tweet_id": "728594196349648896", "location_mentions": []}
+{"tweet_id": "728957421113233408", "location_mentions": [{"text": "America", "type": "CONT", "startIdx": 1, "endIdx": 8}]}
+{"tweet_id": "732106617592782849", "location_mentions": []}
+{"tweet_id": "731222017337380869", "location_mentions": [{"text": "GEBAmerica", "type": "STAT", "startIdx": 4, "endIdx": 14}]}
+{"tweet_id": "735882597004390400", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "729407246430523392", "location_mentions": []}
+{"tweet_id": "728628167859048450", "location_mentions": []}
+{"tweet_id": "729703301634097153", "location_mentions": []}
+{"tweet_id": "728627298669240320", "location_mentions": []}
+{"tweet_id": "730063817061715968", "location_mentions": []}
+{"tweet_id": "731301082383667200", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 44, "endIdx": 51}]}
+{"tweet_id": "728983284252876800", "location_mentions": []}
+{"tweet_id": "728644165437816833", "location_mentions": []}
+{"tweet_id": "735238915141947393", "location_mentions": [{"text": "Ontario", "type": "STAT", "startIdx": 108, "endIdx": 115}]}
+{"tweet_id": "729740231381901312", "location_mentions": []}
+{"tweet_id": "732356254106943489", "location_mentions": []}
+{"tweet_id": "734986101824196609", "location_mentions": []}
+{"tweet_id": "728739339685879808", "location_mentions": []}
+{"tweet_id": "729241217192595456", "location_mentions": []}
+{"tweet_id": "729716197084696576", "location_mentions": []}
+{"tweet_id": "728592704368607232", "location_mentions": []}
+{"tweet_id": "728919730485112833", "location_mentions": []}
+{"tweet_id": "728798158612897792", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "728999486031269888", "location_mentions": []}
+{"tweet_id": "733085856605601793", "location_mentions": []}
+{"tweet_id": "732098631881228288", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 89, "endIdx": 102}]}
+{"tweet_id": "729350758248919040", "location_mentions": []}
+{"tweet_id": "728589373780819969", "location_mentions": []}
+{"tweet_id": "729832359240052736", "location_mentions": []}
+{"tweet_id": "728538777702961156", "location_mentions": []}
+{"tweet_id": "732718536859082752", "location_mentions": [{"text": "Attawapiskat", "type": "DIST", "startIdx": 0, "endIdx": 12}, {"text": "Ontario", "type": "STAT", "startIdx": 55, "endIdx": 62}]}
+{"tweet_id": "728692674312556544", "location_mentions": []}
+{"tweet_id": "730053745317392384", "location_mentions": []}
+{"tweet_id": "729340856121970689", "location_mentions": []}
+{"tweet_id": "729504758780862464", "location_mentions": []}
+{"tweet_id": "730103053593001984", "location_mentions": []}
+{"tweet_id": "730005945821048832", "location_mentions": [{"text": "Ontario", "type": "STAT", "startIdx": 70, "endIdx": 77}]}
+{"tweet_id": "728700423436046336", "location_mentions": []}
+{"tweet_id": "729150813944209409", "location_mentions": []}
+{"tweet_id": "730888159945445376", "location_mentions": []}
+{"tweet_id": "728657041284321281", "location_mentions": [{"text": "FortMcMurray", "type": "HPOI", "startIdx": 1, "endIdx": 13}]}
+{"tweet_id": "728646803533373442", "location_mentions": []}
+{"tweet_id": "728719445300903937", "location_mentions": []}
+{"tweet_id": "733699248802390016", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "729743372563308545", "location_mentions": []}
+{"tweet_id": "729830627109797888", "location_mentions": []}
+{"tweet_id": "728786381640761345", "location_mentions": []}
+{"tweet_id": "732233934969278465", "location_mentions": []}
+{"tweet_id": "730248726464311296", "location_mentions": []}
+{"tweet_id": "729355692327505922", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 49, "endIdx": 56}]}
+{"tweet_id": "728791007655944192", "location_mentions": []}
+{"tweet_id": "728574681092067328", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 87, "endIdx": 94}, {"text": "Canada", "type": "CTRY", "startIdx": 96, "endIdx": 102}]}
+{"tweet_id": "729675384740925440", "location_mentions": []}
+{"tweet_id": "729838231454277632", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 59, "endIdx": 72}]}
+{"tweet_id": "728674915725889537", "location_mentions": []}
+{"tweet_id": "732991993266241536", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 101, "endIdx": 114}]}
+{"tweet_id": "733264902047948800", "location_mentions": []}
+{"tweet_id": "728571726519517184", "location_mentions": [{"text": "Toronto", "type": "CITY", "startIdx": 48, "endIdx": 55}]}
+{"tweet_id": "735882598656970754", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 0, "endIdx": 7}, {"text": "Alberta", "type": "STAT", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "732643357042806787", "location_mentions": []}
+{"tweet_id": "728652843318714368", "location_mentions": []}
+{"tweet_id": "728831747132030976", "location_mentions": []}
+{"tweet_id": "732622878743613444", "location_mentions": []}
+{"tweet_id": "736020727984443392", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 80, "endIdx": 87}]}
+{"tweet_id": "733021006890184704", "location_mentions": []}
+{"tweet_id": "728725370254594048", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "733691493588865026", "location_mentions": []}
+{"tweet_id": "732322784433586178", "location_mentions": []}
+{"tweet_id": "728575000572268545", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "729669782212116480", "location_mentions": []}
+{"tweet_id": "730268543325851648", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 8, "endIdx": 15}]}
+{"tweet_id": "728643313453047808", "location_mentions": []}
+{"tweet_id": "729401670225018880", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "728688168464080896", "location_mentions": []}
+{"tweet_id": "732800067124498433", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 37, "endIdx": 44}]}
+{"tweet_id": "730498027547328512", "location_mentions": [{"text": "Calgary", "type": "CITY", "startIdx": 26, "endIdx": 33}, {"text": "Alberta", "type": "CITY", "startIdx": 120, "endIdx": 127}]}
+{"tweet_id": "728702822154407936", "location_mentions": []}
+{"tweet_id": "729548151753842688", "location_mentions": []}
+{"tweet_id": "730770300397359104", "location_mentions": [{"text": "Calgary", "type": "CITY", "startIdx": 77, "endIdx": 84}, {"text": "Alberta", "type": "STAT", "startIdx": 86, "endIdx": 93}]}
+{"tweet_id": "729782580036440065", "location_mentions": []}
+{"tweet_id": "730129856114085888", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 34, "endIdx": 47}]}
+{"tweet_id": "730040827368464384", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 74, "endIdx": 80}]}
+{"tweet_id": "728539825821855744", "location_mentions": []}
+{"tweet_id": "728817348933648384", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 56, "endIdx": 69}]}
+{"tweet_id": "732346289652928512", "location_mentions": []}
+{"tweet_id": "730854759469621251", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 33, "endIdx": 40}]}
+{"tweet_id": "731839220961185792", "location_mentions": []}
+{"tweet_id": "729103503612739584", "location_mentions": []}
+{"tweet_id": "732593939169959936", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "730725730020134912", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 63, "endIdx": 76}]}
+{"tweet_id": "728938587018780672", "location_mentions": []}
+{"tweet_id": "730768552412618752", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 83, "endIdx": 90}]}
+{"tweet_id": "732284876188045312", "location_mentions": []}
+{"tweet_id": "729162103131668480", "location_mentions": [{"text": "Albertas", "type": "STAT", "startIdx": 77, "endIdx": 85}]}
+{"tweet_id": "729852839330074625", "location_mentions": []}
+{"tweet_id": "729444703632957440", "location_mentions": [{"text": "Russia", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "731199011529629696", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "729401012977569792", "location_mentions": []}
+{"tweet_id": "729017590673182721", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 38, "endIdx": 51}]}
+{"tweet_id": "728788898164314114", "location_mentions": []}
+{"tweet_id": "729393199396102145", "location_mentions": []}
+{"tweet_id": "728661485954600960", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "728643090714628096", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "728560485503795201", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 64, "endIdx": 77}]}
+{"tweet_id": "728674229164511232", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 103, "endIdx": 116}]}
+{"tweet_id": "728723531404546048", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 16, "endIdx": 29}, {"text": "Alberta", "type": "STAT", "startIdx": 65, "endIdx": 72}]}
+{"tweet_id": "729094401704759296", "location_mentions": []}
+{"tweet_id": "728699824128675840", "location_mentions": []}
+{"tweet_id": "730921357001662465", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 68, "endIdx": 75}]}
+{"tweet_id": "733383512812888064", "location_mentions": [{"text": "Fort Mac", "type": "HPOI", "startIdx": 84, "endIdx": 92}]}
+{"tweet_id": "729122254605451264", "location_mentions": []}
+{"tweet_id": "728655347775381504", "location_mentions": []}
+{"tweet_id": "728627459453759492", "location_mentions": []}
+{"tweet_id": "728574367584628736", "location_mentions": [{"text": "Ohio", "type": "STAT", "startIdx": 70, "endIdx": 74}]}
+{"tweet_id": "730056690041819136", "location_mentions": []}
+{"tweet_id": "729733418083229696", "location_mentions": []}
+{"tweet_id": "735070176908038145", "location_mentions": []}
+{"tweet_id": "729394512854851584", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 116, "endIdx": 122}]}
+{"tweet_id": "729199259506085889", "location_mentions": []}
+{"tweet_id": "728639208366071808", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 20, "endIdx": 26}, {"text": "Alberta", "type": "STAT", "startIdx": 84, "endIdx": 91}]}
+{"tweet_id": "729408027049086976", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 92, "endIdx": 99}]}
+{"tweet_id": "728532753113845761", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 14, "endIdx": 21}]}
+{"tweet_id": "734706270905585664", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 89, "endIdx": 95}]}
+{"tweet_id": "729720779185627137", "location_mentions": []}
+{"tweet_id": "730529597851340804", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 70, "endIdx": 77}]}
+{"tweet_id": "730216073593798656", "location_mentions": []}
+{"tweet_id": "729566768813854721", "location_mentions": [{"text": "Russia", "type": "CTRY", "startIdx": 63, "endIdx": 69}]}
+{"tweet_id": "729808255749226496", "location_mentions": []}
+{"tweet_id": "730825015441031168", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "732354153553350657", "location_mentions": []}
+{"tweet_id": "728717096008466432", "location_mentions": [{"text": "Canadian", "type": "CTRY", "startIdx": 18, "endIdx": 26}]}
+{"tweet_id": "729353911421829121", "location_mentions": []}
+{"tweet_id": "729185026630254593", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 80, "endIdx": 87}]}
+{"tweet_id": "730111046380191744", "location_mentions": []}
+{"tweet_id": "732607099511803905", "location_mentions": []}
+{"tweet_id": "731063236804509696", "location_mentions": [{"text": "Edmonton", "type": "CITY", "startIdx": 48, "endIdx": 56}, {"text": "Fort McMurray", "type": "HPOI", "startIdx": 77, "endIdx": 90}]}
+{"tweet_id": "730851749091811328", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 112, "endIdx": 119}]}
+{"tweet_id": "728613026711019525", "location_mentions": []}
+{"tweet_id": "732983756848402433", "location_mentions": []}
+{"tweet_id": "729773909961232385", "location_mentions": []}
+{"tweet_id": "735163994600669184", "location_mentions": []}
+{"tweet_id": "735465456841068549", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 42, "endIdx": 49}, {"text": "Europe", "type": "CONT", "startIdx": 72, "endIdx": 78}]}
+{"tweet_id": "732975709770113024", "location_mentions": []}
+{"tweet_id": "728930772158046208", "location_mentions": []}
+{"tweet_id": "729374936809246722", "location_mentions": []}
+{"tweet_id": "729361085090828293", "location_mentions": []}
+{"tweet_id": "728945369413877760", "location_mentions": []}
+{"tweet_id": "728619554549698561", "location_mentions": []}
+{"tweet_id": "734820188273659904", "location_mentions": []}
+{"tweet_id": "731976003203928065", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 18, "endIdx": 24}]}
+{"tweet_id": "728983932113276928", "location_mentions": []}
+{"tweet_id": "735098896888692737", "location_mentions": []}
+{"tweet_id": "729993788119089152", "location_mentions": []}
+{"tweet_id": "728644594498306049", "location_mentions": []}
+{"tweet_id": "732246739659427840", "location_mentions": []}
+{"tweet_id": "730146223735209984", "location_mentions": []}
+{"tweet_id": "730565580261052417", "location_mentions": []}
+{"tweet_id": "731335302409682944", "location_mentions": []}
+{"tweet_id": "730770897204879364", "location_mentions": []}
+{"tweet_id": "728639775725473792", "location_mentions": []}
+{"tweet_id": "735458799037743104", "location_mentions": []}
+{"tweet_id": "734903955054985216", "location_mentions": []}
+{"tweet_id": "730155104423321601", "location_mentions": []}
+{"tweet_id": "730145304897593344", "location_mentions": []}
+{"tweet_id": "730176167248977920", "location_mentions": [{"text": "Fort McMurray-area", "type": "CITY", "startIdx": 42, "endIdx": 60}]}
+{"tweet_id": "730438698924441601", "location_mentions": []}
+{"tweet_id": "733819793078255617", "location_mentions": []}
+{"tweet_id": "730908962141437952", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 53, "endIdx": 66}, {"text": "Fort McMurray", "type": "HPOI", "startIdx": 53, "endIdx": 66}]}
+{"tweet_id": "730849178369171456", "location_mentions": []}
+{"tweet_id": "728660911464964096", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 13, "endIdx": 19}]}
+{"tweet_id": "729474286763773953", "location_mentions": []}
+{"tweet_id": "730232105137930240", "location_mentions": [{"text": "Fort McMurray-area", "type": "CITY", "startIdx": 3, "endIdx": 21}]}
+{"tweet_id": "728783719843172352", "location_mentions": []}
+{"tweet_id": "728593067737939972", "location_mentions": []}
+{"tweet_id": "730123358524710912", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 45, "endIdx": 52}]}
+{"tweet_id": "731529796157509632", "location_mentions": []}
+{"tweet_id": "732365269679505408", "location_mentions": []}
+{"tweet_id": "729822481473622017", "location_mentions": []}
+{"tweet_id": "729931676965584897", "location_mentions": []}
+{"tweet_id": "732005755109269504", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "730416066497794048", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 29, "endIdx": 36}, {"text": "Canada", "type": "CTRY", "startIdx": 132, "endIdx": 138}]}
+{"tweet_id": "731206659968618497", "location_mentions": []}
+{"tweet_id": "728837961823887361", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 52, "endIdx": 59}]}
+{"tweet_id": "729133386279886848", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 80, "endIdx": 93}]}
+{"tweet_id": "729321414147362816", "location_mentions": [{"text": "Ontario", "type": "STAT", "startIdx": 0, "endIdx": 7}, {"text": "Alberta", "type": "STAT", "startIdx": 56, "endIdx": 63}]}
+{"tweet_id": "732265656444432384", "location_mentions": []}
+{"tweet_id": "728755543003652096", "location_mentions": []}
+{"tweet_id": "732706965709819904", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "729796522712371200", "location_mentions": []}
+{"tweet_id": "734779332426633216", "location_mentions": []}
+{"tweet_id": "729279024019722242", "location_mentions": []}
+{"tweet_id": "732700088477175808", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 30, "endIdx": 37}, {"text": "Canada", "type": "CTRY", "startIdx": 39, "endIdx": 45}]}
+{"tweet_id": "728564187740315648", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 78, "endIdx": 85}]}
+{"tweet_id": "729042987490103296", "location_mentions": []}
+{"tweet_id": "728658877667938304", "location_mentions": []}
+{"tweet_id": "728642974028943360", "location_mentions": []}
+{"tweet_id": "729754887668408320", "location_mentions": []}
+{"tweet_id": "729757778923786240", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 14, "endIdx": 27}, {"text": "California", "type": "STAT", "startIdx": 66, "endIdx": 76}]}
+{"tweet_id": "729771567513640961", "location_mentions": []}
+{"tweet_id": "730024168096342019", "location_mentions": []}
+{"tweet_id": "733454224281862144", "location_mentions": []}
+{"tweet_id": "729389420118351876", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 27, "endIdx": 33}]}
+{"tweet_id": "728639958551023616", "location_mentions": []}
+{"tweet_id": "729804255209512960", "location_mentions": [{"text": "Thailand", "type": "CTRY", "startIdx": 4, "endIdx": 12}]}
+{"tweet_id": "729379971081216000", "location_mentions": []}
+{"tweet_id": "731732555959963651", "location_mentions": [{"text": "Edmonton", "type": "CITY", "startIdx": 69, "endIdx": 77}]}
+{"tweet_id": "735160222411546624", "location_mentions": []}
+{"tweet_id": "735227764492509184", "location_mentions": [{"text": "Manitoba", "type": "CITY", "startIdx": 51, "endIdx": 59}]}
+{"tweet_id": "729070229318311936", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 79, "endIdx": 85}]}
+{"tweet_id": "729034618247221248", "location_mentions": []}
+{"tweet_id": "729277540498591744", "location_mentions": []}
+{"tweet_id": "731526232827920386", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 18, "endIdx": 31}]}
+{"tweet_id": "729702601017565184", "location_mentions": [{"text": "Edmonton", "type": "CITY", "startIdx": 39, "endIdx": 47}, {"text": "Alberta", "type": "STAT", "startIdx": 52, "endIdx": 59}, {"text": "Fort McMurray", "type": "NBHD", "startIdx": 86, "endIdx": 99}]}
+{"tweet_id": "729699171020595200", "location_mentions": []}
+{"tweet_id": "729615031109861376", "location_mentions": []}
+{"tweet_id": "730475320307011585", "location_mentions": []}
+{"tweet_id": "728609108606078976", "location_mentions": []}
+{"tweet_id": "728800579611303936", "location_mentions": []}
+{"tweet_id": "732665631078670336", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 31, "endIdx": 38}]}
+{"tweet_id": "732651932288978945", "location_mentions": []}
+{"tweet_id": "729126371713232897", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 41, "endIdx": 48}]}
+{"tweet_id": "728716073193758720", "location_mentions": []}
+{"tweet_id": "733015256839159808", "location_mentions": [{"text": "Fort Mac", "type": "HPOI", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "728700173090578432", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "728884452538068992", "location_mentions": []}
+{"tweet_id": "728981492735545347", "location_mentions": []}
+{"tweet_id": "730496208192585728", "location_mentions": [{"text": "Ontario", "type": "STAT", "startIdx": 0, "endIdx": 7}, {"text": "Alberta", "type": "STAT", "startIdx": 68, "endIdx": 75}]}
+{"tweet_id": "729456018497773568", "location_mentions": []}
+{"tweet_id": "728803322488979456", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 47, "endIdx": 54}]}
+{"tweet_id": "729046651164229633", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 67, "endIdx": 74}]}
+{"tweet_id": "735853861412458496", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 28, "endIdx": 41}]}
+{"tweet_id": "733680453853556736", "location_mentions": [{"text": "Manitoba", "type": "CITY", "startIdx": 77, "endIdx": 85}]}
+{"tweet_id": "732584861593133057", "location_mentions": []}
+{"tweet_id": "733417609723543553", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 54, "endIdx": 60}]}
+{"tweet_id": "732617646311636993", "location_mentions": []}
+{"tweet_id": "730245584506880000", "location_mentions": []}
+{"tweet_id": "729987811051450368", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "729000673337974784", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "729228857484689408", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 126, "endIdx": 133}]}
+{"tweet_id": "728610545297989632", "location_mentions": []}
+{"tweet_id": "732647748105723904", "location_mentions": []}
+{"tweet_id": "729704103572541441", "location_mentions": []}
+{"tweet_id": "729795408931729408", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 38, "endIdx": 45}, {"text": "Alberta", "type": "STAT", "startIdx": 38, "endIdx": 45}]}
+{"tweet_id": "734264119604314115", "location_mentions": []}
+{"tweet_id": "730472553647480832", "location_mentions": []}
+{"tweet_id": "729742977724129281", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 41, "endIdx": 48}]}
+{"tweet_id": "730771303011999744", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 22, "endIdx": 28}]}
+{"tweet_id": "729742299169738752", "location_mentions": []}
+{"tweet_id": "728852117499215872", "location_mentions": []}
+{"tweet_id": "729646350820745216", "location_mentions": []}
+{"tweet_id": "729732040925532161", "location_mentions": []}
+{"tweet_id": "728775702871461888", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 105, "endIdx": 111}]}
+{"tweet_id": "728883784817508352", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 47, "endIdx": 54}]}
+{"tweet_id": "728962026467430401", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 57, "endIdx": 63}]}
+{"tweet_id": "731285629263192065", "location_mentions": []}
+{"tweet_id": "729745306129063936", "location_mentions": []}
+{"tweet_id": "728741335746805760", "location_mentions": []}
+{"tweet_id": "730134943146332161", "location_mentions": []}
+{"tweet_id": "729498264563810306", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "735115575387688960", "location_mentions": []}
+{"tweet_id": "729037943667576832", "location_mentions": [{"text": "Indianapolis", "type": "CITY", "startIdx": 68, "endIdx": 80}]}
+{"tweet_id": "735591110962229249", "location_mentions": [{"text": "Ontario", "type": "STAT", "startIdx": 13, "endIdx": 20}]}
+{"tweet_id": "729145255665131520", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 48, "endIdx": 55}, {"text": "Ottawa", "type": "CITY", "startIdx": 89, "endIdx": 95}]}
+{"tweet_id": "728993674147827713", "location_mentions": []}
+{"tweet_id": "729812524925779968", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 38, "endIdx": 51}]}
+{"tweet_id": "731310824719945728", "location_mentions": []}
+{"tweet_id": "732065351911907329", "location_mentions": []}
+{"tweet_id": "728874835644952577", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 30, "endIdx": 37}]}
+{"tweet_id": "728795703015669761", "location_mentions": []}
+{"tweet_id": "732916068591632389", "location_mentions": []}
+{"tweet_id": "728599463120359426", "location_mentions": []}
+{"tweet_id": "728766592490844162", "location_mentions": []}
+{"tweet_id": "728803424016310275", "location_mentions": []}
+{"tweet_id": "728979891153154048", "location_mentions": []}
+{"tweet_id": "729015640032305152", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 1, "endIdx": 8}]}
+{"tweet_id": "728694327275311107", "location_mentions": []}
+{"tweet_id": "730520815255588866", "location_mentions": []}
+{"tweet_id": "730546649374859264", "location_mentions": []}
+{"tweet_id": "728688503207288832", "location_mentions": []}
+{"tweet_id": "729845998743371777", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 88, "endIdx": 95}]}
+{"tweet_id": "732753146708000769", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 20, "endIdx": 27}]}
+{"tweet_id": "733260878187991040", "location_mentions": []}
+{"tweet_id": "729815950720012288", "location_mentions": []}
+{"tweet_id": "732627955092885504", "location_mentions": []}
+{"tweet_id": "732630821186625536", "location_mentions": []}
+{"tweet_id": "729779168041279488", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 34, "endIdx": 40}]}
+{"tweet_id": "733078975958769664", "location_mentions": [{"text": "Essex County", "type": "CNTY", "startIdx": 18, "endIdx": 30}]}
+{"tweet_id": "728631869051310081", "location_mentions": []}
+{"tweet_id": "729658870726074368", "location_mentions": []}
+{"tweet_id": "734022990669746176", "location_mentions": []}
+{"tweet_id": "732612209134686208", "location_mentions": []}
+{"tweet_id": "730049090051047424", "location_mentions": []}
+{"tweet_id": "728687507261382656", "location_mentions": []}
+{"tweet_id": "732702276482031616", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 14, "endIdx": 21}, {"text": "Alberta", "type": "STAT", "startIdx": 14, "endIdx": 21}]}
+{"tweet_id": "729746552139460612", "location_mentions": []}
+{"tweet_id": "728925389599309825", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "730115607929053186", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 0, "endIdx": 7}, {"text": "Fort McMurray", "type": "NBHD", "startIdx": 73, "endIdx": 86}]}
+{"tweet_id": "728732211277615105", "location_mentions": []}
+{"tweet_id": "733055571474124800", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "729822546233712644", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 33, "endIdx": 40}]}
+{"tweet_id": "728580887177252865", "location_mentions": []}
+{"tweet_id": "729835079829213184", "location_mentions": [{"text": "FortMcMurray", "type": "HPOI", "startIdx": 37, "endIdx": 49}]}
+{"tweet_id": "729499934068756483", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 73, "endIdx": 80}]}
+{"tweet_id": "730501135933411328", "location_mentions": [{"text": "Fort Mac", "type": "HPOI", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "728751488424534016", "location_mentions": []}
+{"tweet_id": "730024111813083136", "location_mentions": [{"text": "Slave Lake", "type": "NPOI", "startIdx": 71, "endIdx": 81}]}
+{"tweet_id": "728558222676787200", "location_mentions": []}
+{"tweet_id": "729305519983222785", "location_mentions": []}
+{"tweet_id": "732931012926144512", "location_mentions": []}
+{"tweet_id": "729703029755269122", "location_mentions": []}
+{"tweet_id": "729024923918700544", "location_mentions": []}
+{"tweet_id": "728696597064892420", "location_mentions": []}
+{"tweet_id": "729881563522011136", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 58, "endIdx": 64}]}
+{"tweet_id": "729432230871846912", "location_mentions": []}
+{"tweet_id": "733336277156651010", "location_mentions": []}
+{"tweet_id": "732938581367529472", "location_mentions": []}
+{"tweet_id": "728677338209202176", "location_mentions": []}
+{"tweet_id": "733756690194128898", "location_mentions": []}
+{"tweet_id": "729798306688212992", "location_mentions": []}
+{"tweet_id": "732358726477185024", "location_mentions": []}
+{"tweet_id": "731197400405020674", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 37, "endIdx": 50}]}
+{"tweet_id": "728695882133086208", "location_mentions": []}
+{"tweet_id": "729804153711525888", "location_mentions": []}
+{"tweet_id": "730141680104411136", "location_mentions": []}
+{"tweet_id": "728627167349776384", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 47, "endIdx": 60}]}
+{"tweet_id": "732626440315895808", "location_mentions": []}
+{"tweet_id": "731076210642538496", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 114, "endIdx": 127}]}
+{"tweet_id": "730835081749757953", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 35, "endIdx": 41}, {"text": "Alberta", "type": "STAT", "startIdx": 96, "endIdx": 103}]}
+{"tweet_id": "728972360074723328", "location_mentions": []}
+{"tweet_id": "729029842545434624", "location_mentions": []}
+{"tweet_id": "729653421800722432", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 36, "endIdx": 43}]}
+{"tweet_id": "728716434382180352", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "731998743311093760", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 0, "endIdx": 6}, {"text": "Alberta", "type": "STAT", "startIdx": 94, "endIdx": 101}]}
+{"tweet_id": "735202466443067393", "location_mentions": []}
+{"tweet_id": "731271571072032773", "location_mentions": []}
+{"tweet_id": "730457532787884032", "location_mentions": []}
+{"tweet_id": "728561094248284160", "location_mentions": []}
+{"tweet_id": "728710371452686336", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 27, "endIdx": 34}]}
+{"tweet_id": "734994416578887680", "location_mentions": []}
+{"tweet_id": "729540408624062465", "location_mentions": []}
+{"tweet_id": "733700748236754944", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 8, "endIdx": 21}]}
+{"tweet_id": "732558412710481920", "location_mentions": [{"text": "Edmonton", "type": "CITY", "startIdx": 69, "endIdx": 77}]}
+{"tweet_id": "729394993706717185", "location_mentions": []}
+{"tweet_id": "729866288026161156", "location_mentions": []}
+{"tweet_id": "729643536229011456", "location_mentions": []}
+{"tweet_id": "729779345041010688", "location_mentions": []}
+{"tweet_id": "732700319235354624", "location_mentions": []}
+{"tweet_id": "729722018711543808", "location_mentions": []}
+{"tweet_id": "730202547181346819", "location_mentions": []}
+{"tweet_id": "728574607301718017", "location_mentions": []}
+{"tweet_id": "732606867667623938", "location_mentions": []}
+{"tweet_id": "729322703627427840", "location_mentions": []}
+{"tweet_id": "732989355917205505", "location_mentions": []}
+{"tweet_id": "728644527733477380", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 48, "endIdx": 61}]}
+{"tweet_id": "728943045454876676", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 52, "endIdx": 59}]}
+{"tweet_id": "732325594822664192", "location_mentions": [{"text": "Eckville", "type": "CITY", "startIdx": 120, "endIdx": 128}]}
+{"tweet_id": "730157770326966272", "location_mentions": []}
+{"tweet_id": "729761748568264705", "location_mentions": []}
+{"tweet_id": "730759475297030144", "location_mentions": []}
+{"tweet_id": "728956304367099904", "location_mentions": []}
+{"tweet_id": "730484546404290560", "location_mentions": []}
+{"tweet_id": "728631336626475008", "location_mentions": []}
+{"tweet_id": "728640434805874688", "location_mentions": []}
+{"tweet_id": "729316736206569472", "location_mentions": []}
+{"tweet_id": "731976221773291520", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 21, "endIdx": 27}]}
+{"tweet_id": "733708474043916288", "location_mentions": []}
+{"tweet_id": "728560606224121857", "location_mentions": []}
+{"tweet_id": "729506961574797312", "location_mentions": []}
+{"tweet_id": "732484472159899649", "location_mentions": []}
+{"tweet_id": "728716010392453122", "location_mentions": []}
+{"tweet_id": "730473115340427264", "location_mentions": []}
+{"tweet_id": "729440592866877440", "location_mentions": [{"text": "Ottawa", "type": "CITY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "729815304709103616", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 86, "endIdx": 99}]}
+{"tweet_id": "728701396090912768", "location_mentions": [{"text": "canada", "type": "CTRY", "startIdx": 11, "endIdx": 17}]}
+{"tweet_id": "732052320280698884", "location_mentions": []}
+{"tweet_id": "728643939562102785", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 115, "endIdx": 122}]}
+{"tweet_id": "730442087250812928", "location_mentions": []}
+{"tweet_id": "730535362565525504", "location_mentions": []}
+{"tweet_id": "729451784763117568", "location_mentions": []}
+{"tweet_id": "728958110677639169", "location_mentions": [{"text": "Calgary", "type": "CITY", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "730007908411428864", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 14, "endIdx": 27}]}
+{"tweet_id": "732082863944785920", "location_mentions": []}
+{"tweet_id": "731115880785055744", "location_mentions": []}
+{"tweet_id": "729509509878657024", "location_mentions": []}
+{"tweet_id": "728644840263716864", "location_mentions": [{"text": "Fort McMurray", "type": "NBHD", "startIdx": 0, "endIdx": 13}, {"text": "Alberta", "type": "STAT", "startIdx": 76, "endIdx": 83}]}
+{"tweet_id": "728699079845285893", "location_mentions": []}
+{"tweet_id": "730132449922027520", "location_mentions": []}
+{"tweet_id": "732811412473516033", "location_mentions": [{"text": "Attawapiskat", "type": "DIST", "startIdx": 1, "endIdx": 13}, {"text": "Alberta", "type": "STAT", "startIdx": 51, "endIdx": 58}]}
+{"tweet_id": "730170735700905984", "location_mentions": [{"text": "Fort McMurray-area", "type": "CITY", "startIdx": 59, "endIdx": 77}]}
+{"tweet_id": "729260693678108672", "location_mentions": [{"text": "Canadas", "type": "CTRY", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "732608661382631424", "location_mentions": []}
+{"tweet_id": "729811277422469120", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 25, "endIdx": 31}]}
+{"tweet_id": "732974913779163138", "location_mentions": []}
+{"tweet_id": "729030754697682944", "location_mentions": []}
+{"tweet_id": "728667606828224512", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 23, "endIdx": 30}]}
+{"tweet_id": "730668325571833856", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 27, "endIdx": 33}]}
+{"tweet_id": "731995603157147649", "location_mentions": [{"text": "Kamloops", "type": "CITY", "startIdx": 88, "endIdx": 96}]}
+{"tweet_id": "728728645536260096", "location_mentions": [{"text": "Syria", "type": "CTRY", "startIdx": 0, "endIdx": 5}]}
+{"tweet_id": "729418661463785472", "location_mentions": []}
+{"tweet_id": "730815644006899713", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 13, "endIdx": 26}]}
+{"tweet_id": "728633878613630976", "location_mentions": []}
+{"tweet_id": "729549932995153920", "location_mentions": []}
+{"tweet_id": "734491642258939904", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 15, "endIdx": 21}]}
+{"tweet_id": "731976644869558272", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 36, "endIdx": 42}]}
+{"tweet_id": "730134723679404032", "location_mentions": []}
+{"tweet_id": "729029590455193600", "location_mentions": [{"text": "Albertans", "type": "CITY", "startIdx": 21, "endIdx": 30}]}
+{"tweet_id": "728582668250718208", "location_mentions": []}
+{"tweet_id": "728580277304332290", "location_mentions": []}
+{"tweet_id": "730194919697035266", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 20, "endIdx": 27}]}
+{"tweet_id": "731015557479202818", "location_mentions": [{"text": "Montreal", "type": "CITY", "startIdx": 72, "endIdx": 80}]}
+{"tweet_id": "733453801798012928", "location_mentions": []}
+{"tweet_id": "728944517173350400", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 108, "endIdx": 121}]}
+{"tweet_id": "730175327780081665", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 96, "endIdx": 102}]}
+{"tweet_id": "728783056312508416", "location_mentions": []}
+{"tweet_id": "735159445714411520", "location_mentions": []}
+{"tweet_id": "729429412999876608", "location_mentions": []}
+{"tweet_id": "730018404384395265", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 7, "endIdx": 20}]}
+{"tweet_id": "732753606483398656", "location_mentions": []}
+{"tweet_id": "734042343028854784", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 16, "endIdx": 29}]}
+{"tweet_id": "729011294192414721", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 3, "endIdx": 16}]}
+{"tweet_id": "732797898669338625", "location_mentions": [{"text": "Attawapiskat", "type": "DIST", "startIdx": 0, "endIdx": 12}, {"text": "Fort McMurray", "type": "HPOI", "startIdx": 38, "endIdx": 51}]}
+{"tweet_id": "729779553858682880", "location_mentions": []}
+{"tweet_id": "732936836465590273", "location_mentions": []}
+{"tweet_id": "734721953492176898", "location_mentions": []}
+{"tweet_id": "729844101529538560", "location_mentions": []}
+{"tweet_id": "728774461030289409", "location_mentions": []}
+{"tweet_id": "732484628531924992", "location_mentions": []}
+{"tweet_id": "729701974019428352", "location_mentions": []}
+{"tweet_id": "729741703029116928", "location_mentions": [{"text": "Manitoba", "type": "CITY", "startIdx": 78, "endIdx": 86}, {"text": "Ontario", "type": "STAT", "startIdx": 92, "endIdx": 99}]}
+{"tweet_id": "728673724082356224", "location_mentions": []}
+{"tweet_id": "729016246658686977", "location_mentions": [{"text": "Manitoba", "type": "CITY", "startIdx": 22, "endIdx": 30}]}
+{"tweet_id": "729437144062648320", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 13, "endIdx": 26}]}
+{"tweet_id": "729788336403927040", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 28, "endIdx": 35}, {"text": "Fort McMurray", "type": "NBHD", "startIdx": 94, "endIdx": 107}]}
+{"tweet_id": "728559650128289794", "location_mentions": []}
+{"tweet_id": "731109912781131776", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 48, "endIdx": 55}]}
+{"tweet_id": "735967227472535552", "location_mentions": []}
+{"tweet_id": "728960080897572865", "location_mentions": []}
+{"tweet_id": "728712030291550208", "location_mentions": []}
+{"tweet_id": "730775635153428480", "location_mentions": [{"text": "Calgary", "type": "CITY", "startIdx": 20, "endIdx": 27}, {"text": "Calgary", "type": "CITY", "startIdx": 20, "endIdx": 27}]}
+{"tweet_id": "731883740205457408", "location_mentions": []}
+{"tweet_id": "731534050947534849", "location_mentions": []}
+{"tweet_id": "729119499727810561", "location_mentions": []}
+{"tweet_id": "734178576006668288", "location_mentions": [{"text": "Edmonton", "type": "CITY", "startIdx": 53, "endIdx": 61}]}
+{"tweet_id": "729928309014855680", "location_mentions": []}
+{"tweet_id": "732238999125917697", "location_mentions": []}
+{"tweet_id": "728794154088554497", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 66, "endIdx": 73}, {"text": "Manitoba", "type": "CITY", "startIdx": 4, "endIdx": 12}]}
+{"tweet_id": "729677764752642050", "location_mentions": [{"text": "Oxford", "type": "CNTY", "startIdx": 0, "endIdx": 6}, {"text": "Oxford", "type": "CNTY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "732293104280080384", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 41, "endIdx": 54}]}
+{"tweet_id": "733422643244732416", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 116, "endIdx": 123}]}
+{"tweet_id": "728653783945887744", "location_mentions": []}
+{"tweet_id": "729844115261652993", "location_mentions": []}
+{"tweet_id": "731681822577319936", "location_mentions": []}
+{"tweet_id": "728568242038558720", "location_mentions": []}
+{"tweet_id": "732609062492217344", "location_mentions": []}
+{"tweet_id": "728986549010898944", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "728916065539883008", "location_mentions": []}
+{"tweet_id": "730018792412188673", "location_mentions": []}
+{"tweet_id": "728695022309150721", "location_mentions": []}
+{"tweet_id": "733401208740683776", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "729861223408349185", "location_mentions": []}
+{"tweet_id": "728976735803301889", "location_mentions": []}
+{"tweet_id": "728619257907580929", "location_mentions": []}
+{"tweet_id": "729706336448073728", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "728746186941718528", "location_mentions": []}
+{"tweet_id": "728680945922904064", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 80, "endIdx": 93}]}
+{"tweet_id": "728715778485301248", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 58, "endIdx": 65}]}
+{"tweet_id": "732714946375471104", "location_mentions": []}
+{"tweet_id": "728967849914425344", "location_mentions": []}
+{"tweet_id": "730054776063328256", "location_mentions": []}
+{"tweet_id": "729375121178169344", "location_mentions": []}
+{"tweet_id": "732992529340239872", "location_mentions": []}
+{"tweet_id": "728902008204201984", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "729084576245661696", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 16, "endIdx": 29}]}
+{"tweet_id": "728772823397838848", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 66, "endIdx": 79}]}
+{"tweet_id": "729051964227518464", "location_mentions": [{"text": "ALBERTA", "type": "STAT", "startIdx": 0, "endIdx": 7}, {"text": "Alberta", "type": "CITY", "startIdx": 42, "endIdx": 49}]}
+{"tweet_id": "729911489490911232", "location_mentions": [{"text": "Thailand", "type": "CTRY", "startIdx": 4, "endIdx": 12}]}
+{"tweet_id": "735099042766540801", "location_mentions": []}
+{"tweet_id": "728639562935754752", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 35, "endIdx": 42}]}
+{"tweet_id": "730195747073720321", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 89, "endIdx": 102}]}
+{"tweet_id": "729121404545736704", "location_mentions": []}
+{"tweet_id": "731001285458071552", "location_mentions": []}
+{"tweet_id": "728982071528566794", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 15, "endIdx": 22}]}
+{"tweet_id": "729789267954651136", "location_mentions": []}
+{"tweet_id": "729180773086015489", "location_mentions": [{"text": "torontos", "type": "STAT", "startIdx": 107, "endIdx": 115}]}
+{"tweet_id": "729423933124927489", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "731968112380219392", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "729983498291949569", "location_mentions": []}
+{"tweet_id": "728940495477432321", "location_mentions": []}
+{"tweet_id": "732747617151619072", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 9, "endIdx": 16}]}
+{"tweet_id": "732611255928815616", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 101, "endIdx": 108}]}
+{"tweet_id": "729340540626472960", "location_mentions": []}
+{"tweet_id": "732962194812440576", "location_mentions": []}
+{"tweet_id": "728589311671676928", "location_mentions": []}
+{"tweet_id": "728976024877207552", "location_mentions": []}
+{"tweet_id": "734160994482696192", "location_mentions": [{"text": "Canadas", "type": "CTRY", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "729487430353616896", "location_mentions": []}
+{"tweet_id": "729400207851589632", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 116, "endIdx": 122}]}
+{"tweet_id": "730723548575174656", "location_mentions": []}
+{"tweet_id": "730190025892106245", "location_mentions": []}
+{"tweet_id": "729059042069499904", "location_mentions": []}
+{"tweet_id": "728792456859402242", "location_mentions": []}
+{"tweet_id": "731959064544960513", "location_mentions": []}
+{"tweet_id": "729967956353028096", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 74, "endIdx": 80}]}
+{"tweet_id": "729333653579300864", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 33, "endIdx": 40}]}
+{"tweet_id": "733656302367342592", "location_mentions": []}
+{"tweet_id": "733313054167994371", "location_mentions": []}
+{"tweet_id": "728632366395236352", "location_mentions": [{"text": "Fort McMurray", "type": "NBHD", "startIdx": 47, "endIdx": 60}]}
+{"tweet_id": "728657117532459010", "location_mentions": []}
+{"tweet_id": "731995009050943488", "location_mentions": []}
+{"tweet_id": "728626364006449152", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 45, "endIdx": 51}]}
+{"tweet_id": "729969346001383424", "location_mentions": [{"text": "Russia", "type": "CTRY", "startIdx": 30, "endIdx": 36}, {"text": "US", "type": "CTRY", "startIdx": 41, "endIdx": 43}, {"text": "Alberta", "type": "STAT", "startIdx": 63, "endIdx": 70}]}
+{"tweet_id": "728708965731729408", "location_mentions": []}
+{"tweet_id": "729754045678657536", "location_mentions": []}
+{"tweet_id": "733345557251399680", "location_mentions": []}
+{"tweet_id": "729689581298143232", "location_mentions": []}
+{"tweet_id": "733342999065714688", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 78, "endIdx": 85}]}
+{"tweet_id": "728644987382943744", "location_mentions": []}
+{"tweet_id": "730451617225572352", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 46, "endIdx": 59}]}
+{"tweet_id": "728622173347323907", "location_mentions": []}
+{"tweet_id": "728665414029303808", "location_mentions": []}
+{"tweet_id": "732227103224156160", "location_mentions": [{"text": "Ontario", "type": "STAT", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "728837748887408640", "location_mentions": []}
+{"tweet_id": "728703831962353664", "location_mentions": [{"text": "ALBERTA", "type": "STAT", "startIdx": 0, "endIdx": 7}, {"text": "Alberta", "type": "STAT", "startIdx": 46, "endIdx": 53}]}
+{"tweet_id": "728742689294802944", "location_mentions": []}
+{"tweet_id": "735684815836479489", "location_mentions": [{"text": "Slave Lake", "type": "NPOI", "startIdx": 0, "endIdx": 10}]}
+{"tweet_id": "729757647402983425", "location_mentions": []}
+{"tweet_id": "729029306693898240", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 56, "endIdx": 63}]}
+{"tweet_id": "730864162423758848", "location_mentions": []}
+{"tweet_id": "731539097152569344", "location_mentions": []}
+{"tweet_id": "729303204677058561", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 38, "endIdx": 44}]}
+{"tweet_id": "732987296006295552", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 67, "endIdx": 80}]}
+{"tweet_id": "728626097257123840", "location_mentions": []}
+{"tweet_id": "731916950654324737", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 17, "endIdx": 24}]}
+{"tweet_id": "734077354666905600", "location_mentions": []}
+{"tweet_id": "729225324106391553", "location_mentions": []}
+{"tweet_id": "732692453413801984", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 55, "endIdx": 62}, {"text": "Alberta", "type": "STAT", "startIdx": 55, "endIdx": 62}]}
+{"tweet_id": "729685007506255873", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 48, "endIdx": 61}]}
+{"tweet_id": "728899991155040256", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 46, "endIdx": 53}]}
+{"tweet_id": "729790390795153408", "location_mentions": []}
+{"tweet_id": "732591206677417984", "location_mentions": []}
+{"tweet_id": "733248864954769408", "location_mentions": []}
+{"tweet_id": "733394064620457985", "location_mentions": []}
+{"tweet_id": "730747311832211456", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 75, "endIdx": 82}]}
+{"tweet_id": "728640717472440320", "location_mentions": []}
+{"tweet_id": "728650595687489536", "location_mentions": []}
+{"tweet_id": "735958736058109952", "location_mentions": []}
+{"tweet_id": "728823636354830337", "location_mentions": []}
+{"tweet_id": "730072476131180544", "location_mentions": []}
+{"tweet_id": "730292070066184197", "location_mentions": []}
+{"tweet_id": "730009377051160576", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 126, "endIdx": 133}]}
+{"tweet_id": "728749038116306944", "location_mentions": []}
+{"tweet_id": "729297575480729604", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 75, "endIdx": 82}]}
+{"tweet_id": "731544870863536129", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 97, "endIdx": 110}]}
+{"tweet_id": "729431124326252544", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 12, "endIdx": 19}, {"text": "Canada", "type": "CTRY", "startIdx": 21, "endIdx": 27}]}
+{"tweet_id": "728953451917520896", "location_mentions": []}
+{"tweet_id": "728559501243191296", "location_mentions": []}
+{"tweet_id": "728746161964716032", "location_mentions": []}
+{"tweet_id": "728668180206342144", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "729652797998825472", "location_mentions": [{"text": "Syria", "type": "CTRY", "startIdx": 102, "endIdx": 107}]}
+{"tweet_id": "728610355526701056", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 1, "endIdx": 7}, {"text": "Alberta", "type": "STAT", "startIdx": 84, "endIdx": 91}]}
+{"tweet_id": "730405375787343872", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 45, "endIdx": 52}, {"text": "Fort McMurray", "type": "NBHD", "startIdx": 97, "endIdx": 110}]}
+{"tweet_id": "734067815678914560", "location_mentions": []}
+{"tweet_id": "733124981232525312", "location_mentions": [{"text": "Alberta.ca", "type": "CITY", "startIdx": 48, "endIdx": 58}]}
+{"tweet_id": "729087760066224128", "location_mentions": []}
+{"tweet_id": "731594797778014208", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 17, "endIdx": 30}]}
+{"tweet_id": "732746405018664961", "location_mentions": []}
+{"tweet_id": "735614428444385280", "location_mentions": [{"text": "Edmonton", "type": "CITY", "startIdx": 17, "endIdx": 25}, {"text": "Fort McMurray", "type": "HPOI", "startIdx": 45, "endIdx": 58}]}
+{"tweet_id": "732628088886960130", "location_mentions": []}
+{"tweet_id": "730195788249337856", "location_mentions": []}
+{"tweet_id": "729775042884599810", "location_mentions": []}
+{"tweet_id": "728665720414871552", "location_mentions": []}
+{"tweet_id": "729372445900083200", "location_mentions": []}
+{"tweet_id": "729339865901375489", "location_mentions": []}
+{"tweet_id": "735487054562353153", "location_mentions": []}
+{"tweet_id": "728615032569745410", "location_mentions": [{"text": "Manhattan", "type": "CITY", "startIdx": 71, "endIdx": 80}, {"text": "Canada", "type": "CTRY", "startIdx": 127, "endIdx": 133}]}
+{"tweet_id": "728676380322336769", "location_mentions": []}
+{"tweet_id": "733314097895215104", "location_mentions": []}
+{"tweet_id": "729859559343443968", "location_mentions": []}
+{"tweet_id": "728568129832423424", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 25, "endIdx": 32}, {"text": "Alberta", "type": "STAT", "startIdx": 25, "endIdx": 32}]}
+{"tweet_id": "729721538421915648", "location_mentions": []}
+{"tweet_id": "732370362822955008", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "734860295571525632", "location_mentions": []}
+{"tweet_id": "732055660045565953", "location_mentions": []}
+{"tweet_id": "732666077373698048", "location_mentions": []}
+{"tweet_id": "729888564540936193", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 45, "endIdx": 52}]}
+{"tweet_id": "734847705369841664", "location_mentions": []}
+{"tweet_id": "728639488230989825", "location_mentions": []}
+{"tweet_id": "730141794466471937", "location_mentions": []}
+{"tweet_id": "729746997603794944", "location_mentions": []}
+{"tweet_id": "728906035209998336", "location_mentions": []}
+{"tweet_id": "732621448901091328", "location_mentions": []}
+{"tweet_id": "729060804637671424", "location_mentions": []}
+{"tweet_id": "729585399513784320", "location_mentions": []}
+{"tweet_id": "728615601040556036", "location_mentions": []}
+{"tweet_id": "729347104456462336", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 16, "endIdx": 29}]}
+{"tweet_id": "728535105191317504", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 38, "endIdx": 51}]}
+{"tweet_id": "729389675819995136", "location_mentions": []}
+{"tweet_id": "729180913607835649", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 85, "endIdx": 92}]}
+{"tweet_id": "728604260120801280", "location_mentions": []}
+{"tweet_id": "735521212579864582", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 35, "endIdx": 48}]}
+{"tweet_id": "735507276065165312", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 48, "endIdx": 55}]}
+{"tweet_id": "729804427050110977", "location_mentions": []}
+{"tweet_id": "729409342735290373", "location_mentions": []}
+{"tweet_id": "729833504335376384", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 36, "endIdx": 42}]}
+{"tweet_id": "733426286056603648", "location_mentions": [{"text": "Manitoba", "type": "CITY", "startIdx": 97, "endIdx": 105}]}
+{"tweet_id": "732567909260627968", "location_mentions": []}
+{"tweet_id": "728605376044777472", "location_mentions": []}
+{"tweet_id": "728574533934809090", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 22, "endIdx": 29}]}
+{"tweet_id": "729520926795157504", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 92, "endIdx": 98}]}
+{"tweet_id": "730739571739271168", "location_mentions": []}
+{"tweet_id": "733046257090957312", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 124, "endIdx": 131}]}
+{"tweet_id": "728915238121132032", "location_mentions": [{"text": "Foothills", "type": "CITY", "startIdx": 0, "endIdx": 9}]}
+{"tweet_id": "732744591548506112", "location_mentions": []}
+{"tweet_id": "733343633169088512", "location_mentions": []}
+{"tweet_id": "728675830432325632", "location_mentions": []}
+{"tweet_id": "728591245375766531", "location_mentions": []}
+{"tweet_id": "729438472449208322", "location_mentions": []}
+{"tweet_id": "728795830505734144", "location_mentions": []}
+{"tweet_id": "729820191337553921", "location_mentions": []}
+{"tweet_id": "730034439607226369", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 15, "endIdx": 21}]}
+{"tweet_id": "729195286845788160", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "730907859207086080", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 56, "endIdx": 69}]}
+{"tweet_id": "728545605585276928", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 82, "endIdx": 89}]}
+{"tweet_id": "728815054523490305", "location_mentions": []}
+{"tweet_id": "733984679485923329", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 47, "endIdx": 54}]}
+{"tweet_id": "728646712613605376", "location_mentions": [{"text": "FortMcMurray", "type": "CITY", "startIdx": 1, "endIdx": 13}]}
+{"tweet_id": "733367200489279488", "location_mentions": [{"text": "Canadas", "type": "CTRY", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "731491053904248832", "location_mentions": []}
+{"tweet_id": "734541048551198720", "location_mentions": []}
+{"tweet_id": "728748974530650112", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 22, "endIdx": 29}]}
+{"tweet_id": "734590761027670018", "location_mentions": [{"text": "California", "type": "STAT", "startIdx": 69, "endIdx": 79}]}
+{"tweet_id": "729433672097484800", "location_mentions": [{"text": "Manitoba..", "type": "CITY", "startIdx": 6, "endIdx": 16}]}
+{"tweet_id": "729354771916709888", "location_mentions": [{"text": "Edmonton", "type": "CITY", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "728677179907706880", "location_mentions": []}
+{"tweet_id": "732754544346566656", "location_mentions": []}
+{"tweet_id": "728643266401452032", "location_mentions": []}
+{"tweet_id": "731509577041076224", "location_mentions": []}
+{"tweet_id": "728647062103822337", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 76, "endIdx": 83}]}
+{"tweet_id": "728580544049516550", "location_mentions": [{"text": "Alaska", "type": "STAT", "startIdx": 115, "endIdx": 121}]}
+{"tweet_id": "728708404370354176", "location_mentions": []}
+{"tweet_id": "729234422298517504", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 20, "endIdx": 26}]}
+{"tweet_id": "734614548909559810", "location_mentions": [{"text": "California", "type": "STAT", "startIdx": 10, "endIdx": 20}]}
+{"tweet_id": "729775854926979073", "location_mentions": [{"text": "Russia", "type": "CTRY", "startIdx": 101, "endIdx": 107}]}
+{"tweet_id": "729788301763190785", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 56, "endIdx": 63}]}
+{"tweet_id": "728686172453511168", "location_mentions": []}
+{"tweet_id": "729267284217348097", "location_mentions": []}
+{"tweet_id": "730027237483810820", "location_mentions": []}
+{"tweet_id": "728678647301804034", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 20, "endIdx": 27}, {"text": "York", "type": "CITY", "startIdx": 87, "endIdx": 91}]}
+{"tweet_id": "732032405431689216", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 17, "endIdx": 23}, {"text": "Alberta", "type": "STAT", "startIdx": 83, "endIdx": 90}, {"text": "Canada", "type": "CTRY", "startIdx": 17, "endIdx": 23}]}
+{"tweet_id": "730081812463104000", "location_mentions": []}
+{"tweet_id": "732598333689057280", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 0, "endIdx": 7}, {"text": "Toronto", "type": "CITY", "startIdx": 74, "endIdx": 81}]}
+{"tweet_id": "728577314397786112", "location_mentions": [{"text": "Toronto", "type": "CITY", "startIdx": 87, "endIdx": 94}]}
+{"tweet_id": "728563498758901760", "location_mentions": []}
+{"tweet_id": "729802911228690432", "location_mentions": []}
+{"tweet_id": "728616717019172865", "location_mentions": []}
+{"tweet_id": "728682011418714112", "location_mentions": []}
+{"tweet_id": "729732224459776001", "location_mentions": []}
+{"tweet_id": "728606734399475712", "location_mentions": []}
+{"tweet_id": "732696441370648577", "location_mentions": []}
+{"tweet_id": "729384197089984512", "location_mentions": []}
+{"tweet_id": "728572084566249472", "location_mentions": [{"text": "Toronto", "type": "CITY", "startIdx": 94, "endIdx": 101}]}
+{"tweet_id": "729026218381582336", "location_mentions": []}
+{"tweet_id": "729698490893406208", "location_mentions": [{"text": "Canadas", "type": "CTRY", "startIdx": 37, "endIdx": 44}]}
+{"tweet_id": "729959316946604032", "location_mentions": []}
+{"tweet_id": "728673034815426560", "location_mentions": []}
+{"tweet_id": "734848168978993152", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "728948038006267904", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "728770579273232384", "location_mentions": []}
+{"tweet_id": "732692543243223041", "location_mentions": []}
+{"tweet_id": "730448638418132992", "location_mentions": []}
+{"tweet_id": "730549439962697728", "location_mentions": [{"text": "Maine", "type": "STAT", "startIdx": 57, "endIdx": 62}]}
+{"tweet_id": "728575793857712131", "location_mentions": []}
+{"tweet_id": "733722356305170432", "location_mentions": []}
+{"tweet_id": "730592125570551808", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 42, "endIdx": 49}]}
+{"tweet_id": "733344517261295616", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 28, "endIdx": 35}]}
+{"tweet_id": "728731227667103744", "location_mentions": []}
+{"tweet_id": "729019527824990208", "location_mentions": []}
+{"tweet_id": "729012870931988481", "location_mentions": [{"text": "Ontario", "type": "STAT", "startIdx": 132, "endIdx": 139}]}
+{"tweet_id": "734425437330231297", "location_mentions": []}
+{"tweet_id": "730078108431224832", "location_mentions": []}
+{"tweet_id": "729412279737913344", "location_mentions": []}
+{"tweet_id": "728773567731650562", "location_mentions": []}
+{"tweet_id": "729753364175585280", "location_mentions": []}
+{"tweet_id": "728642042230870016", "location_mentions": []}
+{"tweet_id": "729278884491997184", "location_mentions": [{"text": "UK", "type": "CTRY", "startIdx": 123, "endIdx": 125}]}
+{"tweet_id": "732211213044731904", "location_mentions": []}
+{"tweet_id": "729280801586688001", "location_mentions": []}
+{"tweet_id": "730177344032378881", "location_mentions": []}
+{"tweet_id": "735161026816180224", "location_mentions": []}
+{"tweet_id": "734527998003695616", "location_mentions": []}
+{"tweet_id": "731799744910069760", "location_mentions": []}
+{"tweet_id": "729750809651642369", "location_mentions": []}
+{"tweet_id": "732739168111988737", "location_mentions": [{"text": "Ontario", "type": "STAT", "startIdx": 22, "endIdx": 29}]}
+{"tweet_id": "735613559879667712", "location_mentions": []}
+{"tweet_id": "730054281634578434", "location_mentions": []}
+{"tweet_id": "731736496387072000", "location_mentions": [{"text": "Albertas", "type": "STAT", "startIdx": 26, "endIdx": 34}]}
+{"tweet_id": "731970471659483136", "location_mentions": []}
+{"tweet_id": "729659686002294784", "location_mentions": []}
+{"tweet_id": "730131843475857408", "location_mentions": []}
+{"tweet_id": "731228745944563712", "location_mentions": []}
+{"tweet_id": "732337058732072960", "location_mentions": [{"text": "Edmonton", "type": "CITY", "startIdx": 64, "endIdx": 72}]}
+{"tweet_id": "728670009350709250", "location_mentions": [{"text": "Albertas", "type": "STAT", "startIdx": 36, "endIdx": 44}, {"text": "Alberta", "type": "STAT", "startIdx": 36, "endIdx": 43}]}
+{"tweet_id": "730403466905063424", "location_mentions": [{"text": "toronto", "type": "STAT", "startIdx": 1, "endIdx": 8}]}
+{"tweet_id": "728674116773904384", "location_mentions": []}
+{"tweet_id": "730510385544085505", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 69, "endIdx": 82}]}
+{"tweet_id": "733705874594746368", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 45, "endIdx": 52}]}
+{"tweet_id": "728819311070994432", "location_mentions": []}
+{"tweet_id": "729358920121081856", "location_mentions": []}
+{"tweet_id": "729415905638121472", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 18, "endIdx": 31}]}
+{"tweet_id": "728600195361964032", "location_mentions": [{"text": "Albertas", "type": "STAT", "startIdx": 67, "endIdx": 75}]}
+{"tweet_id": "729408462606700544", "location_mentions": []}
+{"tweet_id": "729445233486798848", "location_mentions": []}
+{"tweet_id": "733024552549122049", "location_mentions": []}
+{"tweet_id": "734920540213940224", "location_mentions": [{"text": "Texas", "type": "STAT", "startIdx": 50, "endIdx": 55}, {"text": "Texas", "type": "STAT", "startIdx": 50, "endIdx": 55}]}
+{"tweet_id": "734777933403934720", "location_mentions": []}
+{"tweet_id": "729513654404587520", "location_mentions": [{"text": "Albertas", "type": "STAT", "startIdx": 52, "endIdx": 60}]}
+{"tweet_id": "728624787191402496", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 51, "endIdx": 58}]}
+{"tweet_id": "733692223422910466", "location_mentions": []}
+{"tweet_id": "729969608669724672", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 42, "endIdx": 49}, {"text": "Canada", "type": "CTRY", "startIdx": 126, "endIdx": 132}]}
+{"tweet_id": "731942387354763264", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 29, "endIdx": 36}, {"text": "Canada", "type": "CTRY", "startIdx": 37, "endIdx": 43}]}
+{"tweet_id": "732359478243262465", "location_mentions": []}
+{"tweet_id": "729075067393478657", "location_mentions": []}
+{"tweet_id": "731536036132585472", "location_mentions": []}
+{"tweet_id": "731811403175202821", "location_mentions": []}
+{"tweet_id": "729107770457329664", "location_mentions": []}
+{"tweet_id": "735896779766407169", "location_mentions": []}
+{"tweet_id": "728723712418123776", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 101, "endIdx": 108}]}
+{"tweet_id": "733371987117150209", "location_mentions": []}
+{"tweet_id": "729890709038374912", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 16, "endIdx": 23}]}
+{"tweet_id": "733281953890238465", "location_mentions": []}
+{"tweet_id": "728743896868651008", "location_mentions": []}
+{"tweet_id": "728544705865129985", "location_mentions": []}
+{"tweet_id": "728636346005217281", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 80, "endIdx": 93}]}
+{"tweet_id": "732809650115104768", "location_mentions": []}
+{"tweet_id": "728680679823835136", "location_mentions": []}
+{"tweet_id": "728592953162252288", "location_mentions": [{"text": "canada", "type": "CTRY", "startIdx": 62, "endIdx": 68}]}
+{"tweet_id": "733374771870715905", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 16, "endIdx": 29}]}
+{"tweet_id": "729183782796988416", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 25, "endIdx": 38}]}
+{"tweet_id": "730156745901772800", "location_mentions": []}
+{"tweet_id": "732568763397115905", "location_mentions": []}
+{"tweet_id": "728676997686276097", "location_mentions": []}
+{"tweet_id": "729099553547243521", "location_mentions": []}
+{"tweet_id": "732624421538697218", "location_mentions": []}
+{"tweet_id": "734814182818750464", "location_mentions": []}
+{"tweet_id": "729284197441933312", "location_mentions": []}
+{"tweet_id": "728547747515731968", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 8, "endIdx": 21}]}
+{"tweet_id": "729154799115984896", "location_mentions": []}
+{"tweet_id": "730950491992035329", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 6, "endIdx": 12}]}
+{"tweet_id": "728909922331721728", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 20, "endIdx": 27}]}
+{"tweet_id": "728749890570838016", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 54, "endIdx": 61}]}
+{"tweet_id": "728691900077715457", "location_mentions": []}
+{"tweet_id": "729322309056499712", "location_mentions": []}
+{"tweet_id": "729125880082108417", "location_mentions": []}
+{"tweet_id": "729152626139369472", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 98, "endIdx": 105}]}
+{"tweet_id": "732797815248850945", "location_mentions": []}
+{"tweet_id": "730144153107988480", "location_mentions": []}
+{"tweet_id": "728557901443379200", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 37, "endIdx": 50}]}
+{"tweet_id": "730061168975425537", "location_mentions": []}
+{"tweet_id": "728680682977787904", "location_mentions": [{"text": "Nanaimo", "type": "CITY", "startIdx": 58, "endIdx": 65}]}
+{"tweet_id": "733054069502283776", "location_mentions": []}
+{"tweet_id": "733704009794637825", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "730910821593669632", "location_mentions": []}
+{"tweet_id": "732611725489524736", "location_mentions": []}
+{"tweet_id": "733296497052155904", "location_mentions": [{"text": "Edmonton", "type": "CITY", "startIdx": 84, "endIdx": 92}]}
+{"tweet_id": "728617478075592704", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 52, "endIdx": 58}]}
+{"tweet_id": "733366449935421440", "location_mentions": []}
+{"tweet_id": "728613019119288320", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 40, "endIdx": 47}, {"text": "Canada", "type": "CTRY", "startIdx": 91, "endIdx": 97}]}
+{"tweet_id": "728648422606114816", "location_mentions": []}
+{"tweet_id": "732494623122169856", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "728696836568043522", "location_mentions": [{"text": "Albertas", "type": "CITY", "startIdx": 20, "endIdx": 28}]}
+{"tweet_id": "735506782425120768", "location_mentions": []}
+{"tweet_id": "728809947732058112", "location_mentions": []}
+{"tweet_id": "729396706903658496", "location_mentions": []}
+{"tweet_id": "730140121979334656", "location_mentions": []}
+{"tweet_id": "728898694720958464", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 27, "endIdx": 34}]}
+{"tweet_id": "731939188896043008", "location_mentions": []}
+{"tweet_id": "733317393863188481", "location_mentions": []}
+{"tweet_id": "729014480147992576", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "733186364615729152", "location_mentions": []}
+{"tweet_id": "732224405217120256", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "732981913338667008", "location_mentions": []}
+{"tweet_id": "729411491992993792", "location_mentions": [{"text": "Russia", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "728659696962314241", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 72, "endIdx": 78}]}
+{"tweet_id": "732683934627024896", "location_mentions": []}
+{"tweet_id": "729731823002103809", "location_mentions": []}
+{"tweet_id": "729698610384764928", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 69, "endIdx": 75}]}
+{"tweet_id": "731337457908637696", "location_mentions": []}
+{"tweet_id": "729445190411255808", "location_mentions": []}
+{"tweet_id": "733321295694172161", "location_mentions": []}
+{"tweet_id": "729729309439459328", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 16, "endIdx": 23}]}
+{"tweet_id": "729306616890187776", "location_mentions": []}
+{"tweet_id": "729769583662403584", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 26, "endIdx": 33}]}
+{"tweet_id": "730534536258289664", "location_mentions": [{"text": "Ottawa", "type": "CITY", "startIdx": 118, "endIdx": 124}]}
+{"tweet_id": "728897194896535552", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 84, "endIdx": 91}]}
+{"tweet_id": "728725902318768129", "location_mentions": []}
+{"tweet_id": "728605748117295104", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 108, "endIdx": 115}]}
+{"tweet_id": "730250091295064064", "location_mentions": []}
+{"tweet_id": "729132904521990144", "location_mentions": []}
+{"tweet_id": "730687772768358400", "location_mentions": [{"text": "Minnesota", "type": "STAT", "startIdx": 10, "endIdx": 19}, {"text": "Wallace Lake", "type": "NPOI", "startIdx": 39, "endIdx": 51}]}
+{"tweet_id": "729089295844282369", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 58, "endIdx": 64}]}
+{"tweet_id": "732980377636241408", "location_mentions": []}
+{"tweet_id": "730867849657495554", "location_mentions": [{"text": "Fort Mcmurrary", "type": "HPOI", "startIdx": 116, "endIdx": 130}]}
+{"tweet_id": "732691300420440064", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "732780159657336832", "location_mentions": []}
+{"tweet_id": "728965334384844800", "location_mentions": []}
+{"tweet_id": "732942753500266496", "location_mentions": []}
+{"tweet_id": "736007733002932224", "location_mentions": [{"text": "Edmonton", "type": "CITY", "startIdx": 10, "endIdx": 18}]}
+{"tweet_id": "733800541445185536", "location_mentions": []}
+{"tweet_id": "728641629641281536", "location_mentions": []}
+{"tweet_id": "729704696273883138", "location_mentions": [{"text": "Ottawa", "type": "CITY", "startIdx": 17, "endIdx": 23}]}
+{"tweet_id": "732634596102262785", "location_mentions": []}
+{"tweet_id": "733307444198137856", "location_mentions": []}
+{"tweet_id": "729051181377421312", "location_mentions": []}
+{"tweet_id": "732265857540182016", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 16, "endIdx": 23}]}
+{"tweet_id": "728932820857413632", "location_mentions": [{"text": "Yemen", "type": "CTRY", "startIdx": 4, "endIdx": 9}, {"text": "Fort McMurray", "type": "CITY", "startIdx": 58, "endIdx": 71}]}
+{"tweet_id": "729879161716645888", "location_mentions": []}
+{"tweet_id": "731976001916276736", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 14, "endIdx": 20}]}
+{"tweet_id": "735615956207075328", "location_mentions": []}
+{"tweet_id": "730022230084751360", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 71, "endIdx": 78}]}
+{"tweet_id": "728574867843452928", "location_mentions": [{"text": "Ottawa", "type": "CITY", "startIdx": 28, "endIdx": 34}]}
+{"tweet_id": "728583548945358848", "location_mentions": []}
+{"tweet_id": "729887212439900161", "location_mentions": []}
+{"tweet_id": "728637742716956672", "location_mentions": []}
+{"tweet_id": "729098725709221888", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 110, "endIdx": 123}]}
+{"tweet_id": "729474780508790784", "location_mentions": []}
+{"tweet_id": "730114250656514048", "location_mentions": [{"text": "Edmonton", "type": "CITY", "startIdx": 65, "endIdx": 73}]}
+{"tweet_id": "728618190243135488", "location_mentions": []}
+{"tweet_id": "731398465809465344", "location_mentions": []}
+{"tweet_id": "729472065418354689", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 32, "endIdx": 39}, {"text": "Alberta", "type": "STAT", "startIdx": 32, "endIdx": 39}]}
+{"tweet_id": "728616974406823936", "location_mentions": []}
+{"tweet_id": "728672387982499840", "location_mentions": [{"text": "Fort McMurray", "type": "NBHD", "startIdx": 0, "endIdx": 13}, {"text": "Alberta", "type": "STAT", "startIdx": 84, "endIdx": 91}]}
+{"tweet_id": "732685916033060865", "location_mentions": []}
+{"tweet_id": "728568126393176064", "location_mentions": []}
+{"tweet_id": "729017990797242370", "location_mentions": []}
+{"tweet_id": "728556366915198976", "location_mentions": []}
+{"tweet_id": "729432071194693633", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 40, "endIdx": 47}]}
+{"tweet_id": "732744562494439425", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "728682196295389185", "location_mentions": []}
+{"tweet_id": "728691657575571456", "location_mentions": []}
+{"tweet_id": "730545567575597056", "location_mentions": [{"text": "Manitoba", "type": "CITY", "startIdx": 9, "endIdx": 17}]}
+{"tweet_id": "728834409470803968", "location_mentions": []}
+{"tweet_id": "730818214096195585", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}, {"text": "Calgary", "type": "CITY", "startIdx": 34, "endIdx": 41}]}
+{"tweet_id": "729058501687836672", "location_mentions": []}
+{"tweet_id": "733703059122032640", "location_mentions": [{"text": "Canadian", "type": "CTRY", "startIdx": 33, "endIdx": 41}]}
+{"tweet_id": "728588917042073602", "location_mentions": []}
+{"tweet_id": "734011340403138560", "location_mentions": []}
+{"tweet_id": "728680645887549440", "location_mentions": []}
+{"tweet_id": "731301080437415936", "location_mentions": []}
+{"tweet_id": "728740355311583233", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 55, "endIdx": 62}]}
+{"tweet_id": "733831339577868291", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 34, "endIdx": 41}]}
+{"tweet_id": "731913440411942912", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 26, "endIdx": 33}]}
+{"tweet_id": "729387565716000768", "location_mentions": []}
+{"tweet_id": "728591116686249985", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 49, "endIdx": 56}, {"text": "Ecuador", "type": "CTRY", "startIdx": 86, "endIdx": 93}]}
+{"tweet_id": "729052244956454912", "location_mentions": []}
+{"tweet_id": "735580950604566529", "location_mentions": []}
+{"tweet_id": "728647946527350784", "location_mentions": []}
+{"tweet_id": "730574741057224705", "location_mentions": []}
+{"tweet_id": "729141605521723392", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 93, "endIdx": 99}]}
+{"tweet_id": "728797678423973888", "location_mentions": []}
+{"tweet_id": "733311628821856257", "location_mentions": [{"text": "Alberta", "type": "CITY", "startIdx": 57, "endIdx": 64}]}
+{"tweet_id": "729727859611160576", "location_mentions": []}
+{"tweet_id": "732822681922490368", "location_mentions": []}
+{"tweet_id": "734422966411403264", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "734050930056826880", "location_mentions": []}
+{"tweet_id": "729751718032891904", "location_mentions": [{"text": "manitoba", "type": "CITY", "startIdx": 111, "endIdx": 119}]}
+{"tweet_id": "735882990916632576", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "732348635074179073", "location_mentions": []}
+{"tweet_id": "730821077069385732", "location_mentions": [{"text": "Fort McMurray", "type": "CITY", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "729870630749757440", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 11, "endIdx": 24}]}
+{"tweet_id": "729187763505897472", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 0, "endIdx": 13}]}
+{"tweet_id": "730802049974067201", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 84, "endIdx": 97}]}
+{"tweet_id": "728614481358622721", "location_mentions": []}
+{"tweet_id": "728579808871915522", "location_mentions": []}
+{"tweet_id": "735164028616577024", "location_mentions": []}
+{"tweet_id": "728685371706331136", "location_mentions": []}
+{"tweet_id": "732918670570213376", "location_mentions": []}
+{"tweet_id": "735863042479525888", "location_mentions": [{"text": "Canadas", "type": "CTRY", "startIdx": 0, "endIdx": 7}]}
+{"tweet_id": "728956062817128449", "location_mentions": []}
+{"tweet_id": "732975696650350592", "location_mentions": []}
+{"tweet_id": "736014923042557952", "location_mentions": []}
+{"tweet_id": "732058726480257028", "location_mentions": []}
+{"tweet_id": "728782837856378880", "location_mentions": []}
+{"tweet_id": "730078294259961856", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 32, "endIdx": 45}, {"text": "Charlottetown", "type": "CITY", "startIdx": 94, "endIdx": 107}]}
+{"tweet_id": "730002964035723264", "location_mentions": []}
+{"tweet_id": "729526488366616576", "location_mentions": []}
+{"tweet_id": "728585292379213824", "location_mentions": []}
+{"tweet_id": "729690180861472769", "location_mentions": [{"text": "Alberta", "type": "STAT", "startIdx": 58, "endIdx": 65}]}
+{"tweet_id": "729770411630694400", "location_mentions": []}
+{"tweet_id": "733109637264723968", "location_mentions": []}
+{"tweet_id": "734441535056543749", "location_mentions": []}
+{"tweet_id": "729768360058195970", "location_mentions": []}
+{"tweet_id": "729847441143566336", "location_mentions": []}
+{"tweet_id": "731932901890232320", "location_mentions": []}
+{"tweet_id": "730927353782632448", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 6, "endIdx": 12}, {"text": "TORONTO/VANCOUVER", "type": "CITY", "startIdx": 90, "endIdx": 107}]}
+{"tweet_id": "730512361245704193", "location_mentions": [{"text": "Fort McMurray", "type": "HPOI", "startIdx": 40, "endIdx": 53}]}
+{"tweet_id": "728567222843510785", "location_mentions": []}
+{"tweet_id": "730900483594956800", "location_mentions": [{"text": "ALBERTAS", "type": "STAT", "startIdx": 21, "endIdx": 29}]}
+{"tweet_id": "729811012644446208", "location_mentions": []}

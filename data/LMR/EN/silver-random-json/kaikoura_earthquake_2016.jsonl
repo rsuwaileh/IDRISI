@@ -1,0 +1,986 @@
+{"tweet_id": "798064896545996801", "location_mentions": []}
+{"tweet_id": "797867944546025472", "location_mentions": []}
+{"tweet_id": "797958935126773760", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 103, "endIdx": 113}]}
+{"tweet_id": "798087856237314049", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 17, "endIdx": 28}]}
+{"tweet_id": "797865461991940096", "location_mentions": []}
+{"tweet_id": "797888775049199616", "location_mentions": []}
+{"tweet_id": "798027556041560064", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 90, "endIdx": 101}]}
+{"tweet_id": "797915816972795904", "location_mentions": []}
+{"tweet_id": "797990642244694017", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 91, "endIdx": 102}, {"text": "NZ", "type": "CTRY", "startIdx": 134, "endIdx": 136}]}
+{"tweet_id": "798059444533792769", "location_mentions": []}
+{"tweet_id": "798148696508506112", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 33, "endIdx": 44}]}
+{"tweet_id": "798011839233675264", "location_mentions": [{"text": "Auckland", "type": "CITY", "startIdx": 16, "endIdx": 24}, {"text": "New Zealand", "type": "CTRY", "startIdx": 90, "endIdx": 101}]}
+{"tweet_id": "797877041760604160", "location_mentions": [{"text": "Cheviot", "type": "CITY", "startIdx": 27, "endIdx": 34}, {"text": "NewZealand", "type": "CTRY", "startIdx": 69, "endIdx": 79}]}
+{"tweet_id": "797865038165852160", "location_mentions": []}
+{"tweet_id": "797919910726729728", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 42, "endIdx": 52}, {"text": "Kaikoura", "type": "CITY", "startIdx": 73, "endIdx": 81}]}
+{"tweet_id": "798770009589698560", "location_mentions": []}
+{"tweet_id": "800833072014901256", "location_mentions": [{"text": "Japan", "type": "CTRY", "startIdx": 71, "endIdx": 76}]}
+{"tweet_id": "797877572155494402", "location_mentions": [{"text": "Auckland", "type": "CITY", "startIdx": 74, "endIdx": 82}]}
+{"tweet_id": "771440566953512960", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 53, "endIdx": 64}]}
+{"tweet_id": "797898486830145537", "location_mentions": []}
+{"tweet_id": "797797312441352192", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 51, "endIdx": 62}]}
+{"tweet_id": "797963854789505024", "location_mentions": []}
+{"tweet_id": "797974840925749248", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 59, "endIdx": 70}]}
+{"tweet_id": "798645104349040640", "location_mentions": []}
+{"tweet_id": "798073550384992256", "location_mentions": []}
+{"tweet_id": "799872348291633152", "location_mentions": []}
+{"tweet_id": "798277386928328704", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 60, "endIdx": 71}]}
+{"tweet_id": "797890233266114560", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 21, "endIdx": 32}]}
+{"tweet_id": "797909819512344577", "location_mentions": []}
+{"tweet_id": "798236564757315585", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 58, "endIdx": 68}]}
+{"tweet_id": "798158467240370176", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 23, "endIdx": 33}, {"text": "NZ", "type": "CTRY", "startIdx": 128, "endIdx": 130}]}
+{"tweet_id": "800524133620555776", "location_mentions": [{"text": "Wellington_NZ", "type": "CITY", "startIdx": 4, "endIdx": 17}]}
+{"tweet_id": "797872214833971201", "location_mentions": []}
+{"tweet_id": "798388199290765315", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 92, "endIdx": 102}]}
+{"tweet_id": "800425525818724352", "location_mentions": []}
+{"tweet_id": "798005263319998465", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 71, "endIdx": 82}]}
+{"tweet_id": "798038402700439552", "location_mentions": []}
+{"tweet_id": "797815388037779456", "location_mentions": []}
+{"tweet_id": "797962975805980673", "location_mentions": []}
+{"tweet_id": "797871056685932544", "location_mentions": []}
+{"tweet_id": "797818601264644096", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 5, "endIdx": 13}]}
+{"tweet_id": "798037491949256704", "location_mentions": []}
+{"tweet_id": "798220714432024576", "location_mentions": []}
+{"tweet_id": "798024685908672512", "location_mentions": []}
+{"tweet_id": "800206435334299649", "location_mentions": []}
+{"tweet_id": "798348492984827904", "location_mentions": []}
+{"tweet_id": "797878812348325888", "location_mentions": []}
+{"tweet_id": "798059628961480704", "location_mentions": []}
+{"tweet_id": "798666915073753088", "location_mentions": []}
+{"tweet_id": "797803360581627908", "location_mentions": [{"text": "Waikanae", "type": "CITY", "startIdx": 32, "endIdx": 40}]}
+{"tweet_id": "797833562615517184", "location_mentions": []}
+{"tweet_id": "797790664259833856", "location_mentions": []}
+{"tweet_id": "798001950394462209", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 70, "endIdx": 80}]}
+{"tweet_id": "797907979366371328", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 22, "endIdx": 32}, {"text": "NewZealand", "type": "CTRY", "startIdx": 22, "endIdx": 32}]}
+{"tweet_id": "797812997179711489", "location_mentions": []}
+{"tweet_id": "797913770173427712", "location_mentions": []}
+{"tweet_id": "800457247847419905", "location_mentions": []}
+{"tweet_id": "798038910840422400", "location_mentions": []}
+{"tweet_id": "800421476834738176", "location_mentions": []}
+{"tweet_id": "798023310613348352", "location_mentions": [{"text": "newzealand", "type": "CTRY", "startIdx": 29, "endIdx": 39}]}
+{"tweet_id": "798373885083205633", "location_mentions": []}
+{"tweet_id": "797946272795672576", "location_mentions": []}
+{"tweet_id": "798749185189167104", "location_mentions": []}
+{"tweet_id": "797922108122615808", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 109, "endIdx": 120}]}
+{"tweet_id": "797877698399866880", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 99, "endIdx": 110}]}
+{"tweet_id": "798686926962233344", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 29, "endIdx": 31}, {"text": "Kaikoura", "type": "CITY", "startIdx": 91, "endIdx": 99}]}
+{"tweet_id": "798022067346018304", "location_mentions": []}
+{"tweet_id": "797803654032068608", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 89, "endIdx": 99}]}
+{"tweet_id": "797867282345103361", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 96, "endIdx": 107}]}
+{"tweet_id": "797976198559068160", "location_mentions": []}
+{"tweet_id": "797909017867657216", "location_mentions": []}
+{"tweet_id": "798463724189151232", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 28, "endIdx": 38}]}
+{"tweet_id": "797859504620605440", "location_mentions": []}
+{"tweet_id": "797798947599200256", "location_mentions": [{"text": "LyallBay", "type": "CITY", "startIdx": 35, "endIdx": 43}]}
+{"tweet_id": "798064076211372032", "location_mentions": []}
+{"tweet_id": "798009141822365696", "location_mentions": []}
+{"tweet_id": "798208245802233856", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 74, "endIdx": 85}]}
+{"tweet_id": "798152005315272704", "location_mentions": [{"text": "New Zealands", "type": "CTRY", "startIdx": 17, "endIdx": 29}]}
+{"tweet_id": "798021943337172992", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 63, "endIdx": 65}]}
+{"tweet_id": "797818443911155712", "location_mentions": []}
+{"tweet_id": "798092884280885248", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 67, "endIdx": 69}]}
+{"tweet_id": "800216011190333440", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 44, "endIdx": 52}]}
+{"tweet_id": "797899141682589697", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 70, "endIdx": 72}]}
+{"tweet_id": "797903775084081152", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 11, "endIdx": 21}]}
+{"tweet_id": "797967011917623297", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 69, "endIdx": 80}]}
+{"tweet_id": "798061479186427905", "location_mentions": []}
+{"tweet_id": "797929587577524224", "location_mentions": []}
+{"tweet_id": "771450301224222720", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 58, "endIdx": 60}]}
+{"tweet_id": "797923549004468225", "location_mentions": []}
+{"tweet_id": "797790587755712512", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 33, "endIdx": 44}]}
+{"tweet_id": "797893275784908802", "location_mentions": []}
+{"tweet_id": "797813835512025088", "location_mentions": []}
+{"tweet_id": "797820083280039938", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 13, "endIdx": 15}]}
+{"tweet_id": "797815087142563840", "location_mentions": []}
+{"tweet_id": "798355270241914880", "location_mentions": []}
+{"tweet_id": "797868036749299712", "location_mentions": []}
+{"tweet_id": "798063715664871424", "location_mentions": []}
+{"tweet_id": "800789229429137409", "location_mentions": []}
+{"tweet_id": "797840209077420032", "location_mentions": []}
+{"tweet_id": "797869713149730818", "location_mentions": []}
+{"tweet_id": "797911285052518400", "location_mentions": [{"text": "newzeland", "type": "CTRY", "startIdx": 117, "endIdx": 126}]}
+{"tweet_id": "797960916276916224", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 80, "endIdx": 91}]}
+{"tweet_id": "797884606192070657", "location_mentions": []}
+{"tweet_id": "797876816304189441", "location_mentions": []}
+{"tweet_id": "800588086233022464", "location_mentions": []}
+{"tweet_id": "798383268479385601", "location_mentions": [{"text": "U.S", "type": "CTRY", "startIdx": 17, "endIdx": 20}, {"text": "NZ", "type": "CTRY", "startIdx": 28, "endIdx": 30}, {"text": "NZ", "type": "CTRY", "startIdx": 28, "endIdx": 30}, {"text": "NZ", "type": "CTRY", "startIdx": 28, "endIdx": 30}]}
+{"tweet_id": "800445573031563264", "location_mentions": [{"text": "Blenheim", "type": "CITY", "startIdx": 55, "endIdx": 63}]}
+{"tweet_id": "797936289089658880", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 31, "endIdx": 42}]}
+{"tweet_id": "798748955731316736", "location_mentions": []}
+{"tweet_id": "797918082111074304", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 32, "endIdx": 40}]}
+{"tweet_id": "798045447151419392", "location_mentions": []}
+{"tweet_id": "797918390421622784", "location_mentions": []}
+{"tweet_id": "797793562125430784", "location_mentions": []}
+{"tweet_id": "797834197779894272", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 38, "endIdx": 48}]}
+{"tweet_id": "798088606497652736", "location_mentions": []}
+{"tweet_id": "798339799530639362", "location_mentions": [{"text": "wellington", "type": "CITY", "startIdx": 77, "endIdx": 87}]}
+{"tweet_id": "797987638397587456", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 44, "endIdx": 54}]}
+{"tweet_id": "797815093761167360", "location_mentions": [{"text": "Chile", "type": "CTRY", "startIdx": 18, "endIdx": 23}, {"text": "Argentina", "type": "CTRY", "startIdx": 28, "endIdx": 37}]}
+{"tweet_id": "797968554259791872", "location_mentions": []}
+{"tweet_id": "798063239380615169", "location_mentions": [{"text": "Kaikouras", "type": "CITY", "startIdx": 17, "endIdx": 26}, {"text": "kaikoura", "type": "CITY", "startIdx": 66, "endIdx": 74}]}
+{"tweet_id": "797839263362490369", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 28, "endIdx": 39}]}
+{"tweet_id": "798619862075510784", "location_mentions": []}
+{"tweet_id": "797997047391490048", "location_mentions": []}
+{"tweet_id": "797944217817391104", "location_mentions": []}
+{"tweet_id": "798390856038420480", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 19, "endIdx": 30}]}
+{"tweet_id": "798351144640593920", "location_mentions": [{"text": "Waiau", "type": "CITY", "startIdx": 31, "endIdx": 36}]}
+{"tweet_id": "800119608237666304", "location_mentions": []}
+{"tweet_id": "797923660795297792", "location_mentions": []}
+{"tweet_id": "771464639708172288", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 40, "endIdx": 51}]}
+{"tweet_id": "797790300684943360", "location_mentions": []}
+{"tweet_id": "798276902389616640", "location_mentions": []}
+{"tweet_id": "797860147590631424", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 73, "endIdx": 83}]}
+{"tweet_id": "797862559516766209", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 53, "endIdx": 63}]}
+{"tweet_id": "797810639934607360", "location_mentions": []}
+{"tweet_id": "800452421382066177", "location_mentions": []}
+{"tweet_id": "798358523574972416", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 24, "endIdx": 34}]}
+{"tweet_id": "798085882574012418", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 4, "endIdx": 14}]}
+{"tweet_id": "798020183281389568", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 36, "endIdx": 47}]}
+{"tweet_id": "797877882840199168", "location_mentions": [{"text": "Dunedin", "type": "CITY", "startIdx": 64, "endIdx": 71}]}
+{"tweet_id": "797945125129199616", "location_mentions": []}
+{"tweet_id": "797860576466640896", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 78, "endIdx": 88}]}
+{"tweet_id": "798273049812271104", "location_mentions": []}
+{"tweet_id": "797949836771213313", "location_mentions": []}
+{"tweet_id": "797924773535752192", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 63, "endIdx": 73}]}
+{"tweet_id": "797881477757186048", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 45, "endIdx": 53}]}
+{"tweet_id": "797882477998051328", "location_mentions": []}
+{"tweet_id": "798737926666321920", "location_mentions": []}
+{"tweet_id": "798007845413228544", "location_mentions": []}
+{"tweet_id": "798365343815077888", "location_mentions": []}
+{"tweet_id": "797936281170755584", "location_mentions": [{"text": "newzealand", "type": "CTRY", "startIdx": 16, "endIdx": 26}, {"text": "New Zealand", "type": "CTRY", "startIdx": 61, "endIdx": 72}]}
+{"tweet_id": "798063368690991104", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 126, "endIdx": 128}]}
+{"tweet_id": "798017187025809412", "location_mentions": []}
+{"tweet_id": "797933604089184257", "location_mentions": []}
+{"tweet_id": "798053992076972032", "location_mentions": []}
+{"tweet_id": "797965574991122433", "location_mentions": []}
+{"tweet_id": "797857815037493248", "location_mentions": []}
+{"tweet_id": "798158844627038209", "location_mentions": []}
+{"tweet_id": "800833169226240000", "location_mentions": []}
+{"tweet_id": "797885423066353664", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 76, "endIdx": 87}]}
+{"tweet_id": "797902804178219008", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 130, "endIdx": 140}]}
+{"tweet_id": "797797082350223360", "location_mentions": []}
+{"tweet_id": "798074450792976384", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 6, "endIdx": 17}]}
+{"tweet_id": "797961679283683328", "location_mentions": []}
+{"tweet_id": "771473274035326976", "location_mentions": []}
+{"tweet_id": "799929843324362752", "location_mentions": []}
+{"tweet_id": "797808707727855617", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 14, "endIdx": 24}]}
+{"tweet_id": "797794712866299904", "location_mentions": []}
+{"tweet_id": "797900848147726336", "location_mentions": [{"text": "nz", "type": "CTRY", "startIdx": 86, "endIdx": 88}]}
+{"tweet_id": "798056852600721408", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 38, "endIdx": 48}, {"text": "NewZealand", "type": "CTRY", "startIdx": 50, "endIdx": 60}]}
+{"tweet_id": "798011174050639872", "location_mentions": []}
+{"tweet_id": "797796516802936832", "location_mentions": []}
+{"tweet_id": "797886581772193794", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 81, "endIdx": 92}]}
+{"tweet_id": "798191435358957568", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 52, "endIdx": 63}]}
+{"tweet_id": "798817181928521729", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 7, "endIdx": 18}]}
+{"tweet_id": "797810687145713664", "location_mentions": []}
+{"tweet_id": "797796926024339456", "location_mentions": []}
+{"tweet_id": "771426037397794817", "location_mentions": []}
+{"tweet_id": "797796982358016000", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 63, "endIdx": 65}]}
+{"tweet_id": "797946621208076288", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 49, "endIdx": 60}, {"text": "NZ", "type": "CTRY", "startIdx": 99, "endIdx": 101}]}
+{"tweet_id": "798264650747899904", "location_mentions": []}
+{"tweet_id": "797806003785895937", "location_mentions": []}
+{"tweet_id": "797869058095878146", "location_mentions": []}
+{"tweet_id": "800147831646396416", "location_mentions": []}
+{"tweet_id": "798431929062129664", "location_mentions": []}
+{"tweet_id": "797794322842349568", "location_mentions": []}
+{"tweet_id": "797911510387331072", "location_mentions": []}
+{"tweet_id": "798341406930522112", "location_mentions": []}
+{"tweet_id": "797934936757968896", "location_mentions": []}
+{"tweet_id": "797842044408315904", "location_mentions": [{"text": "wellington", "type": "CITY", "startIdx": 124, "endIdx": 134}]}
+{"tweet_id": "797967549983920128", "location_mentions": []}
+{"tweet_id": "797830321781604352", "location_mentions": [{"text": "America", "type": "CONT", "startIdx": 62, "endIdx": 69}]}
+{"tweet_id": "798016516767694851", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 70, "endIdx": 81}]}
+{"tweet_id": "797963106299224065", "location_mentions": []}
+{"tweet_id": "797817583105753088", "location_mentions": []}
+{"tweet_id": "771475907567558656", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 0, "endIdx": 11}]}
+{"tweet_id": "797803920223416320", "location_mentions": [{"text": "Marlborough", "type": "CITY", "startIdx": 38, "endIdx": 49}]}
+{"tweet_id": "797820209784557568", "location_mentions": []}
+{"tweet_id": "798810010541117440", "location_mentions": []}
+{"tweet_id": "797798966993637376", "location_mentions": []}
+{"tweet_id": "797881399231422464", "location_mentions": [{"text": "Canterbury", "type": "CITY", "startIdx": 34, "endIdx": 44}, {"text": "Wellington", "type": "CITY", "startIdx": 50, "endIdx": 60}]}
+{"tweet_id": "797794949739593729", "location_mentions": []}
+{"tweet_id": "797873193402834944", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 4, "endIdx": 14}]}
+{"tweet_id": "800893823907790848", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 24, "endIdx": 35}]}
+{"tweet_id": "798545959416373248", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 0, "endIdx": 11}, {"text": "New Zealand", "type": "CTRY", "startIdx": 0, "endIdx": 11}, {"text": "newzealand", "type": "CTRY", "startIdx": 78, "endIdx": 88}, {"text": "auckland", "type": "CITY", "startIdx": 90, "endIdx": 98}]}
+{"tweet_id": "798064665028722689", "location_mentions": []}
+{"tweet_id": "797811433501138944", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 70, "endIdx": 80}]}
+{"tweet_id": "798073355584684032", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 53, "endIdx": 61}]}
+{"tweet_id": "797968069154873345", "location_mentions": []}
+{"tweet_id": "798055816553074688", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 94, "endIdx": 105}]}
+{"tweet_id": "800580694749560832", "location_mentions": []}
+{"tweet_id": "797857531909419008", "location_mentions": []}
+{"tweet_id": "797869051984809984", "location_mentions": [{"text": "Auckland", "type": "CITY", "startIdx": 9, "endIdx": 17}]}
+{"tweet_id": "797887830311596032", "location_mentions": []}
+{"tweet_id": "797977838330646528", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 27, "endIdx": 38}]}
+{"tweet_id": "797878710288252929", "location_mentions": []}
+{"tweet_id": "797882960493973504", "location_mentions": []}
+{"tweet_id": "797861613852184576", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 53, "endIdx": 55}]}
+{"tweet_id": "797941435727155200", "location_mentions": []}
+{"tweet_id": "798076101335490560", "location_mentions": []}
+{"tweet_id": "797903370698665985", "location_mentions": []}
+{"tweet_id": "798358263431499776", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 64, "endIdx": 74}]}
+{"tweet_id": "797837016280879104", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 13, "endIdx": 23}]}
+{"tweet_id": "797867383578705920", "location_mentions": []}
+{"tweet_id": "798014418810351616", "location_mentions": []}
+{"tweet_id": "797839850582016002", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 76, "endIdx": 87}]}
+{"tweet_id": "797859977197015040", "location_mentions": [{"text": "newzealand", "type": "CTRY", "startIdx": 94, "endIdx": 104}]}
+{"tweet_id": "797959117327319040", "location_mentions": []}
+{"tweet_id": "800815052185948160", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 49, "endIdx": 51}, {"text": "NZ", "type": "CTRY", "startIdx": 49, "endIdx": 51}]}
+{"tweet_id": "797985513021972480", "location_mentions": []}
+{"tweet_id": "797962559118639104", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 55, "endIdx": 65}]}
+{"tweet_id": "771594823685976064", "location_mentions": []}
+{"tweet_id": "797877313190830080", "location_mentions": []}
+{"tweet_id": "797820357801545728", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 11, "endIdx": 22}]}
+{"tweet_id": "797816215527768069", "location_mentions": []}
+{"tweet_id": "797806404442537984", "location_mentions": []}
+{"tweet_id": "798019875021033472", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 85, "endIdx": 95}]}
+{"tweet_id": "797862170243403776", "location_mentions": [{"text": "Christchurch", "type": "CITY", "startIdx": 76, "endIdx": 88}]}
+{"tweet_id": "798035201779564545", "location_mentions": []}
+{"tweet_id": "797824880150540288", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 1, "endIdx": 12}]}
+{"tweet_id": "797846175915261952", "location_mentions": []}
+{"tweet_id": "797937843112771584", "location_mentions": [{"text": "Hamiltonnz..", "type": "CNTY", "startIdx": 47, "endIdx": 59}]}
+{"tweet_id": "798665314502254592", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 101, "endIdx": 112}]}
+{"tweet_id": "797938127058989056", "location_mentions": [{"text": "Japan", "type": "CTRY", "startIdx": 10, "endIdx": 15}, {"text": "NewZealand", "type": "CTRY", "startIdx": 21, "endIdx": 31}, {"text": "Argentina:6,2", "type": "CTRY", "startIdx": 41, "endIdx": 54}, {"text": "Japan", "type": "CTRY", "startIdx": 10, "endIdx": 15}, {"text": "NewZealand", "type": "CTRY", "startIdx": 21, "endIdx": 31}, {"text": "Argentina", "type": "CTRY", "startIdx": 41, "endIdx": 50}]}
+{"tweet_id": "800864108061085696", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 0, "endIdx": 11}]}
+{"tweet_id": "797888937553334272", "location_mentions": []}
+{"tweet_id": "797935890970472448", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 48, "endIdx": 59}]}
+{"tweet_id": "797870723070967808", "location_mentions": []}
+{"tweet_id": "797966136746749952", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 68, "endIdx": 79}]}
+{"tweet_id": "797930073944752129", "location_mentions": []}
+{"tweet_id": "798258712800423936", "location_mentions": [{"text": "wellington", "type": "CITY", "startIdx": 66, "endIdx": 76}]}
+{"tweet_id": "800941737732513792", "location_mentions": [{"text": "Canterbury", "type": "CITY", "startIdx": 46, "endIdx": 56}]}
+{"tweet_id": "797821446575640577", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 50, "endIdx": 61}]}
+{"tweet_id": "798101451637559297", "location_mentions": []}
+{"tweet_id": "798055472448172032", "location_mentions": []}
+{"tweet_id": "797823010031812608", "location_mentions": [{"text": "newzealand", "type": "CTRY", "startIdx": 57, "endIdx": 67}]}
+{"tweet_id": "797798775657930752", "location_mentions": []}
+{"tweet_id": "797898910236708865", "location_mentions": []}
+{"tweet_id": "800835784647376896", "location_mentions": [{"text": "Japan", "type": "CTRY", "startIdx": 28, "endIdx": 33}]}
+{"tweet_id": "797826947967422464", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 52, "endIdx": 62}, {"text": "Argentina", "type": "CTRY", "startIdx": 94, "endIdx": 103}]}
+{"tweet_id": "797900521625354240", "location_mentions": []}
+{"tweet_id": "797992992888016896", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 90, "endIdx": 101}]}
+{"tweet_id": "797905928997568512", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 73, "endIdx": 83}, {"text": "Dunedin", "type": "CITY", "startIdx": 118, "endIdx": 125}]}
+{"tweet_id": "771431393066819584", "location_mentions": []}
+{"tweet_id": "797877401577353216", "location_mentions": []}
+{"tweet_id": "797987674313232384", "location_mentions": []}
+{"tweet_id": "798104978829279232", "location_mentions": [{"text": "Pakistan", "type": "CTRY", "startIdx": 14, "endIdx": 22}]}
+{"tweet_id": "797871921652039680", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 69, "endIdx": 80}]}
+{"tweet_id": "798250408166600704", "location_mentions": []}
+{"tweet_id": "797883105293938688", "location_mentions": []}
+{"tweet_id": "798694438381858817", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 34, "endIdx": 42}]}
+{"tweet_id": "797949108241788928", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 53, "endIdx": 63}]}
+{"tweet_id": "798054728974221312", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 33, "endIdx": 44}]}
+{"tweet_id": "771430733130768384", "location_mentions": []}
+{"tweet_id": "797893039846891520", "location_mentions": []}
+{"tweet_id": "797887504900714496", "location_mentions": []}
+{"tweet_id": "771555449048932353", "location_mentions": []}
+{"tweet_id": "771553421627265024", "location_mentions": []}
+{"tweet_id": "798814256657334273", "location_mentions": []}
+{"tweet_id": "797879245057835008", "location_mentions": []}
+{"tweet_id": "798054566373621760", "location_mentions": [{"text": "Brooklyn", "type": "CITY", "startIdx": 26, "endIdx": 34}]}
+{"tweet_id": "798356751091306496", "location_mentions": []}
+{"tweet_id": "771483978071060480", "location_mentions": [{"text": "Auckland", "type": "CITY", "startIdx": 59, "endIdx": 67}]}
+{"tweet_id": "799895945294946308", "location_mentions": []}
+{"tweet_id": "797825776821207040", "location_mentions": []}
+{"tweet_id": "797799025831354369", "location_mentions": []}
+{"tweet_id": "797954269928452096", "location_mentions": []}
+{"tweet_id": "797926314002919425", "location_mentions": []}
+{"tweet_id": "797923264886546432", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 41, "endIdx": 43}]}
+{"tweet_id": "797889246593830912", "location_mentions": []}
+{"tweet_id": "797801158093979648", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 43, "endIdx": 54}]}
+{"tweet_id": "798014949146566657", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 93, "endIdx": 104}]}
+{"tweet_id": "798019300573396992", "location_mentions": [{"text": "Auckland", "type": "CITY", "startIdx": 29, "endIdx": 37}]}
+{"tweet_id": "798760520794796032", "location_mentions": []}
+{"tweet_id": "798306967705919490", "location_mentions": []}
+{"tweet_id": "797885385779003392", "location_mentions": [{"text": "Canterbury", "type": "CITY", "startIdx": 47, "endIdx": 57}]}
+{"tweet_id": "798573340889780224", "location_mentions": []}
+{"tweet_id": "797791365518106627", "location_mentions": []}
+{"tweet_id": "797927406094823424", "location_mentions": [{"text": "Cambridge", "type": "CITY", "startIdx": 22, "endIdx": 31}]}
+{"tweet_id": "797959898868772865", "location_mentions": []}
+{"tweet_id": "798007960047742976", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 25, "endIdx": 36}]}
+{"tweet_id": "797908937664131072", "location_mentions": []}
+{"tweet_id": "797955418446147584", "location_mentions": []}
+{"tweet_id": "799936213817769984", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 66, "endIdx": 77}]}
+{"tweet_id": "798049526284107776", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 15, "endIdx": 25}]}
+{"tweet_id": "798045294545891328", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 80, "endIdx": 91}]}
+{"tweet_id": "798058590586093568", "location_mentions": []}
+{"tweet_id": "798067679709958145", "location_mentions": []}
+{"tweet_id": "797928327335919616", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 38, "endIdx": 48}]}
+{"tweet_id": "797827166545117184", "location_mentions": []}
+{"tweet_id": "797804377750671360", "location_mentions": []}
+{"tweet_id": "797791771124076544", "location_mentions": [{"text": "New Zealands", "type": "CTRY", "startIdx": 42, "endIdx": 54}]}
+{"tweet_id": "797810329417895936", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 70, "endIdx": 81}]}
+{"tweet_id": "797976254938890244", "location_mentions": []}
+{"tweet_id": "800166687198711808", "location_mentions": []}
+{"tweet_id": "797804518037520384", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 42, "endIdx": 53}]}
+{"tweet_id": "800827274379476993", "location_mentions": [{"text": "Japan", "type": "CTRY", "startIdx": 65, "endIdx": 70}, {"text": "New Zealand", "type": "CTRY", "startIdx": 93, "endIdx": 104}]}
+{"tweet_id": "771509610159058944", "location_mentions": [{"text": "North Island", "type": "ISL", "startIdx": 33, "endIdx": 45}]}
+{"tweet_id": "797844661092106242", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 63, "endIdx": 74}]}
+{"tweet_id": "797929061313974272", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 64, "endIdx": 74}]}
+{"tweet_id": "797993441535721472", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 44, "endIdx": 55}]}
+{"tweet_id": "798124876707942400", "location_mentions": []}
+{"tweet_id": "798060525888225281", "location_mentions": []}
+{"tweet_id": "798804752574230529", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 25, "endIdx": 35}]}
+{"tweet_id": "797863241640595457", "location_mentions": []}
+{"tweet_id": "797955694041272320", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 37, "endIdx": 48}]}
+{"tweet_id": "798019994210553856", "location_mentions": [{"text": "wellington", "type": "CITY", "startIdx": 88, "endIdx": 98}, {"text": "newzealand", "type": "CTRY", "startIdx": 112, "endIdx": 122}]}
+{"tweet_id": "797920129325535232", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 64, "endIdx": 75}]}
+{"tweet_id": "797910887839342596", "location_mentions": []}
+{"tweet_id": "797909658438496256", "location_mentions": []}
+{"tweet_id": "771460401544388608", "location_mentions": []}
+{"tweet_id": "797875551482449920", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 79, "endIdx": 81}]}
+{"tweet_id": "797926107559276545", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 85, "endIdx": 87}]}
+{"tweet_id": "798196630562476033", "location_mentions": []}
+{"tweet_id": "797936433361100800", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 89, "endIdx": 100}]}
+{"tweet_id": "798770941102673920", "location_mentions": []}
+{"tweet_id": "797792476924821504", "location_mentions": [{"text": "Auckland", "type": "CITY", "startIdx": 4, "endIdx": 12}, {"text": "NZ", "type": "CTRY", "startIdx": 130, "endIdx": 132}]}
+{"tweet_id": "797809970993504256", "location_mentions": []}
+{"tweet_id": "797815974397231104", "location_mentions": []}
+{"tweet_id": "797936663783555073", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 56, "endIdx": 58}]}
+{"tweet_id": "797975659867799552", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 53, "endIdx": 64}]}
+{"tweet_id": "797823987468222466", "location_mentions": []}
+{"tweet_id": "797966876101877760", "location_mentions": []}
+{"tweet_id": "797891595588628480", "location_mentions": [{"text": "Canterbury", "type": "CITY", "startIdx": 47, "endIdx": 57}]}
+{"tweet_id": "797835030538006528", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 83, "endIdx": 93}]}
+{"tweet_id": "771470803074297856", "location_mentions": []}
+{"tweet_id": "797901192449835008", "location_mentions": []}
+{"tweet_id": "797942305831272448", "location_mentions": []}
+{"tweet_id": "798032658248806400", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 127, "endIdx": 129}]}
+{"tweet_id": "771438776404942850", "location_mentions": []}
+{"tweet_id": "797901537318010881", "location_mentions": []}
+{"tweet_id": "797961623247826944", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 123, "endIdx": 125}]}
+{"tweet_id": "797881807077130240", "location_mentions": []}
+{"tweet_id": "798470211405889536", "location_mentions": []}
+{"tweet_id": "771430949120638976", "location_mentions": [{"text": "New Zealands", "type": "CTRY", "startIdx": 42, "endIdx": 54}]}
+{"tweet_id": "797911462505168896", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 15, "endIdx": 23}]}
+{"tweet_id": "797815287550615553", "location_mentions": []}
+{"tweet_id": "798029009246298112", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 1, "endIdx": 11}]}
+{"tweet_id": "797917349932253184", "location_mentions": []}
+{"tweet_id": "798672162374549505", "location_mentions": []}
+{"tweet_id": "797977310867517440", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 94, "endIdx": 104}]}
+{"tweet_id": "798080395233280000", "location_mentions": [{"text": "newzealand", "type": "CTRY", "startIdx": 11, "endIdx": 21}]}
+{"tweet_id": "771462732512055296", "location_mentions": []}
+{"tweet_id": "797909498941739008", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 72, "endIdx": 82}]}
+{"tweet_id": "797987772703219712", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 103, "endIdx": 105}]}
+{"tweet_id": "771469273285795842", "location_mentions": []}
+{"tweet_id": "771437561579315201", "location_mentions": []}
+{"tweet_id": "798064688646922240", "location_mentions": []}
+{"tweet_id": "800828925219737601", "location_mentions": [{"text": "Cuba", "type": "CTRY", "startIdx": 35, "endIdx": 39}, {"text": "Wellington", "type": "CITY", "startIdx": 60, "endIdx": 70}]}
+{"tweet_id": "797930271639076865", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 45, "endIdx": 56}]}
+{"tweet_id": "800606183723671552", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "797790626372677633", "location_mentions": []}
+{"tweet_id": "797981759342157824", "location_mentions": []}
+{"tweet_id": "797790615438143488", "location_mentions": []}
+{"tweet_id": "797958697519435776", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 118, "endIdx": 126}, {"text": "NewZealand", "type": "CTRY", "startIdx": 128, "endIdx": 138}]}
+{"tweet_id": "797961907223203840", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 31, "endIdx": 41}]}
+{"tweet_id": "798005887810043904", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 45, "endIdx": 53}, {"text": "NewZealand", "type": "CTRY", "startIdx": 85, "endIdx": 95}]}
+{"tweet_id": "771431179794853889", "location_mentions": []}
+{"tweet_id": "798098539205128192", "location_mentions": []}
+{"tweet_id": "800934491535642624", "location_mentions": []}
+{"tweet_id": "798026192699785216", "location_mentions": []}
+{"tweet_id": "797865201357860864", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 60, "endIdx": 68}]}
+{"tweet_id": "797866781188599808", "location_mentions": []}
+{"tweet_id": "797962611966889984", "location_mentions": [{"text": "Marlborough", "type": "CITY", "startIdx": 97, "endIdx": 108}]}
+{"tweet_id": "800841969953959936", "location_mentions": [{"text": "Japan", "type": "CTRY", "startIdx": 48, "endIdx": 53}]}
+{"tweet_id": "798651368219123713", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 31, "endIdx": 39}]}
+{"tweet_id": "798019084663201792", "location_mentions": []}
+{"tweet_id": "771433305497407489", "location_mentions": []}
+{"tweet_id": "771474990650634240", "location_mentions": [{"text": "Gisbourne", "type": "CITY", "startIdx": 66, "endIdx": 75}]}
+{"tweet_id": "797879008742363137", "location_mentions": []}
+{"tweet_id": "797977402223669248", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 119, "endIdx": 130}]}
+{"tweet_id": "798013008005898240", "location_mentions": []}
+{"tweet_id": "797961803858776064", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 34, "endIdx": 36}]}
+{"tweet_id": "798050457490862080", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 14, "endIdx": 24}]}
+{"tweet_id": "798768384309481474", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 55, "endIdx": 65}]}
+{"tweet_id": "771512346032373760", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 62, "endIdx": 72}, {"text": "New Zealand", "type": "CTRY", "startIdx": 74, "endIdx": 85}]}
+{"tweet_id": "798359096957095936", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 9, "endIdx": 20}, {"text": "newzealand", "type": "CTRY", "startIdx": 101, "endIdx": 111}]}
+{"tweet_id": "800816948317556736", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 30, "endIdx": 41}, {"text": "Fukushima", "type": "CITY", "startIdx": 95, "endIdx": 104}, {"text": "Japan", "type": "CTRY", "startIdx": 106, "endIdx": 111}]}
+{"tweet_id": "797931052945666048", "location_mentions": []}
+{"tweet_id": "798006668210610176", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 108, "endIdx": 110}]}
+{"tweet_id": "797941844160090113", "location_mentions": []}
+{"tweet_id": "798732456119582720", "location_mentions": [{"text": "Arrowtown", "type": "CITY", "startIdx": 15, "endIdx": 24}, {"text": "NZ", "type": "CTRY", "startIdx": 41, "endIdx": 43}]}
+{"tweet_id": "797852453228015617", "location_mentions": []}
+{"tweet_id": "771438613510758400", "location_mentions": [{"text": "AUCKLAND", "type": "STAT", "startIdx": 75, "endIdx": 83}]}
+{"tweet_id": "797862923557163008", "location_mentions": []}
+{"tweet_id": "798003931045474304", "location_mentions": []}
+{"tweet_id": "800817299166900224", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 30, "endIdx": 41}, {"text": "Japan", "type": "CTRY", "startIdx": 69, "endIdx": 74}]}
+{"tweet_id": "797867240540381188", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 86, "endIdx": 97}]}
+{"tweet_id": "797868703685541888", "location_mentions": []}
+{"tweet_id": "798052551954493440", "location_mentions": []}
+{"tweet_id": "797814539622301696", "location_mentions": []}
+{"tweet_id": "797866143411118081", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 23, "endIdx": 34}]}
+{"tweet_id": "797852228849582081", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 76, "endIdx": 78}]}
+{"tweet_id": "797931329580978176", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 83, "endIdx": 85}]}
+{"tweet_id": "797878514053574660", "location_mentions": [{"text": "Auckland", "type": "CITY", "startIdx": 42, "endIdx": 50}]}
+{"tweet_id": "798064232822489088", "location_mentions": []}
+{"tweet_id": "797870939786579968", "location_mentions": []}
+{"tweet_id": "797908121377128449", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 53, "endIdx": 63}]}
+{"tweet_id": "798269350977236993", "location_mentions": []}
+{"tweet_id": "797989754608287744", "location_mentions": []}
+{"tweet_id": "797934935340257280", "location_mentions": []}
+{"tweet_id": "797817547684884480", "location_mentions": []}
+{"tweet_id": "797852147048058880", "location_mentions": [{"text": "newzealand", "type": "CTRY", "startIdx": 100, "endIdx": 110}]}
+{"tweet_id": "797805459994394624", "location_mentions": []}
+{"tweet_id": "798000404797587456", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 30, "endIdx": 41}]}
+{"tweet_id": "797924511165231104", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 25, "endIdx": 33}]}
+{"tweet_id": "798686976845094912", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 105, "endIdx": 115}]}
+{"tweet_id": "798075752151252992", "location_mentions": []}
+{"tweet_id": "771536796140253185", "location_mentions": []}
+{"tweet_id": "797974333603749888", "location_mentions": []}
+{"tweet_id": "771541185223471104", "location_mentions": []}
+{"tweet_id": "797938893458784256", "location_mentions": []}
+{"tweet_id": "800210847804977152", "location_mentions": []}
+{"tweet_id": "797793141285863424", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 40, "endIdx": 51}]}
+{"tweet_id": "798067578648162304", "location_mentions": []}
+{"tweet_id": "797865314796990464", "location_mentions": []}
+{"tweet_id": "798776518918828032", "location_mentions": []}
+{"tweet_id": "797810566848856064", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 104, "endIdx": 115}]}
+{"tweet_id": "800166860423467008", "location_mentions": []}
+{"tweet_id": "771547498431205376", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 66, "endIdx": 68}]}
+{"tweet_id": "797791416302780418", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 9, "endIdx": 19}]}
+{"tweet_id": "797807549164593152", "location_mentions": []}
+{"tweet_id": "797920867124527104", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 61, "endIdx": 63}]}
+{"tweet_id": "797894467248209920", "location_mentions": []}
+{"tweet_id": "797875677080866816", "location_mentions": []}
+{"tweet_id": "797905994558750720", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 44, "endIdx": 55}]}
+{"tweet_id": "798010435605647360", "location_mentions": []}
+{"tweet_id": "800426413035655169", "location_mentions": []}
+{"tweet_id": "797827254893981697", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "797860868247564288", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 64, "endIdx": 74}]}
+{"tweet_id": "798022058344992768", "location_mentions": []}
+{"tweet_id": "797801872207671296", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 24, "endIdx": 35}]}
+{"tweet_id": "798335881614503936", "location_mentions": []}
+{"tweet_id": "797934007908528129", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 13, "endIdx": 23}]}
+{"tweet_id": "797858928738508800", "location_mentions": []}
+{"tweet_id": "798054032661020672", "location_mentions": []}
+{"tweet_id": "797878165683060736", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 30, "endIdx": 41}]}
+{"tweet_id": "798149644672827392", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 76, "endIdx": 87}]}
+{"tweet_id": "798401308344598528", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 113, "endIdx": 123}]}
+{"tweet_id": "798063991280967680", "location_mentions": []}
+{"tweet_id": "797799294304518144", "location_mentions": []}
+{"tweet_id": "798007821933514752", "location_mentions": [{"text": "newzealand", "type": "CTRY", "startIdx": 59, "endIdx": 69}]}
+{"tweet_id": "771457943426338816", "location_mentions": [{"text": "Auckland", "type": "CITY", "startIdx": 58, "endIdx": 66}]}
+{"tweet_id": "798435338116923392", "location_mentions": []}
+{"tweet_id": "797905390172180480", "location_mentions": []}
+{"tweet_id": "797896763776479232", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 117, "endIdx": 119}]}
+{"tweet_id": "797822595034796032", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 42, "endIdx": 52}]}
+{"tweet_id": "797949969776799744", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 63, "endIdx": 73}]}
+{"tweet_id": "797977587532210176", "location_mentions": [{"text": "newzealand", "type": "CTRY", "startIdx": 49, "endIdx": 59}]}
+{"tweet_id": "797857782074486784", "location_mentions": []}
+{"tweet_id": "797906659922374657", "location_mentions": []}
+{"tweet_id": "797908995935588352", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 60, "endIdx": 62}]}
+{"tweet_id": "797921823077732352", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 46, "endIdx": 57}]}
+{"tweet_id": "797929940310032384", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 80, "endIdx": 82}]}
+{"tweet_id": "797847337578078208", "location_mentions": []}
+{"tweet_id": "798420221732200450", "location_mentions": []}
+{"tweet_id": "797855178061844484", "location_mentions": []}
+{"tweet_id": "797801869892386816", "location_mentions": []}
+{"tweet_id": "797827653147324416", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 42, "endIdx": 52}, {"text": "New Zealand", "type": "CTRY", "startIdx": 105, "endIdx": 116}]}
+{"tweet_id": "797933252384198656", "location_mentions": []}
+{"tweet_id": "798035348504788994", "location_mentions": [{"text": "kaikoura", "type": "CITY", "startIdx": 98, "endIdx": 106}]}
+{"tweet_id": "797888813875896321", "location_mentions": []}
+{"tweet_id": "797789767794495489", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 128, "endIdx": 130}]}
+{"tweet_id": "797812591116460032", "location_mentions": []}
+{"tweet_id": "797790020383870978", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 45, "endIdx": 53}]}
+{"tweet_id": "798400758081318912", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 37, "endIdx": 45}]}
+{"tweet_id": "797881861468930048", "location_mentions": []}
+{"tweet_id": "798004295429865473", "location_mentions": []}
+{"tweet_id": "797849184091205632", "location_mentions": []}
+{"tweet_id": "798315763006246912", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 50, "endIdx": 60}]}
+{"tweet_id": "798020477222408192", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 60, "endIdx": 70}]}
+{"tweet_id": "797860904255692800", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 68, "endIdx": 79}]}
+{"tweet_id": "797862291286822912", "location_mentions": []}
+{"tweet_id": "798092680953667584", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 92, "endIdx": 94}]}
+{"tweet_id": "798819987536261120", "location_mentions": []}
+{"tweet_id": "797956162817757186", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 62, "endIdx": 73}, {"text": "NewZealand", "type": "CTRY", "startIdx": 125, "endIdx": 135}]}
+{"tweet_id": "797838542961418240", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 88, "endIdx": 90}]}
+{"tweet_id": "797935574652813312", "location_mentions": []}
+{"tweet_id": "797959749224439808", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 77, "endIdx": 79}]}
+{"tweet_id": "797899392455847937", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 19, "endIdx": 21}]}
+{"tweet_id": "797881895539208192", "location_mentions": []}
+{"tweet_id": "797826070653202432", "location_mentions": []}
+{"tweet_id": "797912564105551872", "location_mentions": []}
+{"tweet_id": "797812518496313344", "location_mentions": [{"text": "Christchurch", "type": "CITY", "startIdx": 27, "endIdx": 39}]}
+{"tweet_id": "797916067851096064", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 79, "endIdx": 90}]}
+{"tweet_id": "798255594129850368", "location_mentions": []}
+{"tweet_id": "800905394583322625", "location_mentions": [{"text": "Japan", "type": "CTRY", "startIdx": 23, "endIdx": 28}, {"text": "New Zealand", "type": "CTRY", "startIdx": 48, "endIdx": 59}]}
+{"tweet_id": "798412371379318784", "location_mentions": []}
+{"tweet_id": "798228613942296576", "location_mentions": []}
+{"tweet_id": "797858083946930178", "location_mentions": []}
+{"tweet_id": "797942896821293056", "location_mentions": []}
+{"tweet_id": "798237924198215680", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 11, "endIdx": 13}]}
+{"tweet_id": "797806273915801600", "location_mentions": []}
+{"tweet_id": "797878243525201920", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 79, "endIdx": 89}]}
+{"tweet_id": "797802946599657473", "location_mentions": [{"text": "Russia", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "797992614997807104", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 19, "endIdx": 21}]}
+{"tweet_id": "797974261344268294", "location_mentions": []}
+{"tweet_id": "797904992640368640", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 40, "endIdx": 51}]}
+{"tweet_id": "798043222081572866", "location_mentions": []}
+{"tweet_id": "797854495875198977", "location_mentions": []}
+{"tweet_id": "797813100787290113", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 47, "endIdx": 58}]}
+{"tweet_id": "797937290567815168", "location_mentions": []}
+{"tweet_id": "797813427171270656", "location_mentions": []}
+{"tweet_id": "797865418849255424", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 32, "endIdx": 43}]}
+{"tweet_id": "797985320931184640", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 26, "endIdx": 36}]}
+{"tweet_id": "797889923751624704", "location_mentions": []}
+{"tweet_id": "797881683420688384", "location_mentions": []}
+{"tweet_id": "797809894317584385", "location_mentions": []}
+{"tweet_id": "800260126720421889", "location_mentions": []}
+{"tweet_id": "797906355671576576", "location_mentions": []}
+{"tweet_id": "797865602928914432", "location_mentions": []}
+{"tweet_id": "797930479634628609", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 36, "endIdx": 38}, {"text": "Wellington", "type": "CITY", "startIdx": 101, "endIdx": 111}]}
+{"tweet_id": "797869382307168256", "location_mentions": []}
+{"tweet_id": "797821001442607104", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 52, "endIdx": 63}]}
+{"tweet_id": "798436529878147076", "location_mentions": []}
+{"tweet_id": "797858489376731136", "location_mentions": []}
+{"tweet_id": "797948134118735872", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 70, "endIdx": 81}, {"text": "NZ", "type": "CTRY", "startIdx": 99, "endIdx": 101}]}
+{"tweet_id": "797991723183919104", "location_mentions": []}
+{"tweet_id": "797961282414473217", "location_mentions": []}
+{"tweet_id": "797875167170940928", "location_mentions": []}
+{"tweet_id": "771504878896058369", "location_mentions": []}
+{"tweet_id": "797842071461580800", "location_mentions": [{"text": "Auckland", "type": "CITY", "startIdx": 3, "endIdx": 11}]}
+{"tweet_id": "798004423704223744", "location_mentions": []}
+{"tweet_id": "797906229989232640", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 53, "endIdx": 63}]}
+{"tweet_id": "771443710571614208", "location_mentions": []}
+{"tweet_id": "797941376822296577", "location_mentions": [{"text": "Christchurch", "type": "CITY", "startIdx": 20, "endIdx": 32}, {"text": "Wellington", "type": "CITY", "startIdx": 34, "endIdx": 44}]}
+{"tweet_id": "797966755951845376", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 0, "endIdx": 11}]}
+{"tweet_id": "797803146563063808", "location_mentions": []}
+{"tweet_id": "800566638013648897", "location_mentions": []}
+{"tweet_id": "797934106906624000", "location_mentions": []}
+{"tweet_id": "797813121930772490", "location_mentions": []}
+{"tweet_id": "797945175972593664", "location_mentions": []}
+{"tweet_id": "797998844457779201", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 17, "endIdx": 27}]}
+{"tweet_id": "797966079498719232", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 29, "endIdx": 31}]}
+{"tweet_id": "797804470176362496", "location_mentions": []}
+{"tweet_id": "797892588174876672", "location_mentions": []}
+{"tweet_id": "797928795873288192", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 39, "endIdx": 49}]}
+{"tweet_id": "798029859452657664", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 69, "endIdx": 80}]}
+{"tweet_id": "797968029803888641", "location_mentions": []}
+{"tweet_id": "797849126863925251", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 26, "endIdx": 34}]}
+{"tweet_id": "797921625505021952", "location_mentions": []}
+{"tweet_id": "797981059077943297", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 34, "endIdx": 45}]}
+{"tweet_id": "797948469600129024", "location_mentions": [{"text": "Brighton", "type": "CITY", "startIdx": 108, "endIdx": 116}]}
+{"tweet_id": "800829684921446400", "location_mentions": []}
+{"tweet_id": "797961178819403776", "location_mentions": []}
+{"tweet_id": "797970359865618432", "location_mentions": []}
+{"tweet_id": "797961505673072641", "location_mentions": []}
+{"tweet_id": "797878651790311424", "location_mentions": [{"text": "New Zealands", "type": "CTRY", "startIdx": 66, "endIdx": 78}]}
+{"tweet_id": "797933514427510784", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 62, "endIdx": 64}]}
+{"tweet_id": "797855567930793984", "location_mentions": []}
+{"tweet_id": "799892781430808580", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 94, "endIdx": 104}]}
+{"tweet_id": "797935767314042880", "location_mentions": []}
+{"tweet_id": "771533167517835264", "location_mentions": []}
+{"tweet_id": "797839016863277056", "location_mentions": [{"text": "wellington", "type": "CITY", "startIdx": 111, "endIdx": 121}]}
+{"tweet_id": "771442946008764416", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 54, "endIdx": 65}]}
+{"tweet_id": "771471858218655744", "location_mentions": []}
+{"tweet_id": "800598552422612992", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 99, "endIdx": 107}, {"text": "NewZealand", "type": "CTRY", "startIdx": 109, "endIdx": 119}]}
+{"tweet_id": "798293625503240192", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 20, "endIdx": 30}]}
+{"tweet_id": "797934034206629890", "location_mentions": [{"text": "Mahakipawa", "type": "CITY", "startIdx": 98, "endIdx": 108}]}
+{"tweet_id": "771557761188364288", "location_mentions": []}
+{"tweet_id": "797945406344699904", "location_mentions": []}
+{"tweet_id": "798360437574119424", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 34, "endIdx": 36}]}
+{"tweet_id": "797919015150592002", "location_mentions": []}
+{"tweet_id": "798341043234058240", "location_mentions": []}
+{"tweet_id": "771482902609657856", "location_mentions": [{"text": "UK", "type": "CTRY", "startIdx": 0, "endIdx": 2}]}
+{"tweet_id": "798145494266458113", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 90, "endIdx": 98}]}
+{"tweet_id": "797873214495932416", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 15, "endIdx": 23}]}
+{"tweet_id": "797964828878901249", "location_mentions": []}
+{"tweet_id": "797789794898092032", "location_mentions": [{"text": "New Zealands", "type": "CTRY", "startIdx": 41, "endIdx": 53}]}
+{"tweet_id": "798064745169334272", "location_mentions": []}
+{"tweet_id": "797948090858602496", "location_mentions": []}
+{"tweet_id": "797905553376899072", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 91, "endIdx": 93}, {"text": "NewZealand", "type": "CTRY", "startIdx": 96, "endIdx": 106}]}
+{"tweet_id": "797849133843353600", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 24, "endIdx": 35}]}
+{"tweet_id": "797851386150912000", "location_mentions": []}
+{"tweet_id": "771532003141300225", "location_mentions": []}
+{"tweet_id": "797961812926820352", "location_mentions": []}
+{"tweet_id": "797992913657442304", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 114, "endIdx": 125}]}
+{"tweet_id": "798057636872626177", "location_mentions": [{"text": "Melbourne", "type": "CITY", "startIdx": 55, "endIdx": 64}]}
+{"tweet_id": "797978939960348672", "location_mentions": []}
+{"tweet_id": "797916808426582017", "location_mentions": []}
+{"tweet_id": "797914852870098944", "location_mentions": []}
+{"tweet_id": "797793214660943873", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 75, "endIdx": 85}]}
+{"tweet_id": "798058383450353664", "location_mentions": []}
+{"tweet_id": "797844756478902272", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 38, "endIdx": 48}]}
+{"tweet_id": "798019846810189830", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 15, "endIdx": 25}]}
+{"tweet_id": "798686572480581632", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 27, "endIdx": 37}]}
+{"tweet_id": "797806234871025665", "location_mentions": [{"text": "Kaikoura/Blenheim", "type": "CITY", "startIdx": 28, "endIdx": 45}]}
+{"tweet_id": "798717802802593793", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 33, "endIdx": 43}]}
+{"tweet_id": "797814394184941569", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 59, "endIdx": 70}]}
+{"tweet_id": "797933450997075968", "location_mentions": []}
+{"tweet_id": "798029099709046784", "location_mentions": []}
+{"tweet_id": "797908093120221188", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 120, "endIdx": 130}]}
+{"tweet_id": "797933251968974848", "location_mentions": [{"text": "Malaysia", "type": "CTRY", "startIdx": 90, "endIdx": 98}]}
+{"tweet_id": "771519190331035648", "location_mentions": [{"text": "Gisborne", "type": "CITY", "startIdx": 41, "endIdx": 49}]}
+{"tweet_id": "798306376137093122", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 95, "endIdx": 105}]}
+{"tweet_id": "797878439042633728", "location_mentions": []}
+{"tweet_id": "797849467344949248", "location_mentions": []}
+{"tweet_id": "797896772869701633", "location_mentions": []}
+{"tweet_id": "797801496494542848", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 21, "endIdx": 32}]}
+{"tweet_id": "798753278288760832", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 13, "endIdx": 23}, {"text": "NewZealand", "type": "CTRY", "startIdx": 55, "endIdx": 65}]}
+{"tweet_id": "798382297472856065", "location_mentions": []}
+{"tweet_id": "798101983743741952", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 62, "endIdx": 73}]}
+{"tweet_id": "797963548093595648", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 95, "endIdx": 106}]}
+{"tweet_id": "797884861092544513", "location_mentions": []}
+{"tweet_id": "797889858383417345", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 123, "endIdx": 133}]}
+{"tweet_id": "800875496401551360", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 106, "endIdx": 117}]}
+{"tweet_id": "797857522426081280", "location_mentions": [{"text": "Hamilton", "type": "CITY", "startIdx": 75, "endIdx": 83}]}
+{"tweet_id": "797858391875928064", "location_mentions": []}
+{"tweet_id": "797802166748610560", "location_mentions": [{"text": "Pakistan", "type": "CTRY", "startIdx": 37, "endIdx": 45}, {"text": "New Zealand", "type": "CTRY", "startIdx": 120, "endIdx": 131}]}
+{"tweet_id": "797808407759593472", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 124, "endIdx": 134}]}
+{"tweet_id": "797971883601719296", "location_mentions": []}
+{"tweet_id": "798817681642164224", "location_mentions": []}
+{"tweet_id": "797819522254147585", "location_mentions": []}
+{"tweet_id": "797933191663263745", "location_mentions": []}
+{"tweet_id": "800859691517497344", "location_mentions": [{"text": "New Zealands", "type": "CTRY", "startIdx": 57, "endIdx": 69}, {"text": "Kaikoura", "type": "CITY", "startIdx": 90, "endIdx": 98}]}
+{"tweet_id": "797882068524929025", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 17, "endIdx": 19}]}
+{"tweet_id": "797861899840827392", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 55, "endIdx": 66}]}
+{"tweet_id": "797870282325168128", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 63, "endIdx": 74}]}
+{"tweet_id": "800094350478708736", "location_mentions": []}
+{"tweet_id": "797833076680192000", "location_mentions": []}
+{"tweet_id": "798493526141128704", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 67, "endIdx": 78}]}
+{"tweet_id": "797882697821491200", "location_mentions": []}
+{"tweet_id": "797907909841559552", "location_mentions": []}
+{"tweet_id": "797893300334145537", "location_mentions": []}
+{"tweet_id": "797804499674898432", "location_mentions": [{"text": "newzealand", "type": "CTRY", "startIdx": 103, "endIdx": 113}]}
+{"tweet_id": "797929547123437568", "location_mentions": []}
+{"tweet_id": "798281429696155648", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 20, "endIdx": 30}, {"text": "NZ", "type": "CTRY", "startIdx": 67, "endIdx": 69}]}
+{"tweet_id": "797841232999411712", "location_mentions": [{"text": "Queenstown", "type": "CITY", "startIdx": 1, "endIdx": 11}, {"text": "Wellington", "type": "CITY", "startIdx": 71, "endIdx": 81}, {"text": "Kaikoura", "type": "CITY", "startIdx": 106, "endIdx": 114}, {"text": "NewZealand", "type": "CTRY", "startIdx": 116, "endIdx": 126}]}
+{"tweet_id": "797890332960530433", "location_mentions": []}
+{"tweet_id": "798015403498684416", "location_mentions": []}
+{"tweet_id": "798050581386379264", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 111, "endIdx": 113}]}
+{"tweet_id": "797961317977948160", "location_mentions": []}
+{"tweet_id": "797996137579806722", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 7, "endIdx": 9}, {"text": "Auckland", "type": "CITY", "startIdx": 95, "endIdx": 103}, {"text": "NewZealand", "type": "CTRY", "startIdx": 119, "endIdx": 129}]}
+{"tweet_id": "800076204342579200", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 0, "endIdx": 2}]}
+{"tweet_id": "798016811333611520", "location_mentions": [{"text": "newzealand", "type": "CTRY", "startIdx": 21, "endIdx": 31}]}
+{"tweet_id": "800394597872472064", "location_mentions": []}
+{"tweet_id": "797846760160772096", "location_mentions": []}
+{"tweet_id": "798261058729218048", "location_mentions": []}
+{"tweet_id": "798016604986408960", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 77, "endIdx": 85}]}
+{"tweet_id": "798005055085367297", "location_mentions": []}
+{"tweet_id": "798002023702482944", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 54, "endIdx": 56}, {"text": "Otago", "type": "CITY", "startIdx": 118, "endIdx": 123}]}
+{"tweet_id": "797855090933637120", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 42, "endIdx": 53}]}
+{"tweet_id": "799892804713316352", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 77, "endIdx": 87}]}
+{"tweet_id": "771529690796273666", "location_mentions": []}
+{"tweet_id": "797977273940856832", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 92, "endIdx": 102}]}
+{"tweet_id": "800789891193835520", "location_mentions": []}
+{"tweet_id": "797814959463743490", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 11, "endIdx": 13}]}
+{"tweet_id": "798055297218674688", "location_mentions": []}
+{"tweet_id": "797793077813313537", "location_mentions": []}
+{"tweet_id": "797913999723532288", "location_mentions": [{"text": "Canterbury", "type": "CITY", "startIdx": 37, "endIdx": 47}]}
+{"tweet_id": "797974692103495680", "location_mentions": []}
+{"tweet_id": "800209016504754176", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 24, "endIdx": 32}, {"text": "New Zealand", "type": "CTRY", "startIdx": 62, "endIdx": 73}]}
+{"tweet_id": "798260079963189248", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 39, "endIdx": 41}, {"text": "NewZealand", "type": "CTRY", "startIdx": 80, "endIdx": 90}]}
+{"tweet_id": "800441635205246976", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 13, "endIdx": 23}]}
+{"tweet_id": "797817885838061568", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 85, "endIdx": 95}]}
+{"tweet_id": "798251493740552192", "location_mentions": []}
+{"tweet_id": "797848074441867265", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 39, "endIdx": 49}]}
+{"tweet_id": "798014650231046144", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 45, "endIdx": 56}]}
+{"tweet_id": "798262465234542592", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 15, "endIdx": 26}]}
+{"tweet_id": "798021801540321280", "location_mentions": []}
+{"tweet_id": "797817101545156609", "location_mentions": [{"text": "Australia", "type": "CTRY", "startIdx": 74, "endIdx": 83}]}
+{"tweet_id": "798026638868873216", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 59, "endIdx": 67}, {"text": "Culverden", "type": "CITY", "startIdx": 132, "endIdx": 141}]}
+{"tweet_id": "798384204396380160", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 93, "endIdx": 103}]}
+{"tweet_id": "797837263807737858", "location_mentions": []}
+{"tweet_id": "771533558481506305", "location_mentions": []}
+{"tweet_id": "798426278986706944", "location_mentions": []}
+{"tweet_id": "798102208289980416", "location_mentions": []}
+{"tweet_id": "771525541274882048", "location_mentions": []}
+{"tweet_id": "798033098080325632", "location_mentions": []}
+{"tweet_id": "797869952485072896", "location_mentions": []}
+{"tweet_id": "797858867455475712", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 0, "endIdx": 11}]}
+{"tweet_id": "771588349807038464", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 95, "endIdx": 106}]}
+{"tweet_id": "797838606387781632", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 22, "endIdx": 33}]}
+{"tweet_id": "771436270161494016", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 21, "endIdx": 32}, {"text": "America", "type": "CONT", "startIdx": 77, "endIdx": 84}]}
+{"tweet_id": "797789940255817729", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 24, "endIdx": 26}, {"text": "Canterbury", "type": "CITY", "startIdx": 54, "endIdx": 64}]}
+{"tweet_id": "798097776647106561", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 75, "endIdx": 86}]}
+{"tweet_id": "798761519219474432", "location_mentions": []}
+{"tweet_id": "797943925746995200", "location_mentions": []}
+{"tweet_id": "798089142324248576", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 47, "endIdx": 58}, {"text": "NZ", "type": "CTRY", "startIdx": 126, "endIdx": 128}]}
+{"tweet_id": "797893922747871232", "location_mentions": [{"text": "Auckland", "type": "CITY", "startIdx": 5, "endIdx": 13}]}
+{"tweet_id": "797840763325296640", "location_mentions": []}
+{"tweet_id": "798645512907919361", "location_mentions": []}
+{"tweet_id": "797871542856126465", "location_mentions": []}
+{"tweet_id": "771531104423555072", "location_mentions": []}
+{"tweet_id": "798047522014908416", "location_mentions": [{"text": "Argentina", "type": "CTRY", "startIdx": 94, "endIdx": 103}, {"text": "NewZealand", "type": "CTRY", "startIdx": 111, "endIdx": 121}]}
+{"tweet_id": "797875584575619072", "location_mentions": []}
+{"tweet_id": "797863694927441922", "location_mentions": []}
+{"tweet_id": "797879475048304640", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 90, "endIdx": 100}]}
+{"tweet_id": "798391446537719809", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 29, "endIdx": 39}]}
+{"tweet_id": "797999676234420225", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 57, "endIdx": 67}]}
+{"tweet_id": "797900723375611904", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 105, "endIdx": 116}]}
+{"tweet_id": "797791195611041792", "location_mentions": []}
+{"tweet_id": "797874508564602880", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 45, "endIdx": 47}]}
+{"tweet_id": "798085945849356288", "location_mentions": []}
+{"tweet_id": "798629728118657024", "location_mentions": []}
+{"tweet_id": "798155843426365440", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 0, "endIdx": 11}]}
+{"tweet_id": "798341793381105664", "location_mentions": []}
+{"tweet_id": "797915415351476228", "location_mentions": [{"text": "Canterbury-", "type": "CITY", "startIdx": 19, "endIdx": 30}, {"text": "Kaikoura", "type": "CITY", "startIdx": 55, "endIdx": 63}]}
+{"tweet_id": "771490632904781824", "location_mentions": [{"text": "gisborne", "type": "CITY", "startIdx": 25, "endIdx": 33}]}
+{"tweet_id": "798063791808184321", "location_mentions": []}
+{"tweet_id": "771453791992438788", "location_mentions": []}
+{"tweet_id": "797863673351925761", "location_mentions": []}
+{"tweet_id": "797823187576729601", "location_mentions": [{"text": "Auckland", "type": "CITY", "startIdx": 21, "endIdx": 29}]}
+{"tweet_id": "771429245083975680", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 62, "endIdx": 64}]}
+{"tweet_id": "771430676910317568", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 57, "endIdx": 67}, {"text": "New Zealand", "type": "CTRY", "startIdx": 100, "endIdx": 111}]}
+{"tweet_id": "797966095126654979", "location_mentions": []}
+{"tweet_id": "797896931309539328", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 44, "endIdx": 46}, {"text": "New Zealand", "type": "CTRY", "startIdx": 111, "endIdx": 122}]}
+{"tweet_id": "797855862152802305", "location_mentions": []}
+{"tweet_id": "800832569986072577", "location_mentions": [{"text": "Japan", "type": "CTRY", "startIdx": 50, "endIdx": 55}, {"text": "New Zealand", "type": "CTRY", "startIdx": 94, "endIdx": 105}]}
+{"tweet_id": "798091478790643712", "location_mentions": []}
+{"tweet_id": "797959293664370688", "location_mentions": []}
+{"tweet_id": "797801062623105024", "location_mentions": []}
+{"tweet_id": "797984080495116288", "location_mentions": []}
+{"tweet_id": "797936703059046402", "location_mentions": []}
+{"tweet_id": "797808988695842816", "location_mentions": [{"text": "Maungaraki", "type": "CITY", "startIdx": 29, "endIdx": 39}]}
+{"tweet_id": "771469811570270209", "location_mentions": [{"text": "Adelaide", "type": "CITY", "startIdx": 69, "endIdx": 77}]}
+{"tweet_id": "797980800830476288", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 14, "endIdx": 25}, {"text": "NewZealand", "type": "CTRY", "startIdx": 121, "endIdx": 131}]}
+{"tweet_id": "797877913194405888", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 79, "endIdx": 89}]}
+{"tweet_id": "797961568482795520", "location_mentions": []}
+{"tweet_id": "797805131538395137", "location_mentions": []}
+{"tweet_id": "797831020305203201", "location_mentions": []}
+{"tweet_id": "798079714501869568", "location_mentions": []}
+{"tweet_id": "797991843208101888", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 26, "endIdx": 36}]}
+{"tweet_id": "798048467469770753", "location_mentions": []}
+{"tweet_id": "798023003573358592", "location_mentions": []}
+{"tweet_id": "797896808764559360", "location_mentions": [{"text": "newzealand", "type": "CTRY", "startIdx": 123, "endIdx": 133}]}
+{"tweet_id": "771537174034468864", "location_mentions": [{"text": "Haiti", "type": "CTRY", "startIdx": 63, "endIdx": 68}]}
+{"tweet_id": "797879086689333248", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 60, "endIdx": 71}]}
+{"tweet_id": "797981982256791552", "location_mentions": []}
+{"tweet_id": "797870528312713216", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 59, "endIdx": 67}]}
+{"tweet_id": "798004892820377600", "location_mentions": [{"text": "USA", "type": "CTRY", "startIdx": 20, "endIdx": 23}]}
+{"tweet_id": "798060559161622529", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 129, "endIdx": 139}]}
+{"tweet_id": "798214992101183488", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 105, "endIdx": 115}]}
+{"tweet_id": "797984492711329792", "location_mentions": []}
+{"tweet_id": "797857567418396672", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 59, "endIdx": 70}]}
+{"tweet_id": "797803987537981441", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 56, "endIdx": 64}]}
+{"tweet_id": "800433556279291904", "location_mentions": []}
+{"tweet_id": "797846122102296578", "location_mentions": []}
+{"tweet_id": "797965019249946625", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 127, "endIdx": 129}]}
+{"tweet_id": "797794863206973442", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 0, "endIdx": 11}]}
+{"tweet_id": "797878236218675200", "location_mentions": []}
+{"tweet_id": "798340246857334784", "location_mentions": []}
+{"tweet_id": "797972268001337344", "location_mentions": []}
+{"tweet_id": "798782349932523521", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 87, "endIdx": 95}]}
+{"tweet_id": "798415588242681856", "location_mentions": []}
+{"tweet_id": "797910321176330240", "location_mentions": []}
+{"tweet_id": "797820935785115648", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 46, "endIdx": 57}]}
+{"tweet_id": "797799017333690368", "location_mentions": []}
+{"tweet_id": "797851207494672385", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 67, "endIdx": 78}]}
+{"tweet_id": "797856038397480960", "location_mentions": []}
+{"tweet_id": "797873458990354432", "location_mentions": []}
+{"tweet_id": "797803194264862720", "location_mentions": []}
+{"tweet_id": "797798404533329920", "location_mentions": [{"text": "Kaikoira", "type": "CITY", "startIdx": 13, "endIdx": 21}]}
+{"tweet_id": "797798459763990528", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 94, "endIdx": 105}]}
+{"tweet_id": "797791731982815233", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 61, "endIdx": 71}]}
+{"tweet_id": "798096793644990464", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 74, "endIdx": 84}, {"text": "Kaikoura", "type": "CITY", "startIdx": 92, "endIdx": 100}, {"text": "Wellington", "type": "CITY", "startIdx": 102, "endIdx": 112}]}
+{"tweet_id": "797793100294852612", "location_mentions": []}
+{"tweet_id": "797804396767682560", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 45, "endIdx": 47}]}
+{"tweet_id": "798434862830993408", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 115, "endIdx": 125}]}
+{"tweet_id": "797950028161564672", "location_mentions": []}
+{"tweet_id": "798014926774091776", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 42, "endIdx": 50}]}
+{"tweet_id": "797988591443972097", "location_mentions": []}
+{"tweet_id": "797793160478887937", "location_mentions": []}
+{"tweet_id": "797859589244846081", "location_mentions": []}
+{"tweet_id": "798088467876085761", "location_mentions": []}
+{"tweet_id": "798929817878073345", "location_mentions": []}
+{"tweet_id": "798088744129662976", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 26, "endIdx": 28}, {"text": "Kaikoura", "type": "CITY", "startIdx": 69, "endIdx": 77}]}
+{"tweet_id": "797857346718306305", "location_mentions": []}
+{"tweet_id": "797963266437902340", "location_mentions": []}
+{"tweet_id": "800420927490002944", "location_mentions": []}
+{"tweet_id": "797807921601998853", "location_mentions": []}
+{"tweet_id": "797972849981984768", "location_mentions": []}
+{"tweet_id": "797869600994050049", "location_mentions": []}
+{"tweet_id": "771447308844015616", "location_mentions": []}
+{"tweet_id": "797912669906870272", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 0, "endIdx": 11}]}
+{"tweet_id": "797862692769800192", "location_mentions": []}
+{"tweet_id": "798100125285371904", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 94, "endIdx": 105}, {"text": "NewZealand", "type": "CTRY", "startIdx": 120, "endIdx": 130}]}
+{"tweet_id": "797822202892709888", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 14, "endIdx": 25}, {"text": "newzealand", "type": "CTRY", "startIdx": 108, "endIdx": 118}]}
+{"tweet_id": "797996432376483841", "location_mentions": []}
+{"tweet_id": "797951379050405888", "location_mentions": []}
+{"tweet_id": "797873179582599169", "location_mentions": []}
+{"tweet_id": "798221353824423936", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 38, "endIdx": 48}]}
+{"tweet_id": "798038732347609088", "location_mentions": []}
+{"tweet_id": "798809255990075392", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 77, "endIdx": 88}]}
+{"tweet_id": "797859175460052992", "location_mentions": []}
+{"tweet_id": "797868204064284672", "location_mentions": []}
+{"tweet_id": "798058465834848256", "location_mentions": []}
+{"tweet_id": "797847990589222913", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 18, "endIdx": 29}]}
+{"tweet_id": "797865612462563328", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 27, "endIdx": 38}]}
+{"tweet_id": "797862075502456833", "location_mentions": []}
+{"tweet_id": "797863622303043584", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 56, "endIdx": 67}, {"text": "Auckland", "type": "CITY", "startIdx": 69, "endIdx": 77}]}
+{"tweet_id": "797805208713605125", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 77, "endIdx": 79}]}
+{"tweet_id": "797826191675666432", "location_mentions": [{"text": "Auckland", "type": "CITY", "startIdx": 49, "endIdx": 57}, {"text": "New Zealand", "type": "CTRY", "startIdx": 129, "endIdx": 140}]}
+{"tweet_id": "797791312015523840", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 130, "endIdx": 138}]}
+{"tweet_id": "798335986455298048", "location_mentions": []}
+{"tweet_id": "797866435141718016", "location_mentions": []}
+{"tweet_id": "800433274401144832", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 48, "endIdx": 56}, {"text": "NewZealand", "type": "CTRY", "startIdx": 94, "endIdx": 104}]}
+{"tweet_id": "797801998124888064", "location_mentions": []}
+{"tweet_id": "798224476286631941", "location_mentions": []}
+{"tweet_id": "797852506436956160", "location_mentions": []}
+{"tweet_id": "797804052255940608", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 1, "endIdx": 3}, {"text": "NewZealand", "type": "CTRY", "startIdx": 51, "endIdx": 61}]}
+{"tweet_id": "797808311974277120", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 72, "endIdx": 74}]}
+{"tweet_id": "798073796959748097", "location_mentions": []}
+{"tweet_id": "771453857767395328", "location_mentions": []}
+{"tweet_id": "797873717397180416", "location_mentions": [{"text": "Dunedin", "type": "CITY", "startIdx": 94, "endIdx": 101}]}
+{"tweet_id": "797909696359198720", "location_mentions": []}
+{"tweet_id": "797897624833626112", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 38, "endIdx": 40}]}
+{"tweet_id": "798264408526843904", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 17, "endIdx": 25}]}
+{"tweet_id": "798361902803873792", "location_mentions": [{"text": "newzealand", "type": "CTRY", "startIdx": 79, "endIdx": 89}]}
+{"tweet_id": "797981007295066112", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 60, "endIdx": 62}]}
+{"tweet_id": "797868836607270912", "location_mentions": []}
+{"tweet_id": "798075053560643584", "location_mentions": [{"text": "Seddon", "type": "CITY", "startIdx": 5, "endIdx": 11}, {"text": "Kaikoura", "type": "CITY", "startIdx": 18, "endIdx": 26}]}
+{"tweet_id": "797815701981384706", "location_mentions": []}
+{"tweet_id": "797893806037213184", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 28, "endIdx": 39}]}
+{"tweet_id": "797863159927226368", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 44, "endIdx": 54}]}
+{"tweet_id": "798020075353608192", "location_mentions": [{"text": "Kaiapoi", "type": "CITY", "startIdx": 53, "endIdx": 60}]}
+{"tweet_id": "800441125785911296", "location_mentions": []}
+{"tweet_id": "797886768141975552", "location_mentions": [{"text": "New Zealands", "type": "CTRY", "startIdx": 36, "endIdx": 48}, {"text": "Kaikoura", "type": "CITY", "startIdx": 62, "endIdx": 70}]}
+{"tweet_id": "797978456214540288", "location_mentions": []}
+{"tweet_id": "797929957603176448", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 117, "endIdx": 127}]}
+{"tweet_id": "797799113391624192", "location_mentions": []}
+{"tweet_id": "797804014767247360", "location_mentions": []}
+{"tweet_id": "797860961067540480", "location_mentions": []}
+{"tweet_id": "797870610609147905", "location_mentions": [{"text": "Christchurch", "type": "CITY", "startIdx": 80, "endIdx": 92}]}
+{"tweet_id": "797849010983710720", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 73, "endIdx": 84}]}
+{"tweet_id": "797878125484879873", "location_mentions": []}
+{"tweet_id": "797886389090062336", "location_mentions": []}
+{"tweet_id": "797866141162971136", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 56, "endIdx": 67}]}
+{"tweet_id": "800819679157620736", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 67, "endIdx": 78}, {"text": "Fukushima", "type": "CITY", "startIdx": 113, "endIdx": 122}, {"text": "Japan", "type": "CTRY", "startIdx": 124, "endIdx": 129}]}
+{"tweet_id": "797911390472130561", "location_mentions": [{"text": "Canterbury", "type": "CITY", "startIdx": 114, "endIdx": 124}]}
+{"tweet_id": "797897339117502464", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 132, "endIdx": 140}]}
+{"tweet_id": "797891653495160832", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 43, "endIdx": 53}]}
+{"tweet_id": "797791213705306112", "location_mentions": []}
+{"tweet_id": "798039761671876612", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 44, "endIdx": 54}]}
+{"tweet_id": "771464956705320961", "location_mentions": []}
+{"tweet_id": "797918085072027648", "location_mentions": []}
+{"tweet_id": "797992758241738752", "location_mentions": [{"text": "Seddon", "type": "CITY", "startIdx": 30, "endIdx": 36}]}
+{"tweet_id": "797882016704303104", "location_mentions": []}
+{"tweet_id": "797896645983670273", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 53, "endIdx": 64}]}
+{"tweet_id": "771469495239974913", "location_mentions": []}
+{"tweet_id": "771489290169688064", "location_mentions": []}
+{"tweet_id": "798171945812434944", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 48, "endIdx": 59}]}
+{"tweet_id": "797927509333458944", "location_mentions": []}
+{"tweet_id": "797917948421603328", "location_mentions": []}
+{"tweet_id": "797966925909393409", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 67, "endIdx": 78}]}
+{"tweet_id": "798482766115389440", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 126, "endIdx": 134}]}
+{"tweet_id": "798333435219611648", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 29, "endIdx": 40}]}
+{"tweet_id": "797977367746519041", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 59, "endIdx": 61}]}
+{"tweet_id": "797944511175356417", "location_mentions": []}
+{"tweet_id": "797818062212714497", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 62, "endIdx": 73}]}
+{"tweet_id": "798435630816464896", "location_mentions": []}
+{"tweet_id": "797934483634688000", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 117, "endIdx": 127}]}
+{"tweet_id": "797881588956549120", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 74, "endIdx": 84}]}
+{"tweet_id": "797833393387900928", "location_mentions": []}
+{"tweet_id": "797962873985081344", "location_mentions": []}
+{"tweet_id": "798611035217240065", "location_mentions": []}
+{"tweet_id": "797877785234526210", "location_mentions": []}
+{"tweet_id": "798000118817431552", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 15, "endIdx": 25}, {"text": "Wellington", "type": "CITY", "startIdx": 15, "endIdx": 25}]}
+{"tweet_id": "797846429737701377", "location_mentions": []}
+{"tweet_id": "797881801708449796", "location_mentions": []}
+{"tweet_id": "797932934388805632", "location_mentions": [{"text": "Brooklyn", "type": "CITY", "startIdx": 37, "endIdx": 45}, {"text": "Cuba", "type": "CTRY", "startIdx": 67, "endIdx": 71}, {"text": "Wellington", "type": "CITY", "startIdx": 76, "endIdx": 86}]}
+{"tweet_id": "798123363314995202", "location_mentions": []}
+{"tweet_id": "798045252447649792", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 50, "endIdx": 52}, {"text": "New Zealand", "type": "CTRY", "startIdx": 99, "endIdx": 110}]}
+{"tweet_id": "797807970109112325", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 61, "endIdx": 72}]}
+{"tweet_id": "797916756308205568", "location_mentions": []}
+{"tweet_id": "798292966099910656", "location_mentions": []}
+{"tweet_id": "771465355428450305", "location_mentions": []}
+{"tweet_id": "797842034593669120", "location_mentions": []}
+{"tweet_id": "798047264644141056", "location_mentions": [{"text": "India", "type": "CTRY", "startIdx": 21, "endIdx": 26}, {"text": "New Zealand", "type": "CTRY", "startIdx": 42, "endIdx": 53}]}
+{"tweet_id": "797947135496896512", "location_mentions": []}
+{"tweet_id": "800827235859132416", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 28, "endIdx": 39}]}
+{"tweet_id": "798264102275543040", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 9, "endIdx": 17}]}
+{"tweet_id": "797914524783259648", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 121, "endIdx": 129}]}
+{"tweet_id": "797998935147036672", "location_mentions": [{"text": "kaikoura", "type": "CITY", "startIdx": 36, "endIdx": 44}]}
+{"tweet_id": "771551696388431872", "location_mentions": []}
+{"tweet_id": "797898949071769600", "location_mentions": []}
+{"tweet_id": "797819764382908416", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 48, "endIdx": 59}]}
+{"tweet_id": "798039730700980224", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 83, "endIdx": 93}]}
+{"tweet_id": "798210883377831936", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 64, "endIdx": 75}]}
+{"tweet_id": "797885104022384641", "location_mentions": []}
+{"tweet_id": "799933530209808384", "location_mentions": []}
+{"tweet_id": "798432142514470912", "location_mentions": []}
+{"tweet_id": "797969697580777472", "location_mentions": [{"text": "Wellingtons", "type": "CITY", "startIdx": 64, "endIdx": 75}]}
+{"tweet_id": "797837350457851904", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 45, "endIdx": 56}]}
+{"tweet_id": "797793044615397376", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 33, "endIdx": 43}]}
+{"tweet_id": "798632796805660672", "location_mentions": []}
+{"tweet_id": "798034359202680832", "location_mentions": [{"text": "NewZealands", "type": "CTRY", "startIdx": 63, "endIdx": 74}]}
+{"tweet_id": "797936354944393216", "location_mentions": []}
+{"tweet_id": "797937264009449472", "location_mentions": [{"text": "Argentina", "type": "CTRY", "startIdx": 44, "endIdx": 53}]}
+{"tweet_id": "797931265705947136", "location_mentions": []}
+{"tweet_id": "797810706741596161", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 18, "endIdx": 29}, {"text": "NZ", "type": "CTRY", "startIdx": 116, "endIdx": 118}]}
+{"tweet_id": "798417599545638913", "location_mentions": []}
+{"tweet_id": "797874476478124032", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 27, "endIdx": 38}]}
+{"tweet_id": "797829523253260288", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 20, "endIdx": 31}]}
+{"tweet_id": "798106953087995904", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 30, "endIdx": 41}]}
+{"tweet_id": "771440913197375488", "location_mentions": [{"text": "Auckland", "type": "CITY", "startIdx": 25, "endIdx": 33}]}
+{"tweet_id": "798800749769564160", "location_mentions": []}
+{"tweet_id": "797798694393257984", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 71, "endIdx": 82}, {"text": "NewZealand", "type": "CTRY", "startIdx": 118, "endIdx": 128}]}
+{"tweet_id": "797794711368966144", "location_mentions": []}
+{"tweet_id": "771579222410211328", "location_mentions": []}
+{"tweet_id": "798672548380581888", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 24, "endIdx": 34}]}
+{"tweet_id": "798622340145811456", "location_mentions": []}
+{"tweet_id": "798700310105505792", "location_mentions": []}
+{"tweet_id": "797914353924075520", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 41, "endIdx": 51}]}
+{"tweet_id": "797858440727015425", "location_mentions": []}
+{"tweet_id": "797880856182296576", "location_mentions": []}
+{"tweet_id": "797808911378038784", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 59, "endIdx": 67}]}
+{"tweet_id": "797871085173686272", "location_mentions": []}
+{"tweet_id": "797874893710733312", "location_mentions": [{"text": "new Zealand", "type": "CTRY", "startIdx": 27, "endIdx": 38}, {"text": "kaikoura", "type": "CITY", "startIdx": 62, "endIdx": 70}]}
+{"tweet_id": "797892204224135169", "location_mentions": []}
+{"tweet_id": "797865755668680704", "location_mentions": [{"text": "Newlands", "type": "DIST", "startIdx": 0, "endIdx": 8}]}
+{"tweet_id": "797790565697863680", "location_mentions": []}
+{"tweet_id": "797893031764426752", "location_mentions": []}
+{"tweet_id": "797821848641617920", "location_mentions": [{"text": "Wakefield Rd", "type": "ST", "startIdx": 0, "endIdx": 12}, {"text": "Victoria", "type": "CITY", "startIdx": 75, "endIdx": 83}]}
+{"tweet_id": "797862700164358144", "location_mentions": []}
+{"tweet_id": "797828191427514369", "location_mentions": [{"text": "Canterbury", "type": "CITY", "startIdx": 37, "endIdx": 47}, {"text": "Wellington", "type": "CITY", "startIdx": 48, "endIdx": 58}]}
+{"tweet_id": "797918987145383936", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 62, "endIdx": 72}]}
+{"tweet_id": "771465467030478848", "location_mentions": []}
+{"tweet_id": "798271144327397376", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 50, "endIdx": 61}]}
+{"tweet_id": "798088672847351808", "location_mentions": []}
+{"tweet_id": "771476388100440064", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 42, "endIdx": 44}]}
+{"tweet_id": "797911692302630912", "location_mentions": []}
+{"tweet_id": "798390777734975488", "location_mentions": [{"text": "NZ", "type": "CTRY", "startIdx": 9, "endIdx": 11}]}
+{"tweet_id": "797911574459465728", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 42, "endIdx": 50}, {"text": "Wellington", "type": "CITY", "startIdx": 66, "endIdx": 76}]}
+{"tweet_id": "798700597612449793", "location_mentions": []}
+{"tweet_id": "798100160148545536", "location_mentions": [{"text": "New Zealandtwo", "type": "CTRY", "startIdx": 43, "endIdx": 57}, {"text": "NewZealand", "type": "CTRY", "startIdx": 80, "endIdx": 90}]}
+{"tweet_id": "797847135974633472", "location_mentions": []}
+{"tweet_id": "797982075177472001", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 57, "endIdx": 68}]}
+{"tweet_id": "798078066656362496", "location_mentions": []}
+{"tweet_id": "798351713916702720", "location_mentions": []}
+{"tweet_id": "797941391041040384", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 77, "endIdx": 85}]}
+{"tweet_id": "797952584392720384", "location_mentions": []}
+{"tweet_id": "797845962819416064", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 47, "endIdx": 57}, {"text": "Kaikoura", "type": "CITY", "startIdx": 92, "endIdx": 100}]}
+{"tweet_id": "798542266012995584", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 47, "endIdx": 55}, {"text": "kaikoura", "type": "CITY", "startIdx": 75, "endIdx": 83}, {"text": "NewZealand", "type": "CTRY", "startIdx": 85, "endIdx": 95}]}
+{"tweet_id": "798435753692839937", "location_mentions": []}
+{"tweet_id": "798267192290603009", "location_mentions": [{"text": "Wellington", "type": "CITY", "startIdx": 76, "endIdx": 86}]}
+{"tweet_id": "797822232869289984", "location_mentions": []}
+{"tweet_id": "800225681669922816", "location_mentions": []}
+{"tweet_id": "771454658845904896", "location_mentions": [{"text": "North Island", "type": "ISL", "startIdx": 38, "endIdx": 50}]}
+{"tweet_id": "797795081268785153", "location_mentions": []}
+{"tweet_id": "797878652952190977", "location_mentions": []}
+{"tweet_id": "798019174777831424", "location_mentions": [{"text": "Auckland", "type": "CITY", "startIdx": 41, "endIdx": 49}]}
+{"tweet_id": "771470155784163328", "location_mentions": []}
+{"tweet_id": "797873050016301058", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 49, "endIdx": 59}]}
+{"tweet_id": "797793413903118336", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 35, "endIdx": 46}]}
+{"tweet_id": "797862022595497988", "location_mentions": []}
+{"tweet_id": "797961196364124160", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 49, "endIdx": 59}, {"text": "NZ", "type": "CTRY", "startIdx": 105, "endIdx": 107}]}
+{"tweet_id": "797818362256453632", "location_mentions": []}
+{"tweet_id": "771459636348145665", "location_mentions": []}
+{"tweet_id": "797873100721246208", "location_mentions": []}
+{"tweet_id": "797919613837135873", "location_mentions": [{"text": "NewZealand", "type": "CTRY", "startIdx": 5, "endIdx": 15}]}
+{"tweet_id": "797918455982735363", "location_mentions": []}
+{"tweet_id": "798344491945988096", "location_mentions": [{"text": "kaikoura", "type": "CITY", "startIdx": 77, "endIdx": 85}]}
+{"tweet_id": "798637443897430016", "location_mentions": []}
+{"tweet_id": "798829461277790208", "location_mentions": []}
+{"tweet_id": "797889588014387200", "location_mentions": []}
+{"tweet_id": "797973215444250624", "location_mentions": []}
+{"tweet_id": "798034650681589760", "location_mentions": []}
+{"tweet_id": "798817364846342144", "location_mentions": []}
+{"tweet_id": "798623018071126016", "location_mentions": []}
+{"tweet_id": "798638240194392066", "location_mentions": []}
+{"tweet_id": "800418776806092801", "location_mentions": []}
+{"tweet_id": "800418510627160064", "location_mentions": [{"text": "Kaikoura", "type": "CITY", "startIdx": 69, "endIdx": 77}]}
+{"tweet_id": "797879834240159744", "location_mentions": []}
+{"tweet_id": "797972689134551041", "location_mentions": [{"text": "Raglan", "type": "CITY", "startIdx": 96, "endIdx": 102}]}
+{"tweet_id": "797879207598559233", "location_mentions": []}
+{"tweet_id": "797962506211725312", "location_mentions": []}

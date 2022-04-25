@@ -1,0 +1,736 @@
+{"tweet_id": "910609673556037632", "location_mentions": [{"text": "Mexico City", "type": "CITY", "startIdx": 58, "endIdx": 69}]}
+{"tweet_id": "910612779148632064", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 32, "endIdx": 38}]}
+{"tweet_id": "912078801852665863", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 49, "endIdx": 55}, {"text": "New York", "type": "STAT", "startIdx": 75, "endIdx": 83}]}
+{"tweet_id": "910630279059869697", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 32, "endIdx": 38}]}
+{"tweet_id": "912013803432431617", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 73, "endIdx": 79}]}
+{"tweet_id": "910614570426884097", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 41, "endIdx": 47}]}
+{"tweet_id": "911639678020812801", "location_mentions": [{"text": "Canada", "type": "CTRY", "startIdx": 64, "endIdx": 70}, {"text": "Mexico", "type": "CTRY", "startIdx": 83, "endIdx": 89}]}
+{"tweet_id": "910624541340241921", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 16, "endIdx": 22}]}
+{"tweet_id": "910555377795604480", "location_mentions": []}
+{"tweet_id": "913541505402281985", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 34, "endIdx": 40}]}
+{"tweet_id": "910635648431775744", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 59, "endIdx": 65}]}
+{"tweet_id": "910586319167819776", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 62, "endIdx": 68}]}
+{"tweet_id": "911722730487255040", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 40, "endIdx": 46}]}
+{"tweet_id": "910722061835829248", "location_mentions": [{"text": "MEXICOs", "type": "CTRY", "startIdx": 43, "endIdx": 50}]}
+{"tweet_id": "910567238624784388", "location_mentions": [{"text": "MEXICO", "type": "CTRY", "startIdx": 13, "endIdx": 19}]}
+{"tweet_id": "910692005692370944", "location_mentions": [{"text": "Israel", "type": "CTRY", "startIdx": 18, "endIdx": 24}, {"text": "Mexico", "type": "CTRY", "startIdx": 59, "endIdx": 65}, {"text": "MexicoCity", "type": "CITY", "startIdx": 67, "endIdx": 77}]}
+{"tweet_id": "915982969705193472", "location_mentions": [{"text": "PuertoRico", "type": "ISL", "startIdx": 124, "endIdx": 134}, {"text": "Mexico", "type": "CTRY", "startIdx": 136, "endIdx": 142}]}
+{"tweet_id": "910635307539640321", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 21, "endIdx": 27}]}
+{"tweet_id": "914901770798845952", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 46, "endIdx": 52}]}
+{"tweet_id": "913278696596807680", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 138, "endIdx": 144}]}
+{"tweet_id": "914501420098969602", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 32, "endIdx": 38}]}
+{"tweet_id": "912375658814279685", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 3, "endIdx": 9}]}
+{"tweet_id": "910754195489349633", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 36, "endIdx": 42}]}
+{"tweet_id": "915321315120242688", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 48, "endIdx": 54}]}
+{"tweet_id": "910685528491560961", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 78, "endIdx": 84}]}
+{"tweet_id": "910696652062826499", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 40, "endIdx": 46}]}
+{"tweet_id": "910647593423790081", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 57, "endIdx": 63}]}
+{"tweet_id": "915236098942619649", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 80, "endIdx": 87}]}
+{"tweet_id": "912464850059591681", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 17, "endIdx": 23}]}
+{"tweet_id": "910774935253131264", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 14, "endIdx": 20}, {"text": "mexico", "type": "CTRY", "startIdx": 108, "endIdx": 114}]}
+{"tweet_id": "910576602551132161", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 99, "endIdx": 105}]}
+{"tweet_id": "911714715012870144", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 53, "endIdx": 59}]}
+{"tweet_id": "910611131693072384", "location_mentions": [{"text": "Morelos", "type": "STAT", "startIdx": 79, "endIdx": 86}, {"text": "Puebla", "type": "STAT", "startIdx": 91, "endIdx": 97}]}
+{"tweet_id": "910768082326405121", "location_mentions": []}
+{"tweet_id": "910734166580387840", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 30, "endIdx": 36}]}
+{"tweet_id": "910549470470983683", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 16, "endIdx": 22}, {"text": "Mexico", "type": "CITY", "startIdx": 16, "endIdx": 22}, {"text": "Mexico", "type": "CTRY", "startIdx": 16, "endIdx": 22}, {"text": "America", "type": "CONT", "startIdx": 103, "endIdx": 110}]}
+{"tweet_id": "912062273304358912", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 62, "endIdx": 68}, {"text": "MexicoCity", "type": "CITY", "startIdx": 109, "endIdx": 119}]}
+{"tweet_id": "910655500831776768", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 29, "endIdx": 35}]}
+{"tweet_id": "911917266958241793", "location_mentions": []}
+{"tweet_id": "910731722819588096", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 48, "endIdx": 54}, {"text": "Mexico", "type": "CTRY", "startIdx": 48, "endIdx": 54}]}
+{"tweet_id": "910801936848482304", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 41, "endIdx": 47}]}
+{"tweet_id": "910705462156210176", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 138, "endIdx": 144}]}
+{"tweet_id": "913198591166046209", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 38, "endIdx": 44}]}
+{"tweet_id": "910572944257982469", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 24, "endIdx": 30}, {"text": "Mexico", "type": "CTRY", "startIdx": 24, "endIdx": 30}]}
+{"tweet_id": "911682865116663812", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 27, "endIdx": 33}]}
+{"tweet_id": "910683639201099777", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 24, "endIdx": 30}]}
+{"tweet_id": "910691597540618240", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 54, "endIdx": 60}]}
+{"tweet_id": "910671460254982144", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 40, "endIdx": 46}]}
+{"tweet_id": "910524499841314816", "location_mentions": [{"text": "MEXICO", "type": "CTRY", "startIdx": 25, "endIdx": 31}]}
+{"tweet_id": "910814231603417088", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 57, "endIdx": 63}]}
+{"tweet_id": "911774400701095936", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 33, "endIdx": 39}]}
+{"tweet_id": "910702705349361665", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 37, "endIdx": 43}]}
+{"tweet_id": "910730120327024640", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "910571641813348352", "location_mentions": []}
+{"tweet_id": "911658412399665152", "location_mentions": [{"text": "Oaxaca", "type": "STAT", "startIdx": 44, "endIdx": 50}, {"text": "Mexico", "type": "CTRY", "startIdx": 52, "endIdx": 58}]}
+{"tweet_id": "910536348678811648", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 54, "endIdx": 60}]}
+{"tweet_id": "911708275174932480", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 22, "endIdx": 28}, {"text": "Puerto Rico", "type": "ISL", "startIdx": 35, "endIdx": 46}, {"text": "Oaxaca", "type": "STAT", "startIdx": 65, "endIdx": 71}, {"text": "PuertoRico", "type": "ISL", "startIdx": 115, "endIdx": 125}]}
+{"tweet_id": "915266986959151105", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 84, "endIdx": 90}]}
+{"tweet_id": "910631238557253632", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 49, "endIdx": 55}]}
+{"tweet_id": "910555258182524928", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 11, "endIdx": 17}, {"text": "Mexico", "type": "CTRY", "startIdx": 11, "endIdx": 17}]}
+{"tweet_id": "910782903629398016", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 63, "endIdx": 69}]}
+{"tweet_id": "910646830089850885", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 117, "endIdx": 123}]}
+{"tweet_id": "913450230611365888", "location_mentions": []}
+{"tweet_id": "915972799025446913", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 11, "endIdx": 17}]}
+{"tweet_id": "911688187084406786", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 67, "endIdx": 74}]}
+{"tweet_id": "910716170377994240", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 94, "endIdx": 100}]}
+{"tweet_id": "910550242092896257", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 39, "endIdx": 45}]}
+{"tweet_id": "914336483380625408", "location_mentions": []}
+{"tweet_id": "912144477913001984", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 120, "endIdx": 126}]}
+{"tweet_id": "911988133138329600", "location_mentions": []}
+{"tweet_id": "910719025197568002", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 56, "endIdx": 62}]}
+{"tweet_id": "912438642978717697", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 40, "endIdx": 46}]}
+{"tweet_id": "910703750817468416", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 16, "endIdx": 22}]}
+{"tweet_id": "910641746706436096", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 56, "endIdx": 62}]}
+{"tweet_id": "911866526759657472", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 54, "endIdx": 60}]}
+{"tweet_id": "911696439427735552", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "910540625556025344", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 25, "endIdx": 31}]}
+{"tweet_id": "911785460225241088", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 39, "endIdx": 45}]}
+{"tweet_id": "911635180351295488", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 70, "endIdx": 76}]}
+{"tweet_id": "910708566054412288", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 37, "endIdx": 43}]}
+{"tweet_id": "910635728014643200", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 103, "endIdx": 109}]}
+{"tweet_id": "910536859821867009", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 56, "endIdx": 62}]}
+{"tweet_id": "916089024149942273", "location_mentions": [{"text": "Mexico City", "type": "CITY", "startIdx": 22, "endIdx": 33}]}
+{"tweet_id": "910770105214226432", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 48, "endIdx": 54}]}
+{"tweet_id": "910610252906631168", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 63, "endIdx": 70}]}
+{"tweet_id": "911687680395587584", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 35, "endIdx": 41}]}
+{"tweet_id": "912381967953313792", "location_mentions": [{"text": "Morelos", "type": "STAT", "startIdx": 1, "endIdx": 8}]}
+{"tweet_id": "910546172263112704", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 35, "endIdx": 41}]}
+{"tweet_id": "910670760502378496", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 27, "endIdx": 33}]}
+{"tweet_id": "910772687227772928", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 23, "endIdx": 29}]}
+{"tweet_id": "910570889023979520", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "911775644081672193", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 72, "endIdx": 78}]}
+{"tweet_id": "910547197808091136", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 64, "endIdx": 70}]}
+{"tweet_id": "910704919094624258", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 54, "endIdx": 60}]}
+{"tweet_id": "910543059598942208", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 100, "endIdx": 106}]}
+{"tweet_id": "910674725289975808", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 29, "endIdx": 35}]}
+{"tweet_id": "913083572239654912", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 89, "endIdx": 95}]}
+{"tweet_id": "914194499500478465", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 20, "endIdx": 26}]}
+{"tweet_id": "910685691012554753", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 20, "endIdx": 26}]}
+{"tweet_id": "910619010105999360", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 88, "endIdx": 94}]}
+{"tweet_id": "911643268470976513", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 37, "endIdx": 43}]}
+{"tweet_id": "910567482661888001", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 72, "endIdx": 78}]}
+{"tweet_id": "912345198461468672", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 58, "endIdx": 64}]}
+{"tweet_id": "910818468550737920", "location_mentions": [{"text": "Mexico City", "type": "CITY", "startIdx": 38, "endIdx": 49}]}
+{"tweet_id": "911957864062881793", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 64, "endIdx": 70}]}
+{"tweet_id": "910707607811313665", "location_mentions": []}
+{"tweet_id": "910608346016768000", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 42, "endIdx": 48}, {"text": "Qatar", "type": "CTRY", "startIdx": 91, "endIdx": 96}]}
+{"tweet_id": "910581291371732992", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 38, "endIdx": 44}]}
+{"tweet_id": "911649889498607616", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 35, "endIdx": 41}]}
+{"tweet_id": "914897804077801473", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 82, "endIdx": 88}]}
+{"tweet_id": "910585720984801280", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 37, "endIdx": 43}]}
+{"tweet_id": "910586238029017088", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 25, "endIdx": 31}]}
+{"tweet_id": "912261763240022016", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 43, "endIdx": 49}]}
+{"tweet_id": "913164308988563456", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 59, "endIdx": 66}]}
+{"tweet_id": "912058898642636801", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 75, "endIdx": 81}]}
+{"tweet_id": "914221589671104514", "location_mentions": []}
+{"tweet_id": "910693831858966529", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 58, "endIdx": 64}]}
+{"tweet_id": "911700063172349952", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "910652710587817984", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 43, "endIdx": 50}]}
+{"tweet_id": "910624604267323393", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 106, "endIdx": 112}]}
+{"tweet_id": "910550751071625216", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 108, "endIdx": 114}]}
+{"tweet_id": "910650386951708672", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 25, "endIdx": 31}, {"text": "Puerto Rico", "type": "ISL", "startIdx": 75, "endIdx": 86}]}
+{"tweet_id": "910706612498784258", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "911688580971601920", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 37, "endIdx": 43}, {"text": "Israel", "type": "CTRY", "startIdx": 45, "endIdx": 51}, {"text": "Israel", "type": "CTRY", "startIdx": 45, "endIdx": 51}]}
+{"tweet_id": "910715305143369728", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 53, "endIdx": 59}]}
+{"tweet_id": "910611234453643264", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}, {"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "910540585903067136", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 27, "endIdx": 33}, {"text": "MexicoCity", "type": "CITY", "startIdx": 35, "endIdx": 45}, {"text": "PuertoRico", "type": "ISL", "startIdx": 95, "endIdx": 105}, {"text": "Florida", "type": "STAT", "startIdx": 107, "endIdx": 114}, {"text": "Dominica", "type": "CTRY", "startIdx": 116, "endIdx": 124}]}
+{"tweet_id": "910618729372897280", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 75, "endIdx": 81}]}
+{"tweet_id": "911832742656126976", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 29, "endIdx": 35}]}
+{"tweet_id": "910729585544765440", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 38, "endIdx": 44}]}
+{"tweet_id": "910563186306203648", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 51, "endIdx": 57}, {"text": "Mexico", "type": "CTRY", "startIdx": 51, "endIdx": 57}]}
+{"tweet_id": "914002921049780224", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 23, "endIdx": 29}]}
+{"tweet_id": "910576345779888129", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 54, "endIdx": 60}]}
+{"tweet_id": "911680495015964672", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "911862362432430080", "location_mentions": []}
+{"tweet_id": "912140703119048705", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 53, "endIdx": 59}]}
+{"tweet_id": "910579763537788928", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 81, "endIdx": 87}]}
+{"tweet_id": "911656001635467264", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 27, "endIdx": 33}]}
+{"tweet_id": "910693587066720256", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 55, "endIdx": 61}]}
+{"tweet_id": "910559739402117121", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 79, "endIdx": 85}]}
+{"tweet_id": "910610478602215424", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 52, "endIdx": 58}]}
+{"tweet_id": "911826546767351808", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 45, "endIdx": 51}]}
+{"tweet_id": "911856654211264514", "location_mentions": [{"text": "Tlayacapan", "type": "CITY", "startIdx": 58, "endIdx": 68}, {"text": "Mexico", "type": "CTRY", "startIdx": 109, "endIdx": 115}, {"text": "Morelos", "type": "STAT", "startIdx": 117, "endIdx": 124}]}
+{"tweet_id": "910635293270695936", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "910551308087603200", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 108, "endIdx": 114}]}
+{"tweet_id": "912411634563416064", "location_mentions": [{"text": "Mexico City..", "type": "CITY", "startIdx": 119, "endIdx": 132}]}
+{"tweet_id": "912090056394989568", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 72, "endIdx": 79}, {"text": "Manchester", "type": "CITY", "startIdx": 115, "endIdx": 125}]}
+{"tweet_id": "910694382847746048", "location_mentions": []}
+{"tweet_id": "910549837598179329", "location_mentions": []}
+{"tweet_id": "910789293999828992", "location_mentions": [{"text": "Mexico City", "type": "CITY", "startIdx": 19, "endIdx": 30}]}
+{"tweet_id": "911769098744471552", "location_mentions": [{"text": "Oaxaca", "type": "STAT", "startIdx": 82, "endIdx": 88}, {"text": "Mexico", "type": "CTRY", "startIdx": 96, "endIdx": 102}]}
+{"tweet_id": "913457174105542658", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 13, "endIdx": 19}]}
+{"tweet_id": "910615978215489536", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 35, "endIdx": 41}]}
+{"tweet_id": "910611008481239040", "location_mentions": []}
+{"tweet_id": "910540710994051072", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 21, "endIdx": 27}]}
+{"tweet_id": "910698653685125120", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 40, "endIdx": 46}]}
+{"tweet_id": "910609034994225153", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 115, "endIdx": 121}]}
+{"tweet_id": "910723010834911232", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 105, "endIdx": 111}]}
+{"tweet_id": "910547504042696705", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 82, "endIdx": 88}]}
+{"tweet_id": "913822935999066112", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 34, "endIdx": 40}]}
+{"tweet_id": "910608265368674304", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 70, "endIdx": 76}]}
+{"tweet_id": "913134916568735744", "location_mentions": []}
+{"tweet_id": "910571823930232834", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 44, "endIdx": 50}]}
+{"tweet_id": "912293936567390208", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 50, "endIdx": 56}]}
+{"tweet_id": "910796950550716416", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 15, "endIdx": 21}]}
+{"tweet_id": "911720106224431105", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 81, "endIdx": 87}]}
+{"tweet_id": "910558878642737154", "location_mentions": [{"text": "MEXICO", "type": "CTRY", "startIdx": 121, "endIdx": 127}]}
+{"tweet_id": "911841794949832705", "location_mentions": [{"text": "Oaxaca", "type": "STAT", "startIdx": 29, "endIdx": 35}, {"text": "Mexico", "type": "CTRY", "startIdx": 37, "endIdx": 43}]}
+{"tweet_id": "910532911342002178", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 96, "endIdx": 102}]}
+{"tweet_id": "910541765026992129", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 35, "endIdx": 41}]}
+{"tweet_id": "910579813257158657", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 68, "endIdx": 74}]}
+{"tweet_id": "910694772964171777", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 87, "endIdx": 93}]}
+{"tweet_id": "910541483433803776", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 81, "endIdx": 87}]}
+{"tweet_id": "910610817724203008", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 103, "endIdx": 109}]}
+{"tweet_id": "910572509795196928", "location_mentions": [{"text": "MEXICOCITYEARTHQUAKE", "type": "CTRY", "startIdx": 35, "endIdx": 55}]}
+{"tweet_id": "912327530031587328", "location_mentions": [{"text": "Switzerland", "type": "CTRY", "startIdx": 69, "endIdx": 80}, {"text": "Mexico", "type": "CTRY", "startIdx": 102, "endIdx": 108}]}
+{"tweet_id": "910659993254293504", "location_mentions": []}
+{"tweet_id": "914261287407882243", "location_mentions": [{"text": "Puebla", "type": "STAT", "startIdx": 19, "endIdx": 25}, {"text": "Mexico", "type": "CTRY", "startIdx": 27, "endIdx": 33}]}
+{"tweet_id": "910533354352549889", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 40, "endIdx": 46}, {"text": "Mexico", "type": "CTRY", "startIdx": 40, "endIdx": 46}]}
+{"tweet_id": "912366122216906752", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 33, "endIdx": 39}]}
+{"tweet_id": "910609271888470018", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 50, "endIdx": 56}]}
+{"tweet_id": "911726303761584128", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 62, "endIdx": 68}]}
+{"tweet_id": "915015091577290754", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 13, "endIdx": 20}]}
+{"tweet_id": "910613836004188160", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 23, "endIdx": 29}]}
+{"tweet_id": "912347379700981761", "location_mentions": [{"text": "MX", "type": "CTRY", "startIdx": 36, "endIdx": 38}, {"text": "Mexico", "type": "CTRY", "startIdx": 75, "endIdx": 81}]}
+{"tweet_id": "910717387602661377", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 41, "endIdx": 47}, {"text": "PuertoRico", "type": "ISL", "startIdx": 53, "endIdx": 63}, {"text": "Denver", "type": "CITY", "startIdx": 72, "endIdx": 78}]}
+{"tweet_id": "910633122617626624", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 34, "endIdx": 40}]}
+{"tweet_id": "910670886935650304", "location_mentions": [{"text": "Texcoco", "type": "STAT", "startIdx": 45, "endIdx": 52}]}
+{"tweet_id": "910748044601253888", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 39, "endIdx": 45}]}
+{"tweet_id": "911692377114292224", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 29, "endIdx": 35}, {"text": "Oaxaca", "type": "STAT", "startIdx": 53, "endIdx": 59}]}
+{"tweet_id": "910572107808915456", "location_mentions": [{"text": "MEXICO", "type": "CTRY", "startIdx": 16, "endIdx": 22}]}
+{"tweet_id": "913668452061081600", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 37, "endIdx": 44}]}
+{"tweet_id": "910773201910743040", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 58, "endIdx": 64}]}
+{"tweet_id": "910525809323995136", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 21, "endIdx": 28}]}
+{"tweet_id": "914422241730994181", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 129, "endIdx": 135}]}
+{"tweet_id": "910537064969412610", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 17, "endIdx": 23}]}
+{"tweet_id": "912457529682124800", "location_mentions": [{"text": "Ireland", "type": "CTRY", "startIdx": 18, "endIdx": 25}, {"text": "Mexico", "type": "CTRY", "startIdx": 53, "endIdx": 59}]}
+{"tweet_id": "910617582125826048", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 23, "endIdx": 29}]}
+{"tweet_id": "910684664523767808", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 60, "endIdx": 67}]}
+{"tweet_id": "910724762732654592", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 90, "endIdx": 96}]}
+{"tweet_id": "911655963710464000", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 30, "endIdx": 36}]}
+{"tweet_id": "910580025006493696", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 40, "endIdx": 46}]}
+{"tweet_id": "910689993147822080", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 93, "endIdx": 99}]}
+{"tweet_id": "910715252060315648", "location_mentions": [{"text": "Puebla", "type": "STAT", "startIdx": 71, "endIdx": 77}, {"text": "Mexico", "type": "CTRY", "startIdx": 103, "endIdx": 109}]}
+{"tweet_id": "911829769662140416", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 82, "endIdx": 88}]}
+{"tweet_id": "913100277590392832", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 45, "endIdx": 51}]}
+{"tweet_id": "910702146022105089", "location_mentions": [{"text": "Mexico City", "type": "CITY", "startIdx": 66, "endIdx": 77}]}
+{"tweet_id": "913253132930568194", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 33, "endIdx": 39}]}
+{"tweet_id": "910631922107269120", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 64, "endIdx": 70}, {"text": "MexicoCity", "type": "CITY", "startIdx": 98, "endIdx": 108}]}
+{"tweet_id": "914462666785247236", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 43, "endIdx": 49}]}
+{"tweet_id": "910546842483593217", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 28, "endIdx": 34}]}
+{"tweet_id": "910731784723271680", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 53, "endIdx": 59}]}
+{"tweet_id": "915017247717957633", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 23, "endIdx": 29}]}
+{"tweet_id": "910802678757736448", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 71, "endIdx": 77}]}
+{"tweet_id": "910688204424077312", "location_mentions": [{"text": "MEXICO", "type": "CTRY", "startIdx": 25, "endIdx": 31}]}
+{"tweet_id": "910654103587512320", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 68, "endIdx": 74}]}
+{"tweet_id": "912187512520675328", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 60, "endIdx": 66}]}
+{"tweet_id": "910640972517695489", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 120, "endIdx": 126}]}
+{"tweet_id": "911798280077692928", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 48, "endIdx": 54}]}
+{"tweet_id": "911832154216079360", "location_mentions": [{"text": "Tucson", "type": "CITY", "startIdx": 13, "endIdx": 19}, {"text": "Mexico", "type": "CTRY", "startIdx": 48, "endIdx": 54}]}
+{"tweet_id": "912065956310142976", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 107, "endIdx": 113}]}
+{"tweet_id": "913093828684533760", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 22, "endIdx": 28}]}
+{"tweet_id": "910691896892178432", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 85, "endIdx": 92}]}
+{"tweet_id": "910626955271208961", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 84, "endIdx": 90}, {"text": "Yemen", "type": "CTRY", "startIdx": 93, "endIdx": 98}]}
+{"tweet_id": "910742686172418049", "location_mentions": []}
+{"tweet_id": "910702241698516992", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 67, "endIdx": 73}]}
+{"tweet_id": "914983741646241792", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 131, "endIdx": 137}]}
+{"tweet_id": "914676714130874368", "location_mentions": [{"text": "Hermosillo", "type": "CITY", "startIdx": 42, "endIdx": 52}, {"text": "Mexico", "type": "CTRY", "startIdx": 89, "endIdx": 95}]}
+{"tweet_id": "910615790931517440", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 39, "endIdx": 45}]}
+{"tweet_id": "913243509175357440", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "910711107706396673", "location_mentions": [{"text": "Japan", "type": "CTRY", "startIdx": 16, "endIdx": 21}, {"text": "Mexico", "type": "CTRY", "startIdx": 75, "endIdx": 81}]}
+{"tweet_id": "912419487365951489", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 10, "endIdx": 17}]}
+{"tweet_id": "911771399940857856", "location_mentions": []}
+{"tweet_id": "910793489457311744", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 55, "endIdx": 61}, {"text": "California", "type": "STAT", "startIdx": 105, "endIdx": 115}]}
+{"tweet_id": "910699611207213057", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 50, "endIdx": 57}]}
+{"tweet_id": "912346971544915968", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 104, "endIdx": 110}]}
+{"tweet_id": "913539241052921858", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 60, "endIdx": 66}]}
+{"tweet_id": "911725456767959040", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 51, "endIdx": 58}]}
+{"tweet_id": "910572138800619520", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 109, "endIdx": 115}]}
+{"tweet_id": "910586474252214272", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 21, "endIdx": 27}]}
+{"tweet_id": "910627567224410114", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 80, "endIdx": 86}, {"text": "Mexico", "type": "CTRY", "startIdx": 80, "endIdx": 86}]}
+{"tweet_id": "910533451346071553", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 38, "endIdx": 44}]}
+{"tweet_id": "910671913973719040", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 77, "endIdx": 83}]}
+{"tweet_id": "910677281978421249", "location_mentions": [{"text": "Puerto Rico", "type": "ISL", "startIdx": 61, "endIdx": 72}]}
+{"tweet_id": "910658068014292992", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 18, "endIdx": 24}]}
+{"tweet_id": "913429281803526144", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 34, "endIdx": 40}]}
+{"tweet_id": "910550071019675649", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 26, "endIdx": 32}]}
+{"tweet_id": "910702346983890945", "location_mentions": [{"text": "Oakland", "type": "CITY", "startIdx": 52, "endIdx": 59}]}
+{"tweet_id": "910656749253939200", "location_mentions": [{"text": "Mexico City", "type": "CITY", "startIdx": 69, "endIdx": 80}]}
+{"tweet_id": "911634777337450498", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 37, "endIdx": 43}]}
+{"tweet_id": "910630191499665408", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 26, "endIdx": 32}]}
+{"tweet_id": "911797514889818113", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 71, "endIdx": 77}, {"text": "Mexico", "type": "CTRY", "startIdx": 71, "endIdx": 77}]}
+{"tweet_id": "910551461167194112", "location_mentions": [{"text": "MexicoCity", "type": "CITY", "startIdx": 39, "endIdx": 49}]}
+{"tweet_id": "910791598883131397", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 75, "endIdx": 81}]}
+{"tweet_id": "910562403812642816", "location_mentions": [{"text": "MEXICO", "type": "CTRY", "startIdx": 39, "endIdx": 45}]}
+{"tweet_id": "911649581611356160", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 56, "endIdx": 62}]}
+{"tweet_id": "910563389151232000", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 74, "endIdx": 80}]}
+{"tweet_id": "910542047173427200", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 39, "endIdx": 45}, {"text": "MexicoCity", "type": "CITY", "startIdx": 120, "endIdx": 130}]}
+{"tweet_id": "910795618875932672", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 43, "endIdx": 49}]}
+{"tweet_id": "910579366240776192", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 60, "endIdx": 66}]}
+{"tweet_id": "910776855178776576", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 11, "endIdx": 17}, {"text": "Mexico", "type": "CTRY", "startIdx": 11, "endIdx": 17}, {"text": "mexico", "type": "CTRY", "startIdx": 65, "endIdx": 71}]}
+{"tweet_id": "910779492527898624", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 42, "endIdx": 48}]}
+{"tweet_id": "912420239308025856", "location_mentions": [{"text": "Puerto Rico", "type": "ISL", "startIdx": 14, "endIdx": 25}, {"text": "Mexico", "type": "CTRY", "startIdx": 50, "endIdx": 56}]}
+{"tweet_id": "911743145393537025", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 58, "endIdx": 65}]}
+{"tweet_id": "911944000931643392", "location_mentions": []}
+{"tweet_id": "910546338512637952", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 66, "endIdx": 72}]}
+{"tweet_id": "910717207469895680", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 90, "endIdx": 96}]}
+{"tweet_id": "911726950053482496", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 68, "endIdx": 74}]}
+{"tweet_id": "911766052199116800", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}, {"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "910577771847413760", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 50, "endIdx": 56}]}
+{"tweet_id": "910713062809673728", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 19, "endIdx": 25}]}
+{"tweet_id": "910546438811029505", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 100, "endIdx": 106}]}
+{"tweet_id": "910707429561606145", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 32, "endIdx": 38}]}
+{"tweet_id": "910541233356804096", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 43, "endIdx": 49}]}
+{"tweet_id": "911635254863163392", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 29, "endIdx": 35}]}
+{"tweet_id": "912056879320154112", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 77, "endIdx": 83}]}
+{"tweet_id": "910723330201849856", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 56, "endIdx": 62}]}
+{"tweet_id": "910692675040436225", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 122, "endIdx": 128}]}
+{"tweet_id": "910542578042277889", "location_mentions": []}
+{"tweet_id": "912412146763366403", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 41, "endIdx": 48}]}
+{"tweet_id": "911821255296217088", "location_mentions": []}
+{"tweet_id": "910609282638471168", "location_mentions": [{"text": "Israel", "type": "CTRY", "startIdx": 0, "endIdx": 6}, {"text": "Mexico", "type": "CTRY", "startIdx": 20, "endIdx": 26}]}
+{"tweet_id": "913857078120390657", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 52, "endIdx": 58}]}
+{"tweet_id": "910728464390537217", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 92, "endIdx": 98}]}
+{"tweet_id": "910678224522289153", "location_mentions": [{"text": "MexicoCity", "type": "CITY", "startIdx": 25, "endIdx": 35}, {"text": "mexico", "type": "CTRY", "startIdx": 103, "endIdx": 109}]}
+{"tweet_id": "913548409633513472", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 43, "endIdx": 49}]}
+{"tweet_id": "910713926907826178", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 84, "endIdx": 90}]}
+{"tweet_id": "913958516049592321", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 22, "endIdx": 28}]}
+{"tweet_id": "911862945172267009", "location_mentions": []}
+{"tweet_id": "910676647304511493", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 33, "endIdx": 39}]}
+{"tweet_id": "913866970361196544", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 53, "endIdx": 59}]}
+{"tweet_id": "910586800418127872", "location_mentions": []}
+{"tweet_id": "911694677044334592", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 82, "endIdx": 88}]}
+{"tweet_id": "911662924401274880", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 56, "endIdx": 62}]}
+{"tweet_id": "910565040842981376", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 99, "endIdx": 105}]}
+{"tweet_id": "911622772186427393", "location_mentions": []}
+{"tweet_id": "910645048588476418", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 85, "endIdx": 91}]}
+{"tweet_id": "914355597524402176", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 7, "endIdx": 13}]}
+{"tweet_id": "910544848490422272", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 33, "endIdx": 39}, {"text": "Mexico", "type": "CTRY", "startIdx": 33, "endIdx": 39}]}
+{"tweet_id": "912154153144680450", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 13, "endIdx": 19}]}
+{"tweet_id": "910553501553401862", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 10, "endIdx": 16}]}
+{"tweet_id": "910540933753593856", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 70, "endIdx": 76}]}
+{"tweet_id": "910638746801807360", "location_mentions": []}
+{"tweet_id": "911969480380764160", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 9, "endIdx": 15}]}
+{"tweet_id": "910559147497844742", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 68, "endIdx": 74}]}
+{"tweet_id": "911722607052963840", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 113, "endIdx": 119}]}
+{"tweet_id": "910767775030931456", "location_mentions": [{"text": "Japan", "type": "CTRY", "startIdx": 30, "endIdx": 35}, {"text": "Mexico", "type": "CTRY", "startIdx": 37, "endIdx": 43}, {"text": "Vanuatu", "type": "CTRY", "startIdx": 81, "endIdx": 88}]}
+{"tweet_id": "910654221065666560", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 32, "endIdx": 38}, {"text": "NYC", "type": "CITY", "startIdx": 140, "endIdx": 143}]}
+{"tweet_id": "910684045255700480", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "910541312977506304", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 74, "endIdx": 80}]}
+{"tweet_id": "911696566527729664", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 21, "endIdx": 27}]}
+{"tweet_id": "910648529692934144", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 120, "endIdx": 126}]}
+{"tweet_id": "912384259997892608", "location_mentions": [{"text": "MexicoCity", "type": "CITY", "startIdx": 79, "endIdx": 89}, {"text": "Puebla", "type": "STAT", "startIdx": 95, "endIdx": 101}]}
+{"tweet_id": "910584937341902849", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 31, "endIdx": 37}, {"text": "Mexico", "type": "CTRY", "startIdx": 31, "endIdx": 37}]}
+{"tweet_id": "911736997164797952", "location_mentions": []}
+{"tweet_id": "912333326849122304", "location_mentions": [{"text": "Madrid", "type": "CITY", "startIdx": 5, "endIdx": 11}, {"text": "Mexico", "type": "CTRY", "startIdx": 41, "endIdx": 47}]}
+{"tweet_id": "912082519461425153", "location_mentions": []}
+{"tweet_id": "910543134974631936", "location_mentions": []}
+{"tweet_id": "913142060676468736", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 60, "endIdx": 66}]}
+{"tweet_id": "910617895637368832", "location_mentions": []}
+{"tweet_id": "910536676673429505", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 77, "endIdx": 83}]}
+{"tweet_id": "910707598344699904", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 62, "endIdx": 68}]}
+{"tweet_id": "912428829058232320", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 52, "endIdx": 58}]}
+{"tweet_id": "913459228009889792", "location_mentions": [{"text": "Mexico City", "type": "CITY", "startIdx": 18, "endIdx": 29}]}
+{"tweet_id": "912027065670619136", "location_mentions": []}
+{"tweet_id": "914387235071516672", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 74, "endIdx": 80}]}
+{"tweet_id": "914244544098484224", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 134, "endIdx": 140}]}
+{"tweet_id": "910610743334027264", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 104, "endIdx": 110}]}
+{"tweet_id": "912411748103282690", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 112, "endIdx": 118}]}
+{"tweet_id": "911764564663951360", "location_mentions": []}
+{"tweet_id": "910642265923579904", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 109, "endIdx": 115}]}
+{"tweet_id": "910636665089155074", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 28, "endIdx": 34}, {"text": "Mexico", "type": "CTRY", "startIdx": 28, "endIdx": 34}]}
+{"tweet_id": "910538448641024000", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 46, "endIdx": 52}]}
+{"tweet_id": "910546516435025920", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 59, "endIdx": 65}]}
+{"tweet_id": "910558585175732224", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 80, "endIdx": 86}]}
+{"tweet_id": "911700062178299909", "location_mentions": [{"text": "Morelos", "type": "STAT", "startIdx": 22, "endIdx": 29}]}
+{"tweet_id": "911656636204363777", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 85, "endIdx": 92}]}
+{"tweet_id": "910572054050512896", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 46, "endIdx": 52}]}
+{"tweet_id": "913418036534743040", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 67, "endIdx": 73}]}
+{"tweet_id": "914899530826399744", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 62, "endIdx": 68}]}
+{"tweet_id": "910771626802900993", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 119, "endIdx": 125}]}
+{"tweet_id": "911632364253655040", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 60, "endIdx": 66}]}
+{"tweet_id": "911624827202568193", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "910553508998500352", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 110, "endIdx": 116}]}
+{"tweet_id": "910540475546796032", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 50, "endIdx": 56}]}
+{"tweet_id": "912319631334899713", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 121, "endIdx": 127}]}
+{"tweet_id": "913832542104559616", "location_mentions": [{"text": "Puerto Rico", "type": "ISL", "startIdx": 74, "endIdx": 85}, {"text": "Mexico", "type": "CTRY", "startIdx": 111, "endIdx": 117}]}
+{"tweet_id": "913059462897733632", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 12, "endIdx": 18}]}
+{"tweet_id": "910637401910808576", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 55, "endIdx": 61}, {"text": "Mexico", "type": "CTRY", "startIdx": 55, "endIdx": 61}]}
+{"tweet_id": "916033377572028417", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "910794409125515264", "location_mentions": []}
+{"tweet_id": "911643116435845121", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 8, "endIdx": 14}]}
+{"tweet_id": "911864113109676033", "location_mentions": []}
+{"tweet_id": "912108666303668224", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 75, "endIdx": 81}]}
+{"tweet_id": "914082511688519680", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 12, "endIdx": 18}]}
+{"tweet_id": "910788269096316928", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 70, "endIdx": 76}]}
+{"tweet_id": "911842067722194944", "location_mentions": [{"text": "MEXICO", "type": "CTRY", "startIdx": 43, "endIdx": 49}]}
+{"tweet_id": "910724243918221312", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 50, "endIdx": 56}]}
+{"tweet_id": "910801289541443584", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 70, "endIdx": 76}]}
+{"tweet_id": "913161790409920512", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 18, "endIdx": 25}, {"text": "Puebla", "type": "STAT", "startIdx": 26, "endIdx": 32}]}
+{"tweet_id": "910542254846107648", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 14, "endIdx": 20}]}
+{"tweet_id": "910680825473130496", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 49, "endIdx": 55}]}
+{"tweet_id": "911982488016302080", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 64, "endIdx": 70}]}
+{"tweet_id": "910541909805985792", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 105, "endIdx": 111}]}
+{"tweet_id": "910541274381348865", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 25, "endIdx": 31}]}
+{"tweet_id": "910551508407681024", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 10, "endIdx": 16}]}
+{"tweet_id": "910579484868345856", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 77, "endIdx": 83}]}
+{"tweet_id": "910764533513207810", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 110, "endIdx": 116}]}
+{"tweet_id": "912019917037277184", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 37, "endIdx": 43}]}
+{"tweet_id": "910579622382669824", "location_mentions": [{"text": "MexicoCity", "type": "CITY", "startIdx": 31, "endIdx": 41}, {"text": "Mexico", "type": "CTRY", "startIdx": 31, "endIdx": 37}]}
+{"tweet_id": "910534290827382784", "location_mentions": [{"text": "Israel", "type": "CTRY", "startIdx": 33, "endIdx": 39}, {"text": "Mexico", "type": "CTRY", "startIdx": 20, "endIdx": 26}]}
+{"tweet_id": "912450372156952576", "location_mentions": []}
+{"tweet_id": "913358185414709248", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 133, "endIdx": 139}]}
+{"tweet_id": "910729129258971136", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 44, "endIdx": 50}, {"text": "Mexico", "type": "CTRY", "startIdx": 44, "endIdx": 50}, {"text": "Houston", "type": "CITY", "startIdx": 85, "endIdx": 92}]}
+{"tweet_id": "910581502685143040", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 39, "endIdx": 45}, {"text": "Mexico City", "type": "CITY", "startIdx": 102, "endIdx": 113}]}
+{"tweet_id": "911789558051700741", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 89, "endIdx": 95}]}
+{"tweet_id": "910779773152002049", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 43, "endIdx": 49}, {"text": "Mexico", "type": "CTRY", "startIdx": 43, "endIdx": 49}]}
+{"tweet_id": "910772492209291264", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 100, "endIdx": 106}]}
+{"tweet_id": "910706220729880577", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 63, "endIdx": 69}]}
+{"tweet_id": "910646781070970880", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 68, "endIdx": 74}]}
+{"tweet_id": "912062765946347521", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 21, "endIdx": 27}]}
+{"tweet_id": "910721451484889088", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 81, "endIdx": 87}, {"text": "PR", "type": "ISL", "startIdx": 113, "endIdx": 115}]}
+{"tweet_id": "910613647029760000", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 67, "endIdx": 73}]}
+{"tweet_id": "912052545614262273", "location_mentions": [{"text": "U.S.", "type": "CTRY", "startIdx": 35, "endIdx": 39}, {"text": "Mexicos", "type": "CTRY", "startIdx": 67, "endIdx": 74}]}
+{"tweet_id": "913233972565594113", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 50, "endIdx": 56}]}
+{"tweet_id": "910790963907432448", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 44, "endIdx": 50}]}
+{"tweet_id": "910558852482924544", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 40, "endIdx": 46}]}
+{"tweet_id": "912205362001887232", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 84, "endIdx": 90}]}
+{"tweet_id": "910584119461011456", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 86, "endIdx": 92}]}
+{"tweet_id": "910617946472407040", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 83, "endIdx": 89}]}
+{"tweet_id": "912452402145579008", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 22, "endIdx": 28}]}
+{"tweet_id": "912370650538549248", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 63, "endIdx": 69}]}
+{"tweet_id": "912222751469047808", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 54, "endIdx": 60}]}
+{"tweet_id": "910649393820319745", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 76, "endIdx": 82}]}
+{"tweet_id": "910724627172864001", "location_mentions": []}
+{"tweet_id": "910633004497747969", "location_mentions": [{"text": "Malala", "type": "CITY", "startIdx": 4, "endIdx": 10}, {"text": "Mexico", "type": "CTRY", "startIdx": 40, "endIdx": 46}]}
+{"tweet_id": "913156154263576577", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 54, "endIdx": 60}]}
+{"tweet_id": "910680961938972672", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 45, "endIdx": 51}, {"text": "UK", "type": "CTRY", "startIdx": 95, "endIdx": 97}]}
+{"tweet_id": "912449638241849345", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 7, "endIdx": 13}, {"text": "China", "type": "CTRY", "startIdx": 15, "endIdx": 20}]}
+{"tweet_id": "913246323423420416", "location_mentions": [{"text": "NorthBeach", "type": "CITY", "startIdx": 49, "endIdx": 59}, {"text": "Mexico", "type": "CTRY", "startIdx": 61, "endIdx": 67}]}
+{"tweet_id": "910563783751462915", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 22, "endIdx": 28}, {"text": "Mexico", "type": "CTRY", "startIdx": 22, "endIdx": 28}, {"text": "MexicoCity", "type": "CITY", "startIdx": 97, "endIdx": 107}]}
+{"tweet_id": "911834773638627328", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 56, "endIdx": 62}]}
+{"tweet_id": "914524908834758656", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 23, "endIdx": 30}]}
+{"tweet_id": "911709117366046720", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 106, "endIdx": 112}]}
+{"tweet_id": "910541941338714114", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 96, "endIdx": 102}]}
+{"tweet_id": "914683956573933568", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 44, "endIdx": 50}]}
+{"tweet_id": "912103358873432065", "location_mentions": [{"text": "US", "type": "CTRY", "startIdx": 51, "endIdx": 53}, {"text": "Mexico", "type": "CTRY", "startIdx": 124, "endIdx": 130}]}
+{"tweet_id": "913283818974515201", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 41, "endIdx": 47}]}
+{"tweet_id": "910551560916217856", "location_mentions": [{"text": "Barcelona", "type": "CITY", "startIdx": 13, "endIdx": 22}, {"text": "Mexico", "type": "CTRY", "startIdx": 92, "endIdx": 98}]}
+{"tweet_id": "912306335420698624", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 46, "endIdx": 52}]}
+{"tweet_id": "910611094946926592", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 57, "endIdx": 63}]}
+{"tweet_id": "910654432341143552", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 81, "endIdx": 88}]}
+{"tweet_id": "915270569058222080", "location_mentions": [{"text": "Ecuador", "type": "CTRY", "startIdx": 31, "endIdx": 38}, {"text": "Mexico", "type": "CTRY", "startIdx": 75, "endIdx": 81}]}
+{"tweet_id": "910691983982653440", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 22, "endIdx": 28}]}
+{"tweet_id": "913562919240994816", "location_mentions": []}
+{"tweet_id": "912118656854745089", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 79, "endIdx": 85}]}
+{"tweet_id": "913485282875293696", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "910558024766414848", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 60, "endIdx": 66}]}
+{"tweet_id": "910540477996265472", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 99, "endIdx": 105}]}
+{"tweet_id": "910567601960509440", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 106, "endIdx": 112}]}
+{"tweet_id": "911736626828550145", "location_mentions": []}
+{"tweet_id": "910707087805739008", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 18, "endIdx": 24}, {"text": "Mexico", "type": "CTRY", "startIdx": 18, "endIdx": 24}]}
+{"tweet_id": "910718602273218560", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 84, "endIdx": 90}]}
+{"tweet_id": "912224771164819457", "location_mentions": []}
+{"tweet_id": "912141585739124737", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 118, "endIdx": 124}]}
+{"tweet_id": "910683632796233728", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 49, "endIdx": 55}, {"text": "Mexicos", "type": "CTRY", "startIdx": 113, "endIdx": 120}]}
+{"tweet_id": "910586429054447616", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 9, "endIdx": 15}, {"text": "Mexico", "type": "CTRY", "startIdx": 9, "endIdx": 15}]}
+{"tweet_id": "911710828877041664", "location_mentions": [{"text": "MEXICO", "type": "CTRY", "startIdx": 38, "endIdx": 44}]}
+{"tweet_id": "910711785862332416", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 28, "endIdx": 34}]}
+{"tweet_id": "910640313131290624", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 112, "endIdx": 118}]}
+{"tweet_id": "912053978799706112", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 91, "endIdx": 97}]}
+{"tweet_id": "912438913465274368", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 69, "endIdx": 76}]}
+{"tweet_id": "913886390903083018", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 1, "endIdx": 7}]}
+{"tweet_id": "910726164863270912", "location_mentions": []}
+{"tweet_id": "910557941006180352", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 55, "endIdx": 61}]}
+{"tweet_id": "910760368212918272", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 13, "endIdx": 19}]}
+{"tweet_id": "910559803717558273", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 20, "endIdx": 26}]}
+{"tweet_id": "912000058991824896", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 49, "endIdx": 55}, {"text": "France", "type": "CTRY", "startIdx": 81, "endIdx": 87}]}
+{"tweet_id": "910536599552761856", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 48, "endIdx": 54}]}
+{"tweet_id": "911719673858854912", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 97, "endIdx": 103}]}
+{"tweet_id": "910733468572815360", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 13, "endIdx": 19}]}
+{"tweet_id": "912054849470164992", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 43, "endIdx": 49}]}
+{"tweet_id": "914621497003540480", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 68, "endIdx": 74}]}
+{"tweet_id": "912140739869597696", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "910618245475864576", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 38, "endIdx": 44}]}
+{"tweet_id": "910581867107172352", "location_mentions": [{"text": "MEXICO", "type": "CTRY", "startIdx": 77, "endIdx": 83}]}
+{"tweet_id": "910580066702172160", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 31, "endIdx": 37}]}
+{"tweet_id": "912131422680489985", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "912966300711997440", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 80, "endIdx": 86}]}
+{"tweet_id": "911958664294039552", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 20, "endIdx": 26}]}
+{"tweet_id": "911699698603274240", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 47, "endIdx": 53}]}
+{"tweet_id": "914931780930686988", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 58, "endIdx": 64}]}
+{"tweet_id": "910769683808215041", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 89, "endIdx": 95}]}
+{"tweet_id": "910549108670132224", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 60, "endIdx": 66}]}
+{"tweet_id": "912343284344700929", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 100, "endIdx": 106}]}
+{"tweet_id": "910696841553043456", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 40, "endIdx": 46}]}
+{"tweet_id": "910703041673879552", "location_mentions": []}
+{"tweet_id": "910773914841812993", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 26, "endIdx": 33}, {"text": "MexicoCity", "type": "CITY", "startIdx": 91, "endIdx": 101}]}
+{"tweet_id": "910676928830550016", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 72, "endIdx": 78}]}
+{"tweet_id": "910683503833919488", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 75, "endIdx": 81}]}
+{"tweet_id": "910713895685361665", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 33, "endIdx": 39}]}
+{"tweet_id": "910554006098817024", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 96, "endIdx": 102}]}
+{"tweet_id": "910709484993032197", "location_mentions": [{"text": "Puebla", "type": "STAT", "startIdx": 80, "endIdx": 86}, {"text": "Guadalajara", "type": "CITY", "startIdx": 103, "endIdx": 114}]}
+{"tweet_id": "910648374533046272", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 30, "endIdx": 36}, {"text": "Mexico", "type": "CTRY", "startIdx": 30, "endIdx": 36}]}
+{"tweet_id": "910626357175922688", "location_mentions": [{"text": "MEXICO", "type": "CTRY", "startIdx": 12, "endIdx": 18}]}
+{"tweet_id": "910541380723785728", "location_mentions": [{"text": "Mexico´s", "type": "CTRY", "startIdx": 56, "endIdx": 64}]}
+{"tweet_id": "913498101125595136", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 39, "endIdx": 45}]}
+{"tweet_id": "911988862561456128", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 51, "endIdx": 57}]}
+{"tweet_id": "911701183668113409", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 54, "endIdx": 60}]}
+{"tweet_id": "910701721848033280", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 33, "endIdx": 39}]}
+{"tweet_id": "911658753103196160", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 68, "endIdx": 74}]}
+{"tweet_id": "910675325415170048", "location_mentions": [{"text": "yokotaro", "type": "CITY", "startIdx": 18, "endIdx": 26}]}
+{"tweet_id": "910576421956759552", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 85, "endIdx": 91}]}
+{"tweet_id": "910575998990655488", "location_mentions": [{"text": "MEXICO", "type": "CTRY", "startIdx": 26, "endIdx": 32}]}
+{"tweet_id": "911766479368056832", "location_mentions": []}
+{"tweet_id": "910622468833820673", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 49, "endIdx": 55}]}
+{"tweet_id": "910577041875095552", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 47, "endIdx": 53}]}
+{"tweet_id": "910657259763490816", "location_mentions": [{"text": "Puerto Rico", "type": "ISL", "startIdx": 78, "endIdx": 89}, {"text": "Mexico", "type": "CTRY", "startIdx": 118, "endIdx": 124}]}
+{"tweet_id": "910642456588378115", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 34, "endIdx": 40}]}
+{"tweet_id": "910540927067754496", "location_mentions": [{"text": "MEXICO", "type": "CTRY", "startIdx": 28, "endIdx": 34}]}
+{"tweet_id": "910524872190652416", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 63, "endIdx": 69}]}
+{"tweet_id": "912176065266765826", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 41, "endIdx": 47}]}
+{"tweet_id": "914256396442640384", "location_mentions": []}
+{"tweet_id": "910806997586472960", "location_mentions": []}
+{"tweet_id": "910614554958168065", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 39, "endIdx": 45}]}
+{"tweet_id": "915202045145112576", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 54, "endIdx": 60}]}
+{"tweet_id": "912367521260548096", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 106, "endIdx": 112}]}
+{"tweet_id": "910563937422237699", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 59, "endIdx": 65}]}
+{"tweet_id": "910553765656322048", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 23, "endIdx": 29}, {"text": "Puerto Rico", "type": "ISL", "startIdx": 57, "endIdx": 68}]}
+{"tweet_id": "911674467528491008", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 53, "endIdx": 59}]}
+{"tweet_id": "912057703022956546", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 50, "endIdx": 56}, {"text": "Mexico", "type": "CTRY", "startIdx": 50, "endIdx": 56}]}
+{"tweet_id": "910634711977836547", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 57, "endIdx": 63}]}
+{"tweet_id": "911664646477803520", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 60, "endIdx": 66}, {"text": "Mexico", "type": "CTRY", "startIdx": 60, "endIdx": 66}]}
+{"tweet_id": "910550739386122240", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 39, "endIdx": 45}]}
+{"tweet_id": "910736932744949760", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 31, "endIdx": 37}]}
+{"tweet_id": "913606565034287104", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 16, "endIdx": 22}]}
+{"tweet_id": "910683328721776641", "location_mentions": [{"text": "U.S.", "type": "CTRY", "startIdx": 38, "endIdx": 42}, {"text": "Mexico", "type": "CTRY", "startIdx": 109, "endIdx": 115}]}
+{"tweet_id": "910626156671418369", "location_mentions": [{"text": "Japan", "type": "CTRY", "startIdx": 11, "endIdx": 16}, {"text": "Mexico", "type": "CTRY", "startIdx": 18, "endIdx": 24}, {"text": "California", "type": "STAT", "startIdx": 65, "endIdx": 75}]}
+{"tweet_id": "910613779897044993", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 58, "endIdx": 64}]}
+{"tweet_id": "910645535463190528", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 78, "endIdx": 84}]}
+{"tweet_id": "910567458595098625", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 57, "endIdx": 63}]}
+{"tweet_id": "912408238678790144", "location_mentions": [{"text": "UK", "type": "CTRY", "startIdx": 74, "endIdx": 76}]}
+{"tweet_id": "910558739215687681", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 99, "endIdx": 105}]}
+{"tweet_id": "910678727951912960", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 97, "endIdx": 103}]}
+{"tweet_id": "910630893772873729", "location_mentions": []}
+{"tweet_id": "912160159622823936", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 56, "endIdx": 62}]}
+{"tweet_id": "910524643441823744", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 54, "endIdx": 60}]}
+{"tweet_id": "911839375608225792", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 112, "endIdx": 118}]}
+{"tweet_id": "913871068544339968", "location_mentions": []}
+{"tweet_id": "911666501228417025", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 109, "endIdx": 115}, {"text": "México", "type": "CTRY", "startIdx": 125, "endIdx": 131}]}
+{"tweet_id": "910571711870812161", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 53, "endIdx": 59}]}
+{"tweet_id": "910543045745025024", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 65, "endIdx": 72}]}
+{"tweet_id": "914479866073972736", "location_mentions": []}
+{"tweet_id": "910775713950773248", "location_mentions": []}
+{"tweet_id": "910715389516161024", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 100, "endIdx": 106}]}
+{"tweet_id": "910685784658796544", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 60, "endIdx": 66}]}
+{"tweet_id": "910726502328627201", "location_mentions": [{"text": "SriLankas", "type": "CTRY", "startIdx": 27, "endIdx": 36}, {"text": "Mexico", "type": "CTRY", "startIdx": 70, "endIdx": 76}]}
+{"tweet_id": "910808449243598848", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 76, "endIdx": 82}]}
+{"tweet_id": "911672316790063105", "location_mentions": [{"text": "MEXICO", "type": "CTRY", "startIdx": 21, "endIdx": 27}, {"text": "Mexico", "type": "CTRY", "startIdx": 75, "endIdx": 81}]}
+{"tweet_id": "911832312345649154", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 64, "endIdx": 70}]}
+{"tweet_id": "912210957308354560", "location_mentions": []}
+{"tweet_id": "910743978030489600", "location_mentions": [{"text": "european_clique", "type": "CONT", "startIdx": 82, "endIdx": 97}]}
+{"tweet_id": "913144289764528128", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 66, "endIdx": 72}]}
+{"tweet_id": "910712547719942144", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 54, "endIdx": 60}, {"text": "Mexico", "type": "CTRY", "startIdx": 54, "endIdx": 60}]}
+{"tweet_id": "910622420817477632", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 44, "endIdx": 50}]}
+{"tweet_id": "915066163608121344", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 42, "endIdx": 48}, {"text": "Mexico", "type": "CTRY", "startIdx": 42, "endIdx": 48}]}
+{"tweet_id": "911634008970334208", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 60, "endIdx": 66}]}
+{"tweet_id": "912000859780861958", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 23, "endIdx": 29}, {"text": "PuertoRico", "type": "ISL", "startIdx": 88, "endIdx": 98}]}
+{"tweet_id": "910573151213547520", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 38, "endIdx": 44}]}
+{"tweet_id": "911655673502535681", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 18, "endIdx": 24}]}
+{"tweet_id": "910654610779512832", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 89, "endIdx": 95}]}
+{"tweet_id": "910553949010145280", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 83, "endIdx": 89}]}
+{"tweet_id": "911907054964572160", "location_mentions": [{"text": "Chiapas", "type": "STAT", "startIdx": 61, "endIdx": 68}, {"text": "Mexico", "type": "CTRY", "startIdx": 70, "endIdx": 76}]}
+{"tweet_id": "910533413269995520", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 59, "endIdx": 65}]}
+{"tweet_id": "910524053521293312", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 61, "endIdx": 67}]}
+{"tweet_id": "910700727957377024", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 41, "endIdx": 47}]}
+{"tweet_id": "910817169566502913", "location_mentions": []}
+{"tweet_id": "910567532376973313", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 48, "endIdx": 54}]}
+{"tweet_id": "910755868693721088", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 22, "endIdx": 28}]}
+{"tweet_id": "910576706531950593", "location_mentions": [{"text": "Puerto Rico", "type": "ISL", "startIdx": 36, "endIdx": 47}, {"text": "Mexico", "type": "CTRY", "startIdx": 74, "endIdx": 80}]}
+{"tweet_id": "910553444737368064", "location_mentions": [{"text": "Mexico City", "type": "CITY", "startIdx": 120, "endIdx": 131}]}
+{"tweet_id": "910643564845125633", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 74, "endIdx": 80}, {"text": "Japan", "type": "CTRY", "startIdx": 86, "endIdx": 91}]}
+{"tweet_id": "911673611856920576", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 35, "endIdx": 41}]}
+{"tweet_id": "910714582796312577", "location_mentions": []}
+{"tweet_id": "913128433118478336", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 109, "endIdx": 115}]}
+{"tweet_id": "912111280403697665", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 86, "endIdx": 92}]}
+{"tweet_id": "910557500826542080", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 65, "endIdx": 71}]}
+{"tweet_id": "910619144206381056", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 46, "endIdx": 52}]}
+{"tweet_id": "910708423930601479", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 29, "endIdx": 35}, {"text": "Edinburgh", "type": "CITY", "startIdx": 97, "endIdx": 106}]}
+{"tweet_id": "913089213071073280", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 57, "endIdx": 63}]}
+{"tweet_id": "910715801484840960", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 33, "endIdx": 39}]}
+{"tweet_id": "913412495196299264", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 59, "endIdx": 65}]}
+{"tweet_id": "910634324793290753", "location_mentions": []}
+{"tweet_id": "910638525346750464", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 89, "endIdx": 95}, {"text": "UK", "type": "CTRY", "startIdx": 101, "endIdx": 103}]}
+{"tweet_id": "912374871673462784", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 16, "endIdx": 22}]}
+{"tweet_id": "910643055421644800", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 69, "endIdx": 75}]}
+{"tweet_id": "912394831401385988", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 75, "endIdx": 81}]}
+{"tweet_id": "912358205426106373", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 65, "endIdx": 71}, {"text": "Mexico", "type": "CTRY", "startIdx": 65, "endIdx": 71}]}
+{"tweet_id": "912420269804982272", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 85, "endIdx": 91}]}
+{"tweet_id": "910656076378513408", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 75, "endIdx": 81}]}
+{"tweet_id": "910693964990287872", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 52, "endIdx": 58}, {"text": "India", "type": "CTRY", "startIdx": 73, "endIdx": 78}, {"text": "Puerto Rico", "type": "ISL", "startIdx": 116, "endIdx": 127}]}
+{"tweet_id": "910713930254835712", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 31, "endIdx": 37}]}
+{"tweet_id": "910646396562362368", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 69, "endIdx": 75}]}
+{"tweet_id": "911770764973531136", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 66, "endIdx": 72}]}
+{"tweet_id": "914739578480812032", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 120, "endIdx": 126}]}
+{"tweet_id": "910610900515778560", "location_mentions": []}
+{"tweet_id": "915076822756466690", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "912165038512734209", "location_mentions": []}
+{"tweet_id": "912087005554630656", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 31, "endIdx": 37}]}
+{"tweet_id": "913594486592360448", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 65, "endIdx": 71}]}
+{"tweet_id": "910704576805908482", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 36, "endIdx": 42}, {"text": "Mexico", "type": "CTRY", "startIdx": 36, "endIdx": 42}]}
+{"tweet_id": "912214828093128704", "location_mentions": [{"text": "Mexico἟2἟D", "type": "CTRY", "startIdx": 84, "endIdx": 94}]}
+{"tweet_id": "913395321119449088", "location_mentions": []}
+{"tweet_id": "914028740392431616", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 94, "endIdx": 100}]}
+{"tweet_id": "910752384216895488", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 41, "endIdx": 47}]}
+{"tweet_id": "910715616755150849", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 72, "endIdx": 78}]}
+{"tweet_id": "910573063560871937", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 53, "endIdx": 59}, {"text": "MexicoCity", "type": "CITY", "startIdx": 116, "endIdx": 126}]}
+{"tweet_id": "910566830497947648", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 79, "endIdx": 85}]}
+{"tweet_id": "910558547166978048", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 59, "endIdx": 65}]}
+{"tweet_id": "910613706630762497", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "910547166090760197", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 75, "endIdx": 81}]}
+{"tweet_id": "910695908332920833", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 70, "endIdx": 76}]}
+{"tweet_id": "910766780079050752", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 74, "endIdx": 80}]}
+{"tweet_id": "910716633567592448", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 43, "endIdx": 49}]}
+{"tweet_id": "911832338891288576", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 56, "endIdx": 62}]}
+{"tweet_id": "912127610695516161", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 114, "endIdx": 120}]}
+{"tweet_id": "910636939442659328", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 55, "endIdx": 61}]}
+{"tweet_id": "912413015387066368", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 121, "endIdx": 127}]}
+{"tweet_id": "910685278909628416", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 74, "endIdx": 80}]}
+{"tweet_id": "910699633021788160", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 30, "endIdx": 36}]}
+{"tweet_id": "910648044441411584", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 50, "endIdx": 56}]}
+{"tweet_id": "911967854647545857", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 81, "endIdx": 87}]}
+{"tweet_id": "911724172749033472", "location_mentions": []}
+{"tweet_id": "910557837041864704", "location_mentions": []}
+{"tweet_id": "910566154137083905", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 42, "endIdx": 48}, {"text": "Puebla", "type": "STAT", "startIdx": 55, "endIdx": 61}, {"text": "Morelos", "type": "STAT", "startIdx": 66, "endIdx": 73}, {"text": "Mexico", "type": "CTRY", "startIdx": 42, "endIdx": 48}]}
+{"tweet_id": "914883695202455552", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 54, "endIdx": 60}]}
+{"tweet_id": "910608324076253184", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 13, "endIdx": 19}, {"text": "Mexico", "type": "CTRY", "startIdx": 13, "endIdx": 19}]}
+{"tweet_id": "910610220522409984", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 13, "endIdx": 19}]}
+{"tweet_id": "910620136612048896", "location_mentions": []}
+{"tweet_id": "912952665159589888", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 105, "endIdx": 111}]}
+{"tweet_id": "912391622381506561", "location_mentions": []}
+{"tweet_id": "911715104676335617", "location_mentions": []}
+{"tweet_id": "910687076537876480", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 41, "endIdx": 47}]}
+{"tweet_id": "910623780799619072", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 65, "endIdx": 71}]}
+{"tweet_id": "910689804643209216", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 35, "endIdx": 41}, {"text": "Mexico", "type": "CTRY", "startIdx": 35, "endIdx": 41}]}
+{"tweet_id": "912089410539278336", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 36, "endIdx": 42}]}
+{"tweet_id": "910641990370435072", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 24, "endIdx": 30}, {"text": "mexico.ὠ7", "type": "CTRY", "startIdx": 103, "endIdx": 112}]}
+{"tweet_id": "910540586670632960", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 102, "endIdx": 108}]}
+{"tweet_id": "912165410455347201", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 44, "endIdx": 50}]}
+{"tweet_id": "913041916740100096", "location_mentions": [{"text": "México", "type": "CTRY", "startIdx": 52, "endIdx": 58}, {"text": "Mexico", "type": "CTRY", "startIdx": 64, "endIdx": 70}]}
+{"tweet_id": "912234541674352640", "location_mentions": []}
+{"tweet_id": "910644201947197440", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 58, "endIdx": 64}]}
+{"tweet_id": "910621873406431233", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 58, "endIdx": 64}]}
+{"tweet_id": "914851251942289413", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 53, "endIdx": 59}]}
+{"tweet_id": "910555202616520707", "location_mentions": [{"text": "Sierra Leone", "type": "CTRY", "startIdx": 79, "endIdx": 91}]}
+{"tweet_id": "910715241364848640", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 91, "endIdx": 97}]}
+{"tweet_id": "910678335277039616", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 68, "endIdx": 74}]}
+{"tweet_id": "910575000150720512", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 88, "endIdx": 94}]}
+{"tweet_id": "910659996039315457", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "910563935086145545", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 93, "endIdx": 99}]}
+{"tweet_id": "910689524400848901", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 66, "endIdx": 72}]}
+{"tweet_id": "912121755476615168", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 78, "endIdx": 84}]}
+{"tweet_id": "910546356132913152", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 42, "endIdx": 48}]}
+{"tweet_id": "913198032606416897", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 135, "endIdx": 141}, {"text": "Puerto Rico", "type": "ISL", "startIdx": 148, "endIdx": 159}]}
+{"tweet_id": "910719063831334917", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 39, "endIdx": 45}]}
+{"tweet_id": "911839770686443520", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 37, "endIdx": 43}]}
+{"tweet_id": "910560698689773568", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 24, "endIdx": 30}, {"text": "Puerto Rico", "type": "ISL", "startIdx": 97, "endIdx": 108}, {"text": "἟5἟7 Virgin Islands", "type": "ISL", "startIdx": 109, "endIdx": 128}]}
+{"tweet_id": "914186594550247425", "location_mentions": []}
+{"tweet_id": "912114536500596736", "location_mentions": [{"text": "mexicoὢ3", "type": "CTRY", "startIdx": 42, "endIdx": 50}]}
+{"tweet_id": "910647556547457024", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 43, "endIdx": 49}]}
+{"tweet_id": "910631419877236736", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 54, "endIdx": 60}]}
+{"tweet_id": "910758621998350336", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "912160170834300929", "location_mentions": [{"text": "Mexico", "type": "CITY", "startIdx": 48, "endIdx": 54}]}
+{"tweet_id": "910709116724707328", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 71, "endIdx": 77}]}
+{"tweet_id": "910525203431571456", "location_mentions": []}
+{"tweet_id": "911977693411004417", "location_mentions": []}
+{"tweet_id": "914917404282642437", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 93, "endIdx": 99}]}
+{"tweet_id": "910706621705326592", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 95, "endIdx": 102}]}
+{"tweet_id": "910761720448028672", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 97, "endIdx": 103}]}
+{"tweet_id": "910576878225850368", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 51, "endIdx": 57}]}
+{"tweet_id": "910537162139029504", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 29, "endIdx": 35}]}
+{"tweet_id": "910609912845275138", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 155, "endIdx": 161}]}
+{"tweet_id": "910621444110934017", "location_mentions": []}
+{"tweet_id": "911702752127881217", "location_mentions": [{"text": "Oaxaca", "type": "STAT", "startIdx": 18, "endIdx": 24}, {"text": "Mexico", "type": "CTRY", "startIdx": 26, "endIdx": 32}]}
+{"tweet_id": "910641497191546880", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 24, "endIdx": 30}, {"text": "MexicoCity", "type": "CITY", "startIdx": 98, "endIdx": 108}, {"text": "CDMX", "type": "CITY", "startIdx": 132, "endIdx": 136}]}
+{"tweet_id": "914926046557954060", "location_mentions": []}
+{"tweet_id": "910542081742995456", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 28, "endIdx": 34}]}
+{"tweet_id": "910785470916853760", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 52, "endIdx": 58}]}
+{"tweet_id": "910790538596638722", "location_mentions": [{"text": "Britain", "type": "CTRY", "startIdx": 33, "endIdx": 40}, {"text": "Mexico", "type": "CTRY", "startIdx": 71, "endIdx": 77}]}
+{"tweet_id": "910567725910548480", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 74, "endIdx": 80}]}
+{"tweet_id": "910573079667068928", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 75, "endIdx": 81}]}
+{"tweet_id": "914898036798697472", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 86, "endIdx": 92}]}
+{"tweet_id": "910541615688593408", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 68, "endIdx": 74}]}
+{"tweet_id": "911672275690237952", "location_mentions": []}
+{"tweet_id": "911643241245634560", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 106, "endIdx": 112}]}
+{"tweet_id": "910546179527602176", "location_mentions": [{"text": "Russia", "type": "CTRY", "startIdx": 1, "endIdx": 7}, {"text": "Mexico", "type": "CTRY", "startIdx": 16, "endIdx": 22}]}
+{"tweet_id": "911961190494085121", "location_mentions": [{"text": "MEXICOS", "type": "CTRY", "startIdx": 10, "endIdx": 17}]}
+{"tweet_id": "910739801695023104", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 106, "endIdx": 112}]}
+{"tweet_id": "910756942288707584", "location_mentions": [{"text": "New Zealand", "type": "CTRY", "startIdx": 0, "endIdx": 11}, {"text": "Mexico", "type": "CTRY", "startIdx": 68, "endIdx": 74}]}
+{"tweet_id": "911654985724706817", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 18, "endIdx": 24}, {"text": "Puebla", "type": "STAT", "startIdx": 77, "endIdx": 83}, {"text": "CDMX", "type": "CITY", "startIdx": 85, "endIdx": 89}, {"text": "Oaxaca", "type": "STAT", "startIdx": 91, "endIdx": 97}, {"text": "Morelos", "type": "STAT", "startIdx": 99, "endIdx": 106}]}
+{"tweet_id": "911698224783622144", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 77, "endIdx": 83}]}
+{"tweet_id": "910654065176043520", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 40, "endIdx": 46}, {"text": "MexicoCity", "type": "CITY", "startIdx": 86, "endIdx": 96}]}
+{"tweet_id": "910647789817696257", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 61, "endIdx": 67}]}
+{"tweet_id": "910577630012829696", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 94, "endIdx": 100}]}
+{"tweet_id": "910770094707318784", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 26, "endIdx": 32}]}
+{"tweet_id": "910624695027884032", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 33, "endIdx": 39}]}
+{"tweet_id": "910657847842676736", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 41, "endIdx": 47}]}
+{"tweet_id": "912447023059570688", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 104, "endIdx": 110}]}
+{"tweet_id": "910613924315369472", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 32, "endIdx": 38}]}
+{"tweet_id": "911689623054757889", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}, {"text": "Oaxaca", "type": "STAT", "startIdx": 59, "endIdx": 65}]}
+{"tweet_id": "910723840279330816", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 57, "endIdx": 64}]}
+{"tweet_id": "910580391823728640", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 48, "endIdx": 54}]}
+{"tweet_id": "912056783270744065", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 34, "endIdx": 40}, {"text": "New York", "type": "STAT", "startIdx": 63, "endIdx": 71}]}
+{"tweet_id": "910617213278732288", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 35, "endIdx": 41}]}
+{"tweet_id": "913044012294123520", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 35, "endIdx": 41}]}
+{"tweet_id": "910633113717547009", "location_mentions": []}
+{"tweet_id": "910541788607328257", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 45, "endIdx": 51}]}
+{"tweet_id": "910537109580038146", "location_mentions": [{"text": "MEXICO", "type": "CTRY", "startIdx": 16, "endIdx": 22}, {"text": "MexicoCity", "type": "CITY", "startIdx": 115, "endIdx": 125}]}
+{"tweet_id": "910550869845852160", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 84, "endIdx": 90}]}
+{"tweet_id": "910637603002605568", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 76, "endIdx": 82}]}
+{"tweet_id": "910567620151205889", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 88, "endIdx": 94}]}
+{"tweet_id": "911655641407561728", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 40, "endIdx": 46}]}
+{"tweet_id": "910611363243859969", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 65, "endIdx": 71}]}
+{"tweet_id": "910525426325372928", "location_mentions": [{"text": "México", "type": "CITY", "startIdx": 68, "endIdx": 74}, {"text": "MEXICO", "type": "CTRY", "startIdx": 124, "endIdx": 130}]}
+{"tweet_id": "910617188192489473", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 65, "endIdx": 71}]}
+{"tweet_id": "911759157417725958", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 46, "endIdx": 52}]}
+{"tweet_id": "910566032976355329", "location_mentions": []}
+{"tweet_id": "910676776715567104", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 85, "endIdx": 91}]}
+{"tweet_id": "910680618073300992", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 68, "endIdx": 74}]}
+{"tweet_id": "913082528050958336", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 3, "endIdx": 9}]}
+{"tweet_id": "910677455496560640", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 102, "endIdx": 108}]}
+{"tweet_id": "910650394405093376", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 60, "endIdx": 66}]}
+{"tweet_id": "911635152597651458", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 39, "endIdx": 45}]}
+{"tweet_id": "911910483661385728", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 22, "endIdx": 28}]}
+{"tweet_id": "910553799479062530", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 120, "endIdx": 126}]}
+{"tweet_id": "910610935995236354", "location_mentions": []}
+{"tweet_id": "910701617866989569", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 104, "endIdx": 110}]}
+{"tweet_id": "912017793276633088", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 105, "endIdx": 111}]}
+{"tweet_id": "913313323126362112", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 130, "endIdx": 136}]}
+{"tweet_id": "910555497354321922", "location_mentions": []}
+{"tweet_id": "910560402781519877", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 22, "endIdx": 28}, {"text": "Mexico", "type": "CTRY", "startIdx": 22, "endIdx": 28}]}
+{"tweet_id": "910565197332410368", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 71, "endIdx": 77}]}
+{"tweet_id": "911710304110809088", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 0, "endIdx": 6}]}
+{"tweet_id": "911746664934854656", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 41, "endIdx": 47}]}
+{"tweet_id": "910777630017781760", "location_mentions": [{"text": "Mexico City", "type": "CITY", "startIdx": 23, "endIdx": 34}]}
+{"tweet_id": "913117870145654786", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 107, "endIdx": 113}]}
+{"tweet_id": "910816237571022848", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 51, "endIdx": 57}]}
+{"tweet_id": "911689928832016384", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 37, "endIdx": 43}]}
+{"tweet_id": "910533215940526081", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 51, "endIdx": 57}]}
+{"tweet_id": "914176803962580993", "location_mentions": [{"text": "California", "type": "STAT", "startIdx": 23, "endIdx": 33}]}
+{"tweet_id": "914162727362236416", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 49, "endIdx": 55}]}
+{"tweet_id": "910636065270112256", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 70, "endIdx": 76}]}
+{"tweet_id": "910614022487023617", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 78, "endIdx": 84}]}
+{"tweet_id": "910627026549145600", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 44, "endIdx": 50}]}
+{"tweet_id": "910642662545354752", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 50, "endIdx": 56}]}
+{"tweet_id": "910563492679254016", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 102, "endIdx": 108}]}
+{"tweet_id": "910681953971482624", "location_mentions": [{"text": "L.A.", "type": "CITY", "startIdx": 9, "endIdx": 13}, {"text": "Mexico", "type": "CTRY", "startIdx": 90, "endIdx": 96}]}
+{"tweet_id": "911988176415281152", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 56, "endIdx": 62}, {"text": "Oaxaca", "type": "STAT", "startIdx": 122, "endIdx": 128}]}
+{"tweet_id": "910579319264575488", "location_mentions": [{"text": "MEXICAN", "type": "CTRY", "startIdx": 1, "endIdx": 8}]}
+{"tweet_id": "910611574821232640", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 23, "endIdx": 29}]}
+{"tweet_id": "914871795605323776", "location_mentions": [{"text": "Mexicos", "type": "CTRY", "startIdx": 89, "endIdx": 96}]}
+{"tweet_id": "910545062546640897", "location_mentions": []}
+{"tweet_id": "910641762519072769", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 56, "endIdx": 62}]}
+{"tweet_id": "913981126267478016", "location_mentions": [{"text": "Japan", "type": "CTRY", "startIdx": 51, "endIdx": 56}, {"text": "Mexico", "type": "CTRY", "startIdx": 97, "endIdx": 103}]}
+{"tweet_id": "911905322985390081", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 37, "endIdx": 43}]}
+{"tweet_id": "910558209739386881", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 111, "endIdx": 117}]}
+{"tweet_id": "910709174211940352", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 53, "endIdx": 59}]}
+{"tweet_id": "910737506160697344", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 67, "endIdx": 73}]}
+{"tweet_id": "914945742275514368", "location_mentions": [{"text": "PuertoRico", "type": "ISL", "startIdx": 91, "endIdx": 101}, {"text": "LasVegas", "type": "CITY", "startIdx": 103, "endIdx": 111}]}
+{"tweet_id": "910707885214015488", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 36, "endIdx": 42}]}
+{"tweet_id": "910547594849402880", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 89, "endIdx": 95}]}
+{"tweet_id": "911622251166015489", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 22, "endIdx": 28}]}
+{"tweet_id": "911804971204710400", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 48, "endIdx": 54}]}
+{"tweet_id": "910576824710701057", "location_mentions": []}
+{"tweet_id": "910807390001483776", "location_mentions": [{"text": "mexico", "type": "CTRY", "startIdx": 1, "endIdx": 7}]}
+{"tweet_id": "910554272500248579", "location_mentions": [{"text": "Mexico", "type": "CTRY", "startIdx": 40, "endIdx": 46}]}
