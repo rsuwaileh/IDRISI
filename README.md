@@ -76,16 +76,6 @@ IDRISI-R<sub>AR</sub>	||||||
 | **Total**            | **2018/10/25 - ongoing**|**6,182**| **4,593**   | **1,619**      | **5,236 (1,370)**| 
 
 
-
- 
-  
-## Annotation Interfaces and instructions
-The figures below presents Append and WebAnno interfaces for the English and Arabic LMR annotation tasks, respectively. 
-
-
-## Statistics
-To show the characteristics of IDRISI-R, we conducted quantitative analysis. Under the [notebooks]() you can regenerate the geographical, temporal, informativeness, location granularity, and the Arabic dialects distributions.
-
   
 ## Citation
 ```
