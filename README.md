@@ -1,5 +1,5 @@
 # IDRISI
-**IDRISI-R** is the largest-scale publicly-available Twitter Location Mention Recognition (LMR) dataset, in both English and Arabic languages. Named after [_Muhammad Al-Idrisi👳🏻‍♂️_](https://en.wikipedia.org/wiki/Muhammad_al-Idrisi), who is one of the pioneers and founders of the advanced geography. The "R" refers to the **r**ecognition task. IDRISI-R contains 41 disaster events of different types (e.g., floods, earthquakes, fires, etc.) that occurred in a wide geographical area of the English and Arabic speaking countries across continents. The annotated LMs were also labeled for different coarse- (e.g., country, city) and fine-grained location types (e.g., streets, POIs). The detailed statistics are provided below.
+**IDRISI-R** is the largest-scale publicly-available Twitter Location Mention Recognition (LMR) dataset, in both English and Arabic languages. Named after [_Muhammad Al-Idrisi👳🏻‍♂️_](https://en.wikipedia.org/wiki/Muhammad_al-Idrisi), who is one of the pioneers and founders of the advanced geography. The "R" refers to the **r**ecognition task. IDRISI-R contains 41 disaster events of different types (e.g., floods, earthquakes, fires, etc.) that occurred in a wide geographical area of the English- and Arabic-speaking countries across continents. The annotated LMs were also labeled for different coarse- (e.g., country, city) and fine-grained location types (e.g., streets, POIs). The detailed statistics are provided below.
 
 
 ## Data Release
@@ -9,16 +9,16 @@ You can download the IDRISI-R datasets from `data` directory that has the follow
 **⚠️ Note**: we are not releasing the _test_ partitions of all datasets since they will be part of the evaluation of a competition called "_Location Mention Recognition from Social Media Text_" that we will announce soon.
 
 **IDRISI-R** is released in two **_versions_**: 
-- `gold`: around 20K and 4.6K human-labeled tweets for English and Arabic, respectively. The annotation was done using crowd wrokersa dn in-house worker for English and Arabic, respectively. 
-- `silver`: around 57K and 1.2M automatically-annotated English and Arabic tweets, respectively. The annotation was done using best performing LMR models.
+- `gold`: around 20K and 4.6K human-labeled tweets for English and Arabic, respectively. The annotation was collected using crowd and in-house workers for English and Arabic, respectively. 
+- `silver`: around 57K and 1.2M automatically annotated English and Arabic tweets, respectively. The annotation was done using the best-performing LMR models.
 
 The tweet datasets naturally support two processing **_setups_** that are:
 - `time-based`: tweets are chronologically-ordered.
-- `random`: tweets are shuffled randonly while discarding their timestamps.
+- `random`: tweets are shuffled randomly while discarding their timestamps.
  
 We release the datasets in both `JSONL` and `BILOU` **_formats_**:
 - `BILOU`:  NER token-based annotation scheme with 5 classes: Beginning, Inside, Last, Outside, and Unit.
-- `JSONL`: every lines corresponds to one tweet with the following properties: `tweet_id`, `user_id`, `text`, `created_at`, `info_class` adoptted from humAID and Kwaraith datasets, and `location_mentions`. 
+- `JSONL`: every lines corresponds to one tweet with the following properties: `tweet_id`, `user_id`, `text`, `created_at`, `info_class` adopted from [humAID]( https://crisisnlp.qcri.org/humaid_dataset) and [Kwaraith]( https://github.com/alaa-a-a/kawarith) datasets, and `location_mentions`. 
 
 Example:
 ```
