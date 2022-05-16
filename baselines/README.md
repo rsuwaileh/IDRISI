@@ -1,5 +1,5 @@
 ## LMR models 
-To establishe solid baselines and enables direct comparison for future development, we benchmarked IDRISI using the available state-of-the-art NER and LMR models under different task and evaluation setups. More details on the models and setups exist in the article (to be made available soon).
+To establish solid baselines and enable direct comparison for future development, we benchmarked IDRISI using the available state-of-the-art NER and LMR models under different task and evaluation setups. More details on the models and setups exist in the article (to be made available soon).
 
 **English models**:
 - CRF: Conditional Random Fields models from the [crfsuite library](https://sklearn-crfsuite.readthedocs.io/). To run this model, run the examples in `en-crf` notebook. 
@@ -19,7 +19,7 @@ Below are the detailed results including Precision (P), Recall (R), and F1 score
 
 ### English Results
 
-The F1 results for the Type-less and Type-based English LMR models on IDRISI-R<sub>EN</sub>
+The F1 results for the Type-less and Type-based English LMR models trained and tested on IDRISI-R<sub>EN</sub> except GPNE model that doesn’t require training (unsupervised model).
 
   ||Random |||||||||Time-based|||||||||
   |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
@@ -69,7 +69,7 @@ The F1 results for the Type-less and Type-based English LMR models on IDRISI-R<s
 
 
 ### Arabic Results
-The F1 results for the Type-less and Type-based Arabic LMR models on IDRISI-R<sub>AR</sub>
+The F1 results for the Type-less and Type-based Arabic LMR models tested on IDRISI-R<sub>AR</sub>. CRF and BERT models are trained on IDRISI-R training subset, but the other models do not allow retraining. 
 
 ||Random ||||||||||||Time-based||||||||||||
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
@@ -94,7 +94,7 @@ The F1 results for the Type-less and Type-based Arabic LMR models on IDRISI-R<su
 
 
 
-The F1 results of `CAMeLBERT` models on IDRISI-R<sub>AR</sub>. 
+The F1 results of `CAMeLBERT` different models trained on different Arabic categories including Modern Standard Arabic (MSA), Classical Arabic (CA), and Dialectical Arabic (DA). These results are for testing the models on IDRISI-R<sub>AR</sub>. 
 
 || Random |||| Time-based||||
 |-|-|-|-|-|-|-|-|-|
