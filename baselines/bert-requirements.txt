@@ -1,0 +1,7 @@
+tqdm==4.43.0
+torch==1.4.0
+transformers
+pytorch-pretrained-bert==0.4.0
+seqeval==0.0.12
+numpy==1.18.1
+pyyaml==5.4.1
