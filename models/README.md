@@ -19,7 +19,6 @@ The models are available through HuggingFace:
 | [IDRISI-LMR-EN-random-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-random-typeless/) | 2 | 16 | 4E-5 | 
 | [IDRISI-LMR-EN-timebased-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-timebased-typebased/) | 3 | 8 | 4E-5 |
 | [IDRISI-LMR-EN-timebased-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-timebased-typeless/) | 2 | 8 | 5E-5 |
-
 | [IDRISI-LMR-AR-random-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-random-typebased/) | 3 | 16 | 3E-5 |
 | [IDRISI-LMR-AR-random-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-random-typeless/) | 4 | 8 | 4E-5 | 
 | [IDRISI-LMR-AR-timebased-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-timebased-typebased/) | 4 | 8 | 4E-5 |
