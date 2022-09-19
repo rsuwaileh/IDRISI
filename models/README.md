@@ -9,18 +9,18 @@ The task setups are:
   - `Type-less`: The LMR model is trained to identify the toponyms' spans in the text without predicting their location types.
 
 
-We tuned each model in light of the recommended hyperparameters and values [in BERT paper](https://aclanthology.org/N19-1423.pdf): batch size of 8, 16 or 32, number of epochs of 2, 3, or 4, and learning rate of 5E-5, 3E-5, or 2E-5. We only release the best performing models on the development splits of IDRISI-R dataset and report the best hyperparameters values.
+We tuned each model in light of the recommended hyperparameters and values [in BERT paper](https://aclanthology.org/N19-1423.pdf): batch size of 8, 16 or 32, number of epochs of 2, 3, or 4, and learning rate of 5E-5, 3E-5, or 2E-5. We only release the best performing models on the development splits of IDRISI-R dataset and report the best hyperparameters values. We report the perfromance results (Precision, Recall, and F1 score) on the *test* splits of **IDRISI** events in the Table below.
 
 The models are available through HuggingFace:
 
-| Target Event | `#epochs` | `#training_batches` | `learning_rate` | 
-|:-|:-|:-|:-|
-| [IDRISI-LMR-EN-random-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-random-typebased/) | 2 | 32 | 4E-5 |
-| [IDRISI-LMR-EN-random-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-random-typeless/) | 2 | 16 | 4E-5 | 
-| [IDRISI-LMR-EN-timebased-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-timebased-typebased/) | 3 | 8 | 4E-5 |
-| [IDRISI-LMR-EN-timebased-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-timebased-typeless/) | 2 | 8 | 5E-5 |
-| [IDRISI-LMR-AR-random-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-random-typebased/) | 3 | 16 | 3E-5 |
-| [IDRISI-LMR-AR-random-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-random-typeless/) | 4 | 8 | 4E-5 | 
-| [IDRISI-LMR-AR-timebased-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-timebased-typebased/) | 4 | 8 | 4E-5 |
-| [IDRISI-LMR-AR-timebased-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-timebased-typeless/) | 4 | 8 | 5E-5 |
+| Target Event | `#epochs` | `#training_batches` | `learning_rate` | P | R | F1 |
+|:-|:-|:-|:-|:-|:-|:-|
+| [IDRISI-LMR-**EN**-random-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-random-typebased/) | 2 | 32 | 4E-5 | 0.904 | 0.908 | 0.900 | 
+| [IDRISI-LMR-**EN**-random-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-random-typeless/) | 2 | 16 | 4E-5 | 0.905 | 0.909 | 0.901
+| [IDRISI-LMR-**EN**-timebased-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-timebased-typebased/) | 3 | 8 | 4E-5 |	0.903 | 0.902 | 0.896 | 
+| [IDRISI-LMR-**EN**-timebased-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-timebased-typeless/) | 2 | 8 | 5E-5 |	0.904 | 0.907 | 0.899 | 
+| [IDRISI-LMR-**AR**-random-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-random-typebased/) | 3 | 16 | 3E-5 | 0.925 | 0.928 | 0.923 | 
+| [IDRISI-LMR-**AR**-random-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-random-typeless/) | 4 | 8 | 4E-5 | 0.926 | 0.921 | 0.919 | 
+| [IDRISI-LMR-**AR**-timebased-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-timebased-typebased/) | 4 | 8 | 4E-5 |	0.916 | 0.925 | 0.914 | 
+| [IDRISI-LMR-**AR**-timebased-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-timebased-typeless/) | 4 | 8 | 5E-5 | 0.914 | 0.921 | 0.911 | 
 
