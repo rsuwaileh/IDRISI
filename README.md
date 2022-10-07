@@ -79,7 +79,7 @@ IDRISI-R<sub>AR</sub>	||||||
   
 ## Citation
 ```
-  @article{rsuwaileh2022Idrisi-r,
+  @article{rsuwaileh2022idrisi-r,
     title={IDRISI-R: Large-scale English and Arabic Location Mention Recognition Datasets for Disaster Response over Twitter},
     author={Suwaileh, Reem and Elsayed, Tamer and Imran, Muhammad},
     journal={...},
