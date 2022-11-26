@@ -6,7 +6,7 @@
 
 You can download the IDRISI-R datasets from `data` directory that has the following naming structure: `data/LMR/<language>/<version>-<setup>-<format>`
 
-**⚠️ Note**: we are not releasing the _test_ partitions of all datasets since they will be part of the evaluation of a competition called "_Location Mention Recognition from Social Media Text_" that we will announce soon.
+**⚠️ Note**: we are not releasing the _test_ partitions of all datasets since they are used for evaluation in the [ITU GeoAI Challange: Location Mention Recognition from Social Media Crisis-related Text](https://geoaichallenge.aiforgood.itu.int/match/matchitem/64). 
 
 **IDRISI-R** is released in two **_versions_**: 
 - `gold`: around 20K and 4.6K human-labeled tweets for English and Arabic, respectively. The annotation was collected using crowd and in-house workers for English and Arabic, respectively. 
@@ -79,7 +79,7 @@ IDRISI-R<sub>AR</sub>	||||||
   
 ## Citation
 ```
-  @article{rsuwaileh2022Idrisi-r,
+  @article{rsuwaileh2022idrisi-r,
     title={IDRISI-R: Large-scale English and Arabic Location Mention Recognition Datasets for Disaster Response over Twitter},
     author={Suwaileh, Reem and Elsayed, Tamer and Imran, Muhammad},
     journal={...},
