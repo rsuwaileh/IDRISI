@@ -5,6 +5,6 @@
 - To check the Location Mention Disambiguation (LMD) datasets, go to the [LMD](https://github.com/rsuwaileh/IDRISI/tree/main/LMD) directory.
 
 For any inqueries, please create a new issue in the repository or contach us via email:
-Reem Suwaileh: `rs081123@qu.edu.qa`
-Tamer Elsayed: `telsayed@qu.edu.qa`
-Muhammad Imran: `mimran@hbku.edu.qa`
+- Reem Suwaileh: `rs081123@qu.edu.qa`
+- Tamer Elsayed: `telsayed@qu.edu.qa`
+- Muhammad Imran: `mimran@hbku.edu.qa`
