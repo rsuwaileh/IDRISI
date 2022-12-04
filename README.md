@@ -6,5 +6,3 @@
 
 For any inqueries, please create a new issue in the repository or contach us via email:
 - Reem Suwaileh: `rs081123@qu.edu.qa`
-- Tamer Elsayed: `telsayed@qu.edu.qa`
-- Muhammad Imran: `mimran@hbku.edu.qa`
