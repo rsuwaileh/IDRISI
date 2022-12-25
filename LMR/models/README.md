@@ -13,14 +13,13 @@ We tuned each model in light of the recommended hyperparameters and values [in B
 
 The models are available through HuggingFace:
 
-| Target Event | `#epochs` | `#training_batches` | `learning_rate` | P | R | F1 |
-|:-|:-|:-|:-|:-|:-|:-|
-| [IDRISI-LMR-**EN**-random-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-random-typebased/) | 2 | 32 | 4E-5 | 0.904 | 0.908 | 0.900 | 
-| [IDRISI-LMR-**EN**-random-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-random-typeless/) | 2 | 16 | 4E-5 | 0.905 | 0.909 | 0.901
-| [IDRISI-LMR-**EN**-timebased-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-timebased-typebased/) | 3 | 8 | 4E-5 |	0.903 | 0.902 | 0.896 | 
-| [IDRISI-LMR-**EN**-timebased-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-timebased-typeless/) | 2 | 8 | 5E-5 |	0.904 | 0.907 | 0.899 | 
-| [IDRISI-LMR-**AR**-random-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-random-typebased/) | 3 | 16 | 3E-5 | 0.925 | 0.928 | 0.923 | 
-| [IDRISI-LMR-**AR**-random-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-random-typeless/) | 4 | 8 | 4E-5 | 0.926 | 0.921 | 0.919 | 
-| [IDRISI-LMR-**AR**-timebased-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-timebased-typebased/) | 4 | 8 | 4E-5 |	0.916 | 0.925 | 0.914 | 
-| [IDRISI-LMR-**AR**-timebased-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-timebased-typeless/) | 4 | 8 | 5E-5 | 0.914 | 0.921 | 0.911 | 
-
+| Target Event | `#epochs` | `#training_batches` | `learning_rate` | `seq length` | P | R | F1 |
+|:-|:-|:-|:-|:-|:-|:-|:-|
+| [IDRISI-LMR-**EN**-random-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-random-typebased/) | 2 | 16 | 5E-5 | 128 | 0.979 | 0.979 | 0.979 | 
+| [IDRISI-LMR-**EN**-random-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-random-typeless/) | 2 | 16 | 4E-5 | 128 | 0.905 | 0.909 | 0.901
+| [IDRISI-LMR-**EN**-timebased-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-timebased-typebased/) | 2 | 32 | 5E-5 |	128 | 0.978 |	0.979	| 0.978 | 
+| [IDRISI-LMR-**EN**-timebased-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-timebased-typeless/) | 2 | 8 | 5E-5 |	128 | 0.904 | 0.907 | 0.899 |
+| [IDRISI-LMR-**AR**-random-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-random-typebased/) | 3 | 8 | 4E-5 | 128 | 0.978 | 0.978 | 0.978 | 
+| [IDRISI-LMR-**AR**-random-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-random-typeless/) | 4 | 8 | 4E-5 | 128 | 0.926 | 0.921 | 0.919 | 
+| [IDRISI-LMR-**AR**-timebased-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-timebased-typebased/) | 4 | 8 | 4E-5 |	256 | 0.973 | 0.975 | 0.973 | 
+| [IDRISI-LMR-**AR**-timebased-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-AR-timebased-typeless/) | 4 | 8 | 5E-5 | 128 | 0.914 | 0.921 | 0.911 | 
