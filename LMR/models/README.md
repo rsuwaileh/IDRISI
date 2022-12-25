@@ -13,7 +13,7 @@ We tuned each model in light of the recommended hyperparameters and values [in B
 
 The models are available through HuggingFace:
 
-| Target Event | `#epochs` | `#training_batches` | `learning_rate` | `seq length` | P | R | F1 |
+| Target Event | `#epochs` | `#training_batches` | `learning_rate` | `seq_length` | P | R | F1 |
 |:-|:-|:-|:-|:-|:-|:-|:-|
 | [IDRISI-LMR-**EN**-random-typebased](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-random-typebased/) | 2 | 16 | 5E-5 | 128 | 0.979 | 0.979 | 0.979 | 
 | [IDRISI-LMR-**EN**-random-typeless](https://huggingface.co/rsuwaileh/IDRISI-LMR-EN-random-typeless/) | 2 | 16 | 4E-5 | 128 | 0.905 | 0.909 | 0.901
