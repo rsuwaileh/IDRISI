@@ -6,5 +6,5 @@ This dataset is licensed under [Creative Commons Attribution 4.0 International L
 - To check the Location Mention Recognition (LMR) datasets, go to the [LMR](https://github.com/rsuwaileh/IDRISI/tree/main/LMR) directory.
 - To check the Location Mention Disambiguation (LMD) datasets, go to the [LMD](https://github.com/rsuwaileh/IDRISI/tree/main/LMD) directory.
 
-For any inqueries, please create a new issue in the repository or contach us via email:
+For any inqueries, please create a new issue in the repository or contact us via email:
 - Reem Suwaileh: `rs081123@qu.edu.qa`
