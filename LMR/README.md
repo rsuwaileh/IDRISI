@@ -79,16 +79,31 @@ IDRISI-R<sub>AR</sub>	||||||
   
 ## Citation
 ```
-  @article{rsuwaileh2022idrisi-r,
-    title={IDRISI-R: Large-scale English and Arabic Location Mention Recognition Datasets for Disaster Response over Twitter},
-    author={Suwaileh, Reem and Elsayed, Tamer and Imran, Muhammad},
-    journal={...},
-    volume={...},
-    pages={...},
-    year={2023},
-    publisher={...}
+  @article{rsuwaileh2023idrisi-re,
+    title = {IDRISI-RE: A generalizable dataset with benchmarks for location mention recognition on disaster tweets},
+    author = {Reem Suwaileh and Tamer Elsayed and Muhammad Imran},
+    journal = {Information Processing & Management},
+    volume = {60},
+    number = {3},
+    pages = {103340},
+    year = {2023},
+    issn = {0306-4573},
+    doi = {https://doi.org/10.1016/j.ipm.2023.103340},
+    url = {https://www.sciencedirect.com/science/article/pii/S0306457323000778},
+    publisher={Elsevier}
   }
-```
+
   
-## Acknowledgments
-This work was made possible by the Graduate Sponsorship Research Award (GSRA) #GSRA5-1-0527-18082 from the Qatar National Research Fund (a member of Qatar Foundation). The statements made herein are solely the responsibility of the authors.
+  @inprocessdings{rsuwaileh2023idrisi-ra,
+    title = {IDRISI-RA: The First Arabic Location Mention Recognition Dataset of Disaster Tweets},
+    author = {Reem Suwaileh and Muhammad Imran and Tamer Elsayed},
+    booktitle = {Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+    month = {may},
+    year = {2023},
+    address = {Toronto, Canada},
+    publisher = {Association for Computational Linguistics},
+    url = {...},
+    doi = {...},
+    pages = {...}
+  } 
+```
