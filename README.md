@@ -13,7 +13,7 @@ For any inqueries, please create a new issue in the repository or contact us via
   
 ## Publications
 ```
-  @article{rsuwaileh2023idrisi-re,
+  @article{rsuwaileh2023idrisire,
     title = {IDRISI-RE: A generalizable dataset with benchmarks for location mention recognition on disaster tweets},
     author = {Reem Suwaileh and Tamer Elsayed and Muhammad Imran},
     journal = {Information Processing & Management},
@@ -28,7 +28,7 @@ For any inqueries, please create a new issue in the repository or contact us via
   }
 
   
-  @inprocessdings{rsuwaileh2023idrisi-ra,
+  @inprocessdings{rsuwaileh2023idrisira,
     title = {IDRISI-RA: The First Arabic Location Mention Recognition Dataset of Disaster Tweets},
     author = {Reem Suwaileh and Muhammad Imran and Tamer Elsayed},
     booktitle = {Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
