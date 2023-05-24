@@ -1,4 +1,4 @@
-The results reported under `IDRISI/baselines` are for the BERT-based LMR models that are trained and finetuned per disaster event from IDRISI-R dataset. As it is not practical to release 19 English and 6 Arabic models for every disaster event, we release four models per language that are trained using the training splits of all events from IDRISI-R dataset under different data and task setups. The underlying BERT-based model is adopted from the [TLLMR4CM GitHub](https://github.com/rsuwaileh/TLLMR4CM/). 
+As it is not practical to release 19 English and 6 Arabic models for every disaster event, we release four models per language that are trained using the training splits of all events from IDRISI-R dataset under different data and task setups. The underlying BERT-based model is adopted from the [TLLMR4CM GitHub](https://github.com/rsuwaileh/TLLMR4CM/). 
 
 The data setups are:
   - `Random`:  The timestamps of tweets are ignored during training.
