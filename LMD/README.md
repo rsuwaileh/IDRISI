@@ -28,7 +28,7 @@ We release the datasets in `JSONL` format where every lines corresponds to one t
 	- `features`: annotator judgements for the usefulness of "event", "hashtags", "urls", "replies", "other_lms", and "entities" features.
 	- `osm_json`: the full OSM json object of the corresponding OSM toponyms assigned by the annotator.
 
-You may check out an example [here](https://jsoneditoronline.org/#left=cloud.f32a352fa45c4bb2843e490ff3830505):
+You may check out an example for JSONL an annotated tweet [here](https://jsoneditoronline.org/#left=cloud.f32a352fa45c4bb2843e490ff3830505).
 
 
   
