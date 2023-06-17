@@ -8,7 +8,7 @@ IDRISI-D datasets inherit the geographical, domain, location types, temporal, in
 This dataset is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode).
 You can download the IDRISI-D datasets from `data` directory that has the following naming structure: `data/<language>/<event>`
 
-**⚠️ Note**: we are not releasing the _test_ partitions of all datasets since they are used for evaluation in the [ITU GeoAI Challange: Location Mention Recognition from Social Media Crisis-related Text](https://geoaichallenge.aiforgood.itu.int/match/matchitem/64). The dataset will be used also in upcoming challenges and shared tasks. 
+**⚠️ Note**: we are not releasing the _test_ partitions of all datasets since they will be used for evaluation in upcoming challenges and shared tasks. 
 
 We release the datasets in `JSONL` format where every lines corresponds to one tweet with the following properties: 
 
