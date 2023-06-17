@@ -4,7 +4,7 @@
 
 ## Data Release
 This dataset is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode).
-You can download the IDRISI-R datasets from `data` directory that has the following naming structure: `data/LMR/<language>/<version>-<setup>-<format>`
+You can download the IDRISI-R datasets from `data` directory that has the following naming structure: `data/<language>/<version>-<setup>-<format>`
 
 **⚠️ Note**: we are not releasing the _test_ partitions of all datasets since they are used for evaluation in the [ITU GeoAI Challange: Location Mention Recognition from Social Media Crisis-related Text](https://geoaichallenge.aiforgood.itu.int/match/matchitem/64). 
 
