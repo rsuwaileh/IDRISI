@@ -22,11 +22,11 @@ We release the datasets in `JSONL` format where every lines corresponds to one t
 	- `start_offset`: the start position of the LM in the tweet's text.
 	- `end_offset`: the end position of the LM in the tweet's text.
 	- `keyword`: keywords used to search OSM during annotation. It's empty when it equals `text`.
-	- `osm_url`: the URL to the corresponding OSM toponym assigned by the annotator on OSM.
-	- `nominatim_url`: the URL to the corresponding OSM toponym assigned by the annotator on Nominatim.
-	- `confidence`: the annotator confidence score between 1 and 3.
+	- `osm_url`: the URL to the corresponding toponym assigned by the annotator on OSM.
+	- `nominatim_url`: the URL to the corresponding toponym assigned by the annotator on Nominatim.
+	- `confidence`: the annotator's confidence score = 1, 2, or 3.
 	- `features`: annotator judgements for the usefulness of "event", "hashtags", "urls", "replies", "other_lms", and "entities" features.
-	- `osm_json`: the full OSM json object of the corresponding OSM toponyms assigned by the annotator.
+	- `osm_json`: the full OSM json object of the corresponding OSM toponym assigned by the annotator.
 
 You may check out an example for JSONL an annotated tweet [here](https://jsoneditoronline.org/#left=cloud.f32a352fa45c4bb2843e490ff3830505).
 
