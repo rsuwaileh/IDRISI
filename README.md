@@ -37,16 +37,16 @@ For any inqueries, please create a new issue in the repository or contact us via
 
   
   @inprocessdings{rsuwaileh2023idrisira,
-    title = {IDRISI-RA: The First Arabic Location Mention Recognition Dataset of Disaster Tweets},
-    author = {Reem Suwaileh and Muhammad Imran and Tamer Elsayed},
-    booktitle = {Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
-    month = {may},
+    title = {{IDRISI}-{RA}: The First {A}rabic Location Mention Recognition Dataset of Disaster Tweets},
+    author = {Suwaileh, Reem  and Imran, Muhammad and Elsayed, Tamer},
+    booktitle = {Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+    month = jul,
     year = {2023},
     address = {Toronto, Canada},
     publisher = {Association for Computational Linguistics},
-    url = {...},
-    doi = {...},
-    pages = {...}
+    url = {https://aclanthology.org/2023.acl-long.901},
+    doi = {10.18653/v1/2023.acl-long.901},
+    pages = {16298--16317}
   }
   
     
