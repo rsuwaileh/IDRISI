@@ -21,7 +21,7 @@ For any inqueries, please create a new issue in the repository or contact us via
 ## Publications
 ```
   @article{rsuwaileh2023idrisire,
-    title = {{IDRISI-RE}: A generalizable dataset with benchmarks for location mention recognition on disaster tweets},
+    title = {{IDRISI}-{RE}: A generalizable dataset with benchmarks for location mention recognition on disaster tweets},
     author = {Reem Suwaileh and Tamer Elsayed and Muhammad Imran},
     journal = {Information Processing & Management},
     volume = {60},
@@ -50,7 +50,7 @@ For any inqueries, please create a new issue in the repository or contact us via
 
 
   @inproceedings{rsuwaileh2024idrisid,
-    title={{IDRISI-D}: English and Arabic Location Mention Disambiguation Resources and Tools over Disaster Tweets},
+    title={{IDRISI}-{D}: English and Arabic Location Mention Disambiguation Resources and Tools over Disaster Tweets},
     author={Suwaileh, Reem and Elsayed, Tamer and Imran, Muhammad},
     booktitle = {Proceedings of ArabicNLP 2023},
     month = dec,
