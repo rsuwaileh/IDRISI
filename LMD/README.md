@@ -30,16 +30,11 @@ We release the datasets in `JSONL` format where every lines corresponds to one t
 
 You may check out an example for JSONL an annotated tweet [here](https://jsoneditoronline.org/#left=cloud.f32a352fa45c4bb2843e490ff3830505).
 
-
-%%The \idd{} datasets are released under the Creative Commons Attribution 4.0 International License: \url{https://creativecommons.org/licenses/by/4.0/legalcode}. The location mention and corresponding toponyms in OSM are made available for the community to enable development of effective LMD models. The data is released in \textbf{JSONL} format where every lines corresponds to one post with the following properties: ``text'', ``created\_at'', ``info\_class'' adopted from \hum{} and \kth{} datasets, and ``location\_mentions''. Every LM has the following properties: ``text'', ``type'', ``start\_offset'', ``end\_offset'', ``keyword'' (used to search for the LM on OSM), ``osm\_url'', ``nominatim\_url'', ``confidence'' (the confidence level of the annotator), and ``features'' (list for usefulness annotations).
-
 We processed the data to de-identify it as follows:
-\begin{itemize}[noitemsep]
-    \item We do not release the user identifiers, i.e., ``user\_id''.
-    \item We replace the user mentions (i.e.,``@'') in the post text  by ``@0'' of the same length as the mention length. For example, if the mention is ``@someuser'', we replace it with ``@00000000''.
-    %\item We replace the entity mentions (Type PER) in the post text by ``@1'' of the same length as the entity length. For example, if the mention is ``Zakir Naik'', we replace it with ``11111 1111''. We used FARASA NER tool to extract the person entities.
-    \item We keep the post ids, i.e., ``id'', to allow recrawling posts for extracting more information, e.g., meta data, social network properties, etc. This allows developing LMR models that utilize different features beyond the textual content.
-\end{itemize}
+- We do not release the the user identifiers, i.e., `user_id`.
+- We replace the user mentions (i.e.,`@`) in the tweet text  by `@0` of the same length as the mention length. For example, if the mention is `@someuser`, we replace it with `@00000000`.
+
+We keep the tweet ids, i.e., `id`, to allow recrawling tweets for extracting more information, e.g., meta data, social network properties, etc. This allows developing LMP models that utilize different features beyond the textual content.
 
   
 ## Citation
@@ -47,9 +42,17 @@ We processed the data to de-identify it as follows:
   @inproceedings{rsuwaileh2024idrisid,
     title={IDRISI-D: English and Arabic Location Mention Disambiguation Resources and Tools over Disaster Tweets},
     author={Suwaileh, Reem and Elsayed, Tamer and Imran, Muhammad},
-    year={2024},
+    booktitle = {Proceedings of ArabicNLP 2023},
+    month = dec,
+    year = {2023},
+    address = {Singapore (Hybrid)},
+    publisher = {Association for Computational Linguistics},
+    url = {https://aclanthology.org/2023.arabicnlp-1.14/},
+    doi = {10.18653/v1/2023.arabicnlp-1.14},
+    pages = {158--169}
   }
 ```
   
 ## Acknowledgments
 This work was made possible by the Graduate Sponsorship Research Award (GSRA) #GSRA5-1-0527-18082 from the Qatar National Research Fund (a member of Qatar Foundation). The statements made herein are solely the responsibility of the authors.
+
