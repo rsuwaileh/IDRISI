@@ -76,6 +76,11 @@ IDRISI-R<sub>AR</sub>	||||||
 | **Total**            | **2018/10/25 - ongoing**|**6,182**| **4,593**   | **1,619**      | **5,236 (1,370)**| 
 
 
+We processed the data to de-identify it as follows:
+- We do not release the the user identifiers, i.e., `user_id`.
+- We replace the user mentions (i.e.,`@`) in the tweet text  by `@0` of the same length as the mention length. For example, if the mention is `@someuser`, we replace it with `@00000000`.
+
+We keep the tweet ids, i.e., `id`, to allow recrawling tweets for extracting more information, e.g., meta data, social network properties, etc. This allows developing LMP models that utilize different features beyond the textual content.
   
 ## Citation
 ```
