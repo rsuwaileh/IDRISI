@@ -85,7 +85,7 @@ We keep the tweet ids, i.e., `id`, to allow recrawling tweets for extracting mor
 ## Citation
 ```
   @article{rsuwaileh2023idrisire,
-    title = {IDRISI-RE: A generalizable dataset with benchmarks for location mention recognition on disaster tweets},
+    title = {{IDRISI-RE}: A generalizable dataset with benchmarks for location mention recognition on disaster tweets},
     author = {Reem Suwaileh and Tamer Elsayed and Muhammad Imran},
     journal = {Information Processing & Management},
     volume = {60},
@@ -100,7 +100,7 @@ We keep the tweet ids, i.e., `id`, to allow recrawling tweets for extracting mor
 
   
   @inprocessdings{rsuwaileh2023idrisira,
-    title = {IDRISI-RA: The First Arabic Location Mention Recognition Dataset of Disaster Tweets},
+    title = {{IDRISI-RA}: The First Arabic Location Mention Recognition Dataset of Disaster Tweets},
     author = {Reem Suwaileh and Muhammad Imran and Tamer Elsayed},
     booktitle = {Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
     month = {may},
