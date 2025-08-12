@@ -40,7 +40,7 @@ We keep the tweet ids, i.e., `id`, to allow recrawling tweets for extracting mor
 ## Citation
 ```
   @inproceedings{rsuwaileh2024idrisid,
-    title={{IDRISI-D}: English and Arabic Location Mention Disambiguation Resources and Tools over Disaster Tweets},
+    title={{IDRISI}-{D}: English and Arabic Location Mention Disambiguation Resources and Tools over Disaster Tweets},
     author={Suwaileh, Reem and Elsayed, Tamer and Imran, Muhammad},
     booktitle = {Proceedings of ArabicNLP 2023},
     month = dec,
@@ -55,5 +55,6 @@ We keep the tweet ids, i.e., `id`, to allow recrawling tweets for extracting mor
   
 ## Acknowledgments
 This work was made possible by the Graduate Sponsorship Research Award (GSRA) #GSRA5-1-0527-18082 from the Qatar National Research Fund (a member of Qatar Foundation). The statements made herein are solely the responsibility of the authors.
+
 
 
