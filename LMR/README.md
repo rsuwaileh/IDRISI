@@ -112,3 +112,6 @@ We keep the tweet ids, i.e., `id`, to allow recrawling tweets for extracting mor
     pages = {16298--16317}
   }
 ```
+  
+## Acknowledgments
+This work was made possible by the Graduate Sponsorship Research Award (GSRA) #GSRA5-1-0527-18082 from the Qatar National Research Fund (a member of Qatar Foundation). The statements made herein are solely the responsibility of the authors.
